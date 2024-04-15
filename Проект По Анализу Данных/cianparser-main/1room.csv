@@ -1,0 +1,977 @@
+author;author_type;link;city;deal_type;accommodation_type;floor;floors_count;rooms_count;total_meters;price_per_m2;price;district;street;underground;residential_complex
+Аеон-Девелопмент;developer;https://www.cian.ru/sale/flat/274260488/;Москва;sale;flat;-1;-1;-1;202.0;111141;22450632;Дорогомилово;Кутузовский проезд;Фили;River Park Towers Кутузовский
+Тауэрс;developer;https://www.cian.ru/sale/flat/286264250/;Москва;sale;flat;41;66;1;51.2;854000;43724800;Пресненский;1-й Красногвардейский проезд;Выставочная;NEVA TOWERS
+MR Group;developer;https://www.cian.ru/sale/flat/283864406/;Москва;sale;flat;-1;-1;-1;202.0;103154;20837134;Филевский парк;;Фили;Фили Сити ЖК
+Пионер;developer;https://www.cian.ru/sale/flat/283969773/;Москва;sale;flat;-1;-1;-1;202.0;79735;16106665;Марьина роща;Полковая;Савёловская;PRIDE
+Sminex-Интеко;developer;https://www.cian.ru/sale/flat/286944836/;Москва;sale;flat;4;6;1;76.6;2436031;186600000;Хамовники;3-й Обыденский переулок;;Обыденский №1
+Absolute Premium;developer;https://www.cian.ru/sale/flat/286935013/;Москва;sale;flat;2;18;1;49.8;672108;33471000;Хамовники;;Воробьёвы горы;Коллекция Лужники ЖК
+VESPER;developer;https://www.cian.ru/sale/flat/270237518/;Москва;sale;flat;-1;-1;-1;-1;-55777772;55777772;Пресненский;2-я Звенигородская;Улица 1905 года;Lucky
+MR Group;developer;https://www.cian.ru/sale/flat/268828622/;Москва;sale;flat;-1;-1;-1;202.0;120310;24302700;Раменки;1-й Сетуньский проезд;Лужники;Hide
+Forma;developer;https://www.cian.ru/sale/flat/280467174/;Москва;sale;flat;-1;-1;-1;202.0;140161;28312650;Пресненский;;Белорусская;Репаблик ЖК
+MR Group;developer;https://www.cian.ru/sale/flat/285682608/;Москва;sale;flat;-1;-1;-1;1.0;25160002;25160002;Беговой;Северный ао;Белорусская;Слава ЖК
+ASTERUS;developer;https://www.cian.ru/sale/flat/274202055/;Москва;sale;flat;-1;-1;-1;202.0;79815;16122800;Покровское-Стрешнево;;Спартак;Алиа ЖК
+VOSHOD;developer;https://www.cian.ru/sale/flat/285674290/;Москва;sale;flat;-1;-1;-1;202.0;179134;36185160;Филевский парк;Василисы Кожиной;Филёвский парк;AHEAD
+GRAVION;developer;https://www.cian.ru/sale/flat/284824189/;Москва;sale;flat;2;9;1;53.17;1036122;55090638;Якиманка;Ленинский проспект;Октябрьская;CULT (Апартаменты премиум-класса)
+MR Group;developer;https://www.cian.ru/sale/flat/271462103/;Москва;sale;flat;-1;-1;-1;202.0;91448;18472662;Савеловский;;Дмитровская;Симфония 34 ЖК
+Пионер;developer;https://www.cian.ru/sale/flat/283250324/;Москва;sale;flat;5;11;1;55.8;763221;42587787;Даниловский;Дербеневская;Павелецкая;OPUS
+Regions Development;developer;https://www.cian.ru/sale/flat/280854456/;Москва;sale;flat;5;17;1;45.85;423767;19429743;Преображенское;;Преображенская площадь;Преображенская Площадь ЖК
+Место;real_estate_agent;https://www.cian.ru/sale/flat/286617137/;Москва;sale;flat;47;58;1;38.5;563636;21700000;Хорошево-Мневники;Народного Ополчения;Народное Ополчение;Wellton Towers
+Capital Group;developer;https://www.cian.ru/sale/flat/283760225/;Москва;sale;flat;12;18;1;48.3;1040000;50232000;Дорогомилово;;Киевская;Бадаевский ЖК
+Донстрой;developer;https://www.cian.ru/sale/flat/286396033/;Москва;sale;flat;6;19;1;44.9;570300;25606470;Хорошево-Мневники;проезд Проектируемый № 1077;Терехово ;Остров
+MR Group;developer;https://www.cian.ru/sale/flat/286945371/;Москва;sale;flat;-1;-1;-1;202.0;89118;18001920;Марьина роща;4-я Марьиной рощи;Марьина роща;Mod
+Пионер;developer;https://www.cian.ru/sale/flat/279362241/;Москва;sale;flat;5;11;1;75.3;759212;57168738;Даниловский;Дербеневская;Павелецкая;OPUS
+Пионер;developer;https://www.cian.ru/sale/flat/280755821/;Москва;sale;flat;16;24;1;50.2;660546;33159459;Даниловский;;Павелецкая;Хай Лайф ЖК
+Стрелецкая Слобода;developer;https://www.cian.ru/sale/flat/280834472/;Москва;sale;flat;5;8;1;57.0;1342000;76494000;Таганский;Большой Николоворобинский переулок;Китай-город;
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/267782227/;Москва;sale;flat;5;7;1;69.9;1044964;73043000;Арбат;Поварская;Арбатская;De Luxe квартал апартаментов 
+Галс-Девелопмент;developer;https://www.cian.ru/sale/flat/275923501/;Москва;sale;flat;3;6;1;59.96;942200;56494312;Замоскворечье;Космодамианская набережная;Новокузнецкая;Клубный дом Космо 4/22
+Regions Development;developer;https://www.cian.ru/sale/flat/287292284/;Москва;sale;flat;3;24;1;44.94;476113;21396534;Нагатинский затон;;Технопарк;Дрим Тауэрс ЖК
+Forma;developer;https://www.cian.ru/sale/flat/283996738/;Москва;sale;flat;-1;-1;-1;202.0;88906;17959039;Аэропорт;Часовая;Красный Балтиец;SOUL
+Capital Group;developer;https://www.cian.ru/sale/flat/282788169/;Москва;sale;flat;33;65;1;46.75;983957;46000000;Пресненский;Краснопресненская набережная;Выставочная;Capital Towers
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/267184580/;Москва;sale;flat;4;7;1;69.7;971520;67715000;Арбат;Поварская;Арбатская;De Luxe квартал апартаментов 
+Sminex-Интеко;developer;https://www.cian.ru/sale/flat/281050891/;Москва;sale;flat;2;14;1;72.6;1826584;132610000;Якиманка;;Третьяковская;Лаврушинский ЖК
+Времена года;real_estate_agent;https://www.cian.ru/sale/flat/286530258/;Москва;sale;flat;5;14;1;61.97;919799;57000000;Хамовники;Усачева;Спортивная;Садовые кварталы
+ОбменРФ - Брусника. Обмен;representative_developer;https://www.cian.ru/sale/flat/284339834/;Москва;sale;flat;9;17;1;35.0;277142;9700000;;;Прокшино;
+Логос;developer;https://www.cian.ru/sale/flat/286010782/;Москва;sale;flat;11;13;1;39.9;553097;22068575;Даниловский;Подольское шоссе;Тульская;Logos
+MR Group;developer;https://www.cian.ru/sale/flat/274969420/;Москва;sale;flat;13;27;1;38.8;534025;20720173;Даниловский;Дубининская;Серпуховская;Павелецкая сити
+White and Broughton;real_estate_agent;https://www.cian.ru/sale/flat/280986757/;Москва;sale;flat;17;41;1;40.4;618811;25000000;Хорошевский;Ленинградский проспект;Аэропорт;Прайм Парк
+Valartis Group;developer;https://www.cian.ru/sale/flat/274789008/;Москва;sale;flat;6;8;1;75.6;860000;65016000;Арбат;Арбат;Арбатская;Turandot Residences
+Valartis Group;developer;https://www.cian.ru/sale/flat/280871038/;Москва;sale;flat;2;5;1;72.9;999999;72900000;Арбат;Арбат;Смоленская;Artisan
+COLDY;developer;https://www.cian.ru/sale/flat/287069912/;Москва;sale;flat;2;14;1;101.0;1586062;160192329;Хамовники;переулок 1-й Тружеников;Киевская;Хамовники 12
+Sminex-Интеко;developer;https://www.cian.ru/sale/flat/281896677/;Москва;sale;flat;1;5;1;45.58;2115840;96440000;Тверской;;Площадь Революции;Ильинка 3/8 ЖК
+Excellent real estate;real_estate_agent;https://www.cian.ru/sale/flat/281674268/;Москва;sale;flat;10;15;1;38.0;284210;10800000;Коптево;бульвар Матроса Железняка;Коптево;
+Донстрой;developer;https://www.cian.ru/sale/flat/286396374/;Москва;sale;flat;2;12;1;71.9;679500;48856050;Раменки;Кинематографический кв-л;Мичуринский проспект;Река ЖК
+Времена года;real_estate_agent;https://www.cian.ru/sale/flat/285378586/;Москва;sale;flat;6;13;1;71.1;1012658;72000000;Хамовники;Усачева;Спортивная;Садовые кварталы
+TEKTA GROUP;developer;https://www.cian.ru/sale/flat/273591420/;Москва;sale;flat;5;20;1;36.9;544200;20080980;Даниловский;проспект Лихачева;Технопарк;Квартал на набережной NOW
+MR Group;developer;https://www.cian.ru/sale/flat/283383779/;Москва;sale;flat;-1;-1;-1;202.0;54291;10966876;Западное Дегунино;Северный ао;Селигерская;Селигер Сити ЖК
+Hutton Development;developer;https://www.cian.ru/sale/flat/282786879/;Москва;sale;flat;3;8;1;52.8;850000;44880000;Таганский;Славянская площадь;Китай-город;LUMIN
+Sminex-Интеко;developer;https://www.cian.ru/sale/flat/287094612/;Москва;sale;flat;11;27;1;45.2;381194;17230000;Очаково-Матвеевское;Аминьевское шоссе;Аминьевская;Вестердам
+Э.К. Девелопмент;developer;https://www.cian.ru/sale/flat/281306257/;Москва;sale;flat;3;25;1;40.2;447999;18009600;Хорошевский;;Беговая;Авиатика ЖК
+Forma;developer;https://www.cian.ru/sale/flat/272864206/;Москва;sale;flat;2;20;1;39.74;392037;15579590;Даниловский;Автозаводская;Тульская;FORST
+Level Group;developer;https://www.cian.ru/sale/flat/286958124/;Москва;sale;flat;-1;-1;-1;202.0;78465;15850014;Хорошево-Мневники;Причальный проезд;Шелепиха;Level Причальный
+OWNSTONE;real_estate_agent;https://www.cian.ru/sale/flat/286818579/;Москва;sale;flat;13;24;1;36.8;434510;15990000;Донской;;Тульская;Новоданиловская 8 ЖК
+NF Group - ex-Knight Frank Russia;real_estate_agent;https://www.cian.ru/sale/flat/283655536/;Москва;sale;flat;16;21;1;48.0;602708;28930000;Раменки;Мосфильмовская;Раменки;Мосфильмовский
+Whitewill;real_estate_agent;https://www.cian.ru/sale/flat/286402225/;Москва;sale;flat;6;41;1;41.0;724390;29700000;Хорошевский;Ленинградский проспект;Аэропорт;Прайм Парк
+А101;developer;https://www.cian.ru/sale/flat/280245573/;Москва;sale;flat;8;10;1;33.2;271280;9006527;;;Улица Горчакова;Дзен-кварталы ЖК
+Level Group;developer;https://www.cian.ru/sale/flat/286789009/;Москва;sale;flat;-1;-1;-1;202.0;66435;13419897;Нагатино-Садовники;Нагатинская набережная;Нагатинская;Level Нагатинская
+Level Group;developer;https://www.cian.ru/sale/flat/284889985/;Москва;sale;flat;24;24;1;33.2;348463;11568981;Печатники;;Кожуховская;Левел Южнопортовая ЖК
+ID 74438895;realtor;https://www.cian.ru/sale/flat/287257962/;Москва;sale;flat;20;34;1;30.6;434640;13300000;Обручевский;Обручева;Калужская;Ever
+РГ-Девелопмент;developer;https://www.cian.ru/sale/flat/284832180/;Москва;sale;flat;8;15;1;37.1;316200;11731020;Головинский;Михалковская;Коптево;Михалковский
+TEKTA GROUP;developer;https://www.cian.ru/sale/flat/286919694/;Москва;sale;flat;13;27;1;45.3;420700;19057710;Даниловский;;Павелецкая;Era
+ТПУ Рассказовка;representative_developer;https://www.cian.ru/sale/flat/286890854/;Москва;sale;flat;3;35;1;37.9;464402;17600873;Левобережный;Фестивальная;Беломорская;Фестиваль парк-2
+Ключи;real_estate_agent;https://www.cian.ru/sale/flat/286203355/;Москва;sale;flat;4;9;1;32.0;359375;11500000;Пресненский;Причальный проезд;Шелепиха;
+Эльвира Чижикова;realtor;https://www.cian.ru/sale/flat/286844698/;Москва;sale;flat;5;9;1;34.0;395588;13450000;Зюзино;Малая Юшуньская;Каховская;
+РГ-Девелопмент;developer;https://www.cian.ru/sale/flat/280126630/;Москва;sale;flat;4;19;1;43.6;358000;15608800;Савеловский;Старый Петровско-Разумовский проезд;Гражданская;Петровский парк II
+TEKTA GROUP;developer;https://www.cian.ru/sale/flat/286924814/;Москва;sale;flat;24;34;1;30.6;470700;14403420;Обручевский;Обручева;Воронцовская;Ever
+А101;developer;https://www.cian.ru/sale/flat/273051751/;Москва;sale;flat;6;15;1;37.2;267977;9968779;;;Прокшино;
+Группа Родина;developer;https://www.cian.ru/sale/flat/285606699/;Москва;sale;flat;4;21;1;47.2;447237;21109600;Ростокино;Сельскохозяйственная;Ботанический сад;СОЮЗ
+А101;developer;https://www.cian.ru/sale/flat/273050168/;Москва;sale;flat;2;15;1;36.3;324487;11778904;;;Прокшино;
+РГ-Девелопмент;developer;https://www.cian.ru/sale/flat/276319755/;Москва;sale;flat;27;27;1;34.9;358000;12494200;Щукино;Берзарина;Карамышевская;Октябрьское поле
+Хлебозавод 9;developer;https://www.cian.ru/sale/flat/278751118/;Москва;sale;flat;2;3;1;33.4;280000;9352000;Преображенское;Электрозаводская;Преображенская площадь;Апартаменты Берег Яузы
+Level Group;developer;https://www.cian.ru/sale/flat/284889346/;Москва;sale;flat;14;24;1;39.4;269343;10612121;Покровское-Стрешнево;проезд Проектируемый № 3959;Тушинская;Апартаментный комплекс Level Стрешнево
+COLDY;developer;https://www.cian.ru/sale/flat/279636993/;Москва;sale;flat;5;21;1;30.09;286000;8605740;Нижегородский;;Калитники;Н'айс Лофт ЖК
+КОРТРОС;developer;https://www.cian.ru/sale/flat/285484894/;Москва;sale;flat;15;32;1;29.93;584697;17500000;Пресненский;Шмитовский проезд;Шелепиха;Headliner
+КРОСТ;developer;https://www.cian.ru/sale/flat/276754512/;Москва;sale;flat;11;21;1;45.2;356000;16091200;Хорошево-Мневники;Народного Ополчения;Народное Ополчение;Wellton Gold
+Константин Кудрявцев;realtor;https://www.cian.ru/sale/flat/283849683/;Москва;sale;flat;1;5;1;12.0;291666;3500000;Текстильщики;Шкулева;Волжская;
+Навигатор;real_estate_agent;https://www.cian.ru/sale/flat/287070684/;Москва;sale;flat;4;9;1;31.5;365079;11500000;Пресненский;Причальный проезд;Шелепиха;
+Ташир;developer;https://www.cian.ru/sale/flat/264100689/;Москва;sale;flat;30;32;1;43.5;492000;21402000;Черемушки;Херсонская;Калужская;ONYX Deluxe
+ФСК;developer;https://www.cian.ru/sale/flat/270815718/;Москва;sale;flat;-1;-1;-1;202.0;103679;20943200;Обручевский;;Калужская;Архитектор ЖК
+КРОСТ;developer;https://www.cian.ru/sale/flat/283267837/;Москва;sale;flat;15;19;1;40.5;418000;16929000;Щукино;Расплетина;Октябрьское поле;Театральный квартал
+Абсолют Недвижимость;representative_developer;https://www.cian.ru/sale/flat/285445279/;Москва;sale;flat;15;23;1;38.5;249374;9600914;Некрасовка;Недорубова;Некрасовка;Квартал Некрасовка
+Optima Development;developer;https://www.cian.ru/sale/flat/284510511/;Москва;sale;flat;10;41;1;40.5;614250;24877125;Хорошевский;Ленинградский проспект;Аэропорт;Прайм Парк
+КОРТРОС;developer;https://www.cian.ru/sale/flat/283481982/;Москва;sale;flat;12;34;1;46.0;358695;16500000;Останкинский;Годовикова;Алексеевская;iLove
+АЯКС;real_estate_agent;https://www.cian.ru/sale/flat/274839833/;Москва;sale;flat;10;17;1;21.3;326291;6950000;;;Саларьево;
+ZAPAD REALTY - офис Маршала Жукова;real_estate_agent;https://www.cian.ru/sale/flat/286193432/;Москва;sale;flat;24;24;1;32.0;703125;22500000;Хорошево-Мневники;Шелепихинская набережная;Шелепиха;Сердце Столицы
+Группа Эталон;developer;https://www.cian.ru/sale/flat/284038238/;Москва;sale;flat;3;14;1;40.3;376587;15176480;Даниловский;;Технопарк;Шагал ЖК
+ФСК;developer;https://www.cian.ru/sale/flat/286780984/;Москва;sale;flat;-1;-1;-1;202.0;61940;12512022;Покровское-Стрешнево;Строительный проезд;Тушинская;Sky Garden
+ФСК;developer;https://www.cian.ru/sale/flat/279103179/;Москва;sale;flat;-1;-1;-1;202.0;46877;9469337;;;Тропарёво;
+Sminex-Интеко;developer;https://www.cian.ru/sale/flat/286447349/;Москва;sale;flat;2;28;1;40.47;420805;17030000;Марфино;Академика Королева;Бутырская;Дом Достижение
+Level Group;developer;https://www.cian.ru/sale/flat/286557668/;Москва;sale;flat;7;21;1;35.6;449821;16013630;Басманный;Большая Почтовая;Электрозаводская;Level Бауманская
+КРОСТ;developer;https://www.cian.ru/sale/flat/286830595/;Москва;sale;flat;15;28;1;39.3;386000;15169800;Хорошево-Мневники;Генерала Глаголева;Карамышевская;Crystal
+А101;developer;https://www.cian.ru/sale/flat/273050329/;Москва;sale;flat;3;14;1;35.1;271684;9536109;;;Ольховая;
+Абсолют Недвижимость;developer;https://www.cian.ru/sale/flat/287088210/;Москва;sale;flat;1;12;1;52.6;228965;12043588;;;Рассказовка;
+МИЦ;developer;https://www.cian.ru/sale/flat/286217706/;Москва;sale;flat;2;17;1;32.7;290800;9509160;Печатники;Шоссейная;Перерва;Графика на воде
+РГ-Девелопмент;developer;https://www.cian.ru/sale/flat/281850036/;Москва;sale;flat;3;9;1;38.5;227000;8739500;Чертаново Южное;;Аннино;Варшавские Ворота ЖК
+Glincom;developer;https://www.cian.ru/sale/flat/270246372/;Москва;sale;flat;1;8;1;37.3;413573;15426300;Савеловский;Верхняя Масловка;Петровский Парк;Verdi
+Новые Ватутинки;developer;https://www.cian.ru/sale/flat/282775587/;Москва;sale;flat;2;14;1;41.2;184100;7584920;;;Ольховая;
+Основа;developer;https://www.cian.ru/sale/flat/286250310/;Москва;sale;flat;-1;-1;-1;-1;-15869056;15869056;Фили-Давыдково;Ивана Франко;Кунцевская;MainStreet
+Основа;developer;https://www.cian.ru/sale/flat/286886182/;Москва;sale;flat;7;31;1;42.18;384068;16200000;Марфино;;Балтийская;Вери ЖК
+Д-Инвест;developer;https://www.cian.ru/sale/flat/273659973/;Москва;sale;flat;8;17;1;32.8;285000;9348000;Останкинский;;Ботанический сад;Легендарный квартал ЖК
+Звездный;developer;https://www.cian.ru/sale/flat/284793741/;Москва;sale;flat;6;22;1;48.6;424055;20609073;Останкинский;проспект Мира;ВДНХ;Сенатор
+МССЗ;representative_developer;https://www.cian.ru/sale/flat/286067702/;Москва;sale;flat;4;19;1;37.0;434473;16075501;Нагатинский затон;;Коломенская;Ривер Парк ЖК
+А101;developer;https://www.cian.ru/sale/flat/277903863/;Москва;sale;flat;15;16;1;35.9;245784;8823655;;;Бунинская аллея;
+Prime Life Development;developer;https://www.cian.ru/sale/flat/283746543/;Москва;sale;flat;11;25;1;39.69;427526;16968545;Нагатино-Садовники;Нагатинская;Нагатинская;1-й Нагатинский
+Группа Эталон;developer;https://www.cian.ru/sale/flat/285077428/;Москва;sale;flat;5;35;1;39.6;402128;15924295;Даниловский;;Технопарк;Нагатино Ай-Ленд ЖК
+Новые Ватутинки;developer;https://www.cian.ru/sale/flat/284961268/;Москва;sale;flat;8;14;1;40.5;227654;9220000;;;Ольховая;
+St Michael;developer;https://www.cian.ru/sale/flat/282823702/;Москва;sale;flat;17;21;1;35.58;520310;18512640;Хорошевский;Зорге;Зорге;Зорге 9
+MR Group;developer;https://www.cian.ru/sale/flat/285041123/;Москва;sale;flat;-1;-1;-1;202.0;84854;17140519;Покровское-Стрешнево;Северо-Западный ао;Трикотажная;Сити Бэй ЖК
+Абсолют Недвижимость;developer;https://www.cian.ru/sale/flat/287089945/;Москва;sale;flat;17;20;1;40.2;222197;8932336;;;Рассказовка;
+А101;developer;https://www.cian.ru/sale/flat/274078614/;Москва;sale;flat;10;30;1;38.5;270220;10403502;Южное Бутово;к2.4;Бунинская аллея;Южные Сады ЖК
+МИЦ;developer;https://www.cian.ru/sale/flat/286215977/;Москва;sale;flat;-1;-1;-1;202.0;40711;8223705;Митино;Пятницкое шоссе;Пятницкое шоссе;Сити-комплекс Перец
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/284661116/;Москва;sale;flat;5;9;1;27.7;355595;9850000;Фили-Давыдково;Ивана Франко;Кунцевская;MainStreet
+МИЦ;developer;https://www.cian.ru/sale/flat/286214775/;Москва;sale;flat;-1;-1;-1;-1;-13534090;13534090;Хорошевский;1-я Магистральная;Хорошёвская;Сити-комплекс Мята
+Новые Ватутинки;developer;https://www.cian.ru/sale/flat/286029882/;Москва;sale;flat;8;14;1;31.5;257796;8120574;;;Ольховая;
+Kalinka Group;real_estate_agent;https://www.cian.ru/sale/flat/281348053/;Москва;sale;flat;18;22;1;46.0;652173;30000000;Тимирязевский;Ивановская;Тимирязевская;
+МИЦ;developer;https://www.cian.ru/sale/flat/286510025/;Москва;sale;flat;-1;-1;-1;202.0;27236;5501869;;;Филатов Луг;
+ID 33082500;homeowner;https://www.cian.ru/sale/flat/287241388/;Москва;sale;flat;2;17;1;37.8;216931;8200000;Некрасовка;Рождественская;Некрасовка;
+МИЦ;developer;https://www.cian.ru/sale/flat/287093750/;Москва;sale;flat;-1;-1;-1;202.0;27249;5504451;;;Филатов Луг;
+ID 101100013;unknown;https://www.cian.ru/sale/flat/285092480/;Москва;sale;flat;9;10;1;35.25;197163;6950000;Дмитровский;Дмитровское шоссе;Яхромская;Город daily
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/279260508/;Москва;sale;flat;25;32;1;41.4;338164;14000000;Южнопортовый;;Волгоградский проспект;Метрополия ЖК
+МГСН-Проспект Мира;real_estate_agent;https://www.cian.ru/sale/flat/286477245/;Москва;sale;flat;11;21;1;38.0;355263;13500000;Академический;Дмитрия Ульянова;Академическая;
+МГСН-Проспект Мира;real_estate_agent;https://www.cian.ru/sale/flat/286473396/;Москва;sale;flat;6;19;1;39.0;344871;13450000;Академический;Дмитрия Ульянова;Академическая;
+ФСК Агент;real_estate_agent;https://www.cian.ru/sale/flat/286565580/;Москва;sale;flat;13;44;1;39.1;447570;17500000;Хорошево-Мневники;;Хорошёво;Сидней Сити ЖК
+Бест-Пресня;real_estate_agent;https://www.cian.ru/sale/flat/287197597/;Москва;sale;flat;9;12;1;36.0;238888;8600000;Перово;Лазо;Перово;
+Homeapp;real_estate_agent;https://www.cian.ru/sale/flat/286057788/;Москва;sale;flat;22;23;1;46.0;229347;10549999;;;Рассказовка;
+Бест-Пресня;real_estate_agent;https://www.cian.ru/sale/flat/285752700/;Москва;sale;flat;7;9;1;35.0;255714;8950000;Северное Медведково;Грекова;Медведково;
+Бест офис на Таганской;real_estate_agent;https://www.cian.ru/sale/flat/286897829/;Москва;sale;flat;4;5;1;15.6;480769;7500000;Останкинский;проезд Ольминского;Алексеевская;
+ID 100094464;homeowner;https://www.cian.ru/sale/flat/283950472/;Москва;sale;flat;5;23;1;31.7;260252;8250000;Некрасовка;Маресьева;Некрасовка;Квартал Некрасовка
+ID 101484603;unknown;https://www.cian.ru/sale/flat/286147241/;Москва;sale;flat;16;17;1;39.0;346128;13499000;Хорошево-Мневники;Демьяна Бедного;Карамышевская;
+СТРОЙИНВЕСТ;real_estate_agent;https://www.cian.ru/sale/flat/280277176/;Москва;sale;flat;2;25;1;38.5;215349;8290950;Некрасовка;Липчанского;Некрасовка;Некрасовка
+СТРОЙИНВЕСТ;real_estate_agent;https://www.cian.ru/sale/flat/280277589/;Москва;sale;flat;5;25;1;38.5;219749;8460350;Некрасовка;Липчанского;Некрасовка;Некрасовка
+СТРОЙИНВЕСТ;real_estate_agent;https://www.cian.ru/sale/flat/280277343/;Москва;sale;flat;18;25;1;39.9;228826;9130180;Некрасовка;Липчанского;Некрасовка;Некрасовка
+Денис Каргин;realtor;https://www.cian.ru/sale/flat/286503325/;Москва;sale;flat;2;3;1;21.1;239336;5049999;Головинский;Солнечногорский проезд;Селигерская;
+Century 21 Street Realty;real_estate_agent;https://www.cian.ru/sale/flat/286398211/;Москва;sale;flat;20;58;1;37.5;554666;20800000;Хорошево-Мневники;Народного Ополчения;Народное Ополчение;Wellton Towers
+Century 21 Street Realty;real_estate_agent;https://www.cian.ru/sale/flat/283442407/;Москва;sale;flat;9;48;1;42.9;431235;18500000;Хорошево-Мневники;Народного Ополчения;Народное Ополчение;Wellton Towers
+Century 21 Street Realty;real_estate_agent;https://www.cian.ru/sale/flat/281435777/;Москва;sale;flat;27;48;1;29.0;551724;16000000;Хорошево-Мневники;Народного Ополчения;Народное Ополчение;Wellton Towers
+СТРОЙИНВЕСТ;real_estate_agent;https://www.cian.ru/sale/flat/279825134/;Москва;sale;flat;15;21;1;46.4;269396;12500000;Черемушки;Нахимовский проспект;Зюзино;Апарт-комплекс Нахимов
+Contact Real Estate;real_estate_agent;https://www.cian.ru/sale/flat/285911726/;Москва;sale;flat;3;55;1;34.34;385425;13235500;Марьина роща;4-я Марьиной рощи;Марьина Роща;Mod
+ID 80301916;realtor;https://www.cian.ru/sale/flat/281197532/;Москва;sale;flat;1;5;1;23.1;166233;3840000;Богородское;Ивантеевская;Бульвар Рокоссовского;
+ИМПЕРИАЛ;official_representative;https://www.cian.ru/sale/flat/272908735/;Москва;sale;flat;1;5;1;23.0;169565;3900000;Богородское;Ивантеевская;Бульвар Рокоссовского;
+Арт Риэлти;real_estate_agent;https://www.cian.ru/sale/flat/282788996/;Москва;sale;flat;9;58;1;32.0;453125;14500000;Хорошево-Мневники;Народного Ополчения;Народное Ополчение;Wellton Towers
+Арт Риэлти;real_estate_agent;https://www.cian.ru/sale/flat/283818505/;Москва;sale;flat;27;48;1;42.0;392857;16500000;Хорошево-Мневники;Народного Ополчения;Народное Ополчение;Wellton Towers
+АЯКС;real_estate_agent;https://www.cian.ru/sale/flat/274840255/;Москва;sale;flat;17;22;1;34.0;382352;13000000;Ярославский;Красная Сосна;ВДНХ;Настроение
+ИМПЕРИАЛ;official_representative;https://www.cian.ru/sale/flat/281463806/;Москва;sale;flat;2;5;1;14.8;401351;5940000;Богородское;Ивантеевская;Бульвар Рокоссовского;
+ID 80301916;realtor;https://www.cian.ru/sale/flat/279837711/;Москва;sale;flat;3;5;1;15.5;383225;5940000;Богородское;Ивантеевская;Бульвар Рокоссовского;
+Бест-Пресня;real_estate_agent;https://www.cian.ru/sale/flat/285069583/;Москва;sale;flat;1;9;1;32.0;240625;7700000;Бескудниковский;Бескудниковский бульвар;Верхние Лихоборы;
+Бест-Пресня;real_estate_agent;https://www.cian.ru/sale/flat/286464146/;Москва;sale;flat;3;9;1;32.5;253846;8250000;Тимирязевский;Дмитровское шоссе;Окружная;
+Isaev Estate;real_estate_agent;https://www.cian.ru/sale/flat/286723389/;Москва;sale;flat;2;16;1;38.6;279792;10800000;Пресненский;Антонова-Овсеенко;Деловой центр;
+ID 66033005;unknown;https://www.cian.ru/sale/flat/285363177/;Москва;sale;flat;12;14;1;37.6;335106;12600000;Солнцево;Боровское шоссе;Говорово;Мещерский лес
+MR Group;developer;https://www.cian.ru/sale/flat/286392412/;Москва;sale;flat;-1;-1;-1;202.0;47991;9694251;Южнопортовый;Волгоградский проспект;Угрешская;Метрополия
+Донстрой;developer;https://www.cian.ru/sale/flat/286133829/;Москва;sale;flat;14;41;1;42.4;464905;19712000;Хорошево-Мневники;Шелепихинская набережная;Шелепиха;Сердце Столицы
+МИЦ;developer;https://www.cian.ru/sale/flat/286214613/;Москва;sale;flat;-1;-1;-1;202.0;70623;14265900;Хорошево-Мневники;3-я Хорошевская;Карамышевская;Вереск
+MR Group;developer;https://www.cian.ru/sale/flat/286352614/;Москва;sale;flat;-1;-1;-1;202.0;72362;14617245;Савеловский;2-я Хуторская;Дмитровская;SYMPHONY 34
+Century 21 Street Realty;real_estate_agent;https://www.cian.ru/sale/flat/281398710/;Москва;sale;flat;41;53;1;33.9;427728;14500000;Хорошево-Мневники;Народного Ополчения;Народное Ополчение;Wellton Towers
+Абсолют Недвижимость;developer;https://www.cian.ru/sale/flat/285444379/;Москва;sale;flat;10;20;1;33.6;241497;8114319;;;Рассказовка;
+КРОСТ;developer;https://www.cian.ru/sale/flat/278559508/;Москва;sale;flat;3;21;1;59.1;251000;14834100;Хорошево-Мневники;Народного Ополчения;Народное Ополчение;Wellton Gold
+Группа Родина;developer;https://www.cian.ru/sale/flat/285606696/;Москва;sale;flat;3;21;1;43.4;469608;20381000;Ростокино;Сельскохозяйственная;Ботанический сад;СОЮЗ
+Valartis Group;developer;https://www.cian.ru/sale/flat/280427152/;Москва;sale;flat;4;5;1;104.7;720000;75384000;Арбат;Арбат;Смоленская;Artisan
+VSN Realty;real_estate_agent;https://www.cian.ru/sale/flat/280644678/;Москва;sale;flat;5;9;1;50.9;420000;21378000;Кунцево;Академика Павлова;Крылатское;TWICE
+VSN Realty;representative_developer;https://www.cian.ru/sale/flat/267674732/;Москва;sale;flat;15;19;1;42.9;323842;13892860;Богородское;3-я Гражданская;Бульвар Рокоссовского;SELF
+3S Group;developer;https://www.cian.ru/sale/flat/286088813/;Москва;sale;flat;24;29;1;34.48;329042;11345400;Богородское;Открытое шоссе;Бульвар Рокоссовского;Талисман на Рокоссовского
+КРОСТ;developer;https://www.cian.ru/sale/flat/286830521/;Москва;sale;flat;4;28;1;36.3;361000;13104300;Хорошево-Мневники;Генерала Глаголева;Карамышевская;Crystal
+Абсолют Недвижимость;representative_developer;https://www.cian.ru/sale/flat/285445583/;Москва;sale;flat;22;22;1;31.2;298252;9305471;Некрасовка;Юго-Восточный ао;Некрасовка;Квартал Некрасовка ЖК
+KR Properties;developer;https://www.cian.ru/sale/flat/282239531/;Москва;sale;flat;5;15;1;48.87;841300;41114331;Пресненский;Столярный переулок;Краснопресненская;Мюр & Мерилиз
+VESPER;developer;https://www.cian.ru/sale/flat/262519733/;Москва;sale;flat;-1;-1;-1;202.0;247647;50024700;Пресненский;Костикова;Улица 1905 года;Lucky
+VSN Realty;real_estate_agent;https://www.cian.ru/sale/flat/280650310/;Москва;sale;flat;7;9;1;51.4;506667;26042684;Кунцево;Академика Павлова;Молодёжная;TWICE
+Абсолют Недвижимость;developer;https://www.cian.ru/sale/flat/285444342/;Москва;sale;flat;14;20;1;48.5;198030;9604463;;;Рассказовка;
+3S Group;developer;https://www.cian.ru/sale/flat/287210624/;Москва;sale;flat;4;29;1;33.51;325000;10890750;Богородское;Открытое шоссе;Бульвар Рокоссовского;Талисман на Рокоссовского
+3S Group;developer;https://www.cian.ru/sale/flat/286088685/;Москва;sale;flat;14;29;1;31.25;382530;11954086;Богородское;Открытое шоссе;Бульвар Рокоссовского;Талисман на Рокоссовского
+TimeProperty;real_estate_agent;https://www.cian.ru/sale/flat/287041004/;Москва;sale;flat;5;55;1;41.34;445754;18427500;Марьина роща;4-я Марьиной рощи;Марьина роща;Mod
+Э.К. Девелопмент;developer;https://www.cian.ru/sale/flat/286088582/;Москва;sale;flat;7;25;1;43.2;439000;18964800;Хорошевский;Маргелова;Беговая;Авиатика
+KR Properties;developer;https://www.cian.ru/sale/flat/286422215/;Москва;sale;flat;3;15;1;48.87;812400;39701988;Пресненский;Столярный переулок;Краснопресненская;Мюр & Мерилиз
+КРОСТ;developer;https://www.cian.ru/sale/flat/282008346/;Москва;sale;flat;11;21;1;40.8;358000;14606400;Хорошево-Мневники;Народного Ополчения;Народное Ополчение;Wellton Gold
+MR Group;developer;https://www.cian.ru/sale/flat/285682556/;Москва;sale;flat;4;15;1;41.8;599000;25038200;Беговой;Северный ао;Белорусская;Слава ЖК
+ПИК;developer;https://www.cian.ru/sale/flat/277021118/;Москва;sale;flat;2;32;1;35.1;254721;8940742;Северное Медведково;к1.1;Медведково;Полар ЖК
+Абсолют Недвижимость;representative_developer;https://www.cian.ru/sale/flat/285445261/;Москва;sale;flat;15;23;1;34.7;284908;9886326;Некрасовка;;Некрасовка;Квартал Некрасовка ЖК
+ФСК;developer;https://www.cian.ru/sale/flat/275102415/;Москва;sale;flat;-1;-1;-1;202.0;89208;18020136;Хорошево-Мневники;;Народное Ополчение;Сидней Сити ЖК
+Ташир;developer;https://www.cian.ru/sale/flat/264100682/;Москва;sale;flat;29;32;1;43.2;490999;21211200;Черемушки;Херсонская;Калужская;ONYX Deluxe
+СИТИ21;developer;https://www.cian.ru/sale/flat/279205873/;Москва;sale;flat;15;15;1;46.5;575762;26772954;Останкинский;проспект Мира;Алексеевская;Hill8
+494 УНР;developer;https://www.cian.ru/sale/flat/283737463/;Москва;sale;flat;3;20;1;41.9;661000;27695900;Сокольники;Матросская Тишина;Сокольники;Ренессанс
+VESPER;developer;https://www.cian.ru/sale/flat/269051089/;Москва;sale;flat;-1;-1;-1;202.0;283772;57321950;Пресненский;Костикова;Улица 1905 года;Lucky
+Стрелецкая Слобода;developer;https://www.cian.ru/sale/flat/280834499/;Москва;sale;flat;6;8;1;57.0;1361000;77577000;Таганский;Большой Николоворобинский переулок;Китай-город;
+ПИК;developer;https://www.cian.ru/sale/flat/286096479/;Москва;sale;flat;8;9;1;37.84;185132;7005432;;;Филатов Луг;
+ПИК;developer;https://www.cian.ru/sale/flat/281865151/;Москва;sale;flat;27;32;1;35.2;247550;8713795;Северное Медведково;к1.3;Медведково;Полар ЖК
+Донстрой;developer;https://www.cian.ru/sale/flat/286133732/;Москва;sale;flat;41;41;1;43.0;514325;22115975;Хорошево-Мневники;Шелепихинская набережная;Шелепиха;Сердце Столицы
+Sminex-Интеко;developer;https://www.cian.ru/sale/flat/286448159/;Москва;sale;flat;16;26;1;36.49;442861;16160000;Марфино;Академика Королева;Бутырская;Дом Достижение
+Э.К. Девелопмент;developer;https://www.cian.ru/sale/flat/286088580/;Москва;sale;flat;17;25;1;43.2;440000;19008000;Хорошевский;Маргелова;Беговая;Авиатика
+MR Group;developer;https://www.cian.ru/sale/flat/272090946/;Москва;sale;flat;40;43;1;48.0;446489;21431492;Западное Дегунино;Ильменский проезд;Селигерская;Селигер Сити
+КРОСТ;developer;https://www.cian.ru/sale/flat/286830612/;Москва;sale;flat;18;28;1;39.3;391000;15366300;Хорошево-Мневники;Генерала Глаголева;Карамышевская;Crystal
+Донстрой;developer;https://www.cian.ru/sale/flat/286133825/;Москва;sale;flat;25;41;1;42.4;535660;22712000;Хорошево-Мневники;Шелепихинская набережная;Шелепиха;Сердце Столицы
+VSN Realty;representative_developer;https://www.cian.ru/sale/flat/272192305/;Москва;sale;flat;7;19;1;39.4;357049;14067767;Богородское;3-я Гражданская;Бульвар Рокоссовского;SELF
+Ташир;developer;https://www.cian.ru/sale/flat/264100708/;Москва;sale;flat;31;32;1;43.5;493000;21445500;Черемушки;Херсонская;Калужская;ONYX Deluxe
+Ташир;developer;https://www.cian.ru/sale/flat/264100717/;Москва;sale;flat;32;32;1;43.6;494000;21538400;Черемушки;Херсонская;Калужская;ONYX Deluxe
+Стрелецкая Слобода;developer;https://www.cian.ru/sale/flat/281377533/;Москва;sale;flat;6;8;1;57.0;1361000;77577000;Таганский;Большой Николоворобинский переулок;Китай-город;
+TimeProperty;real_estate_agent;https://www.cian.ru/sale/flat/287040698/;Москва;sale;flat;5;55;1;41.33;445862;18427500;Марьина роща;4-я Марьиной рощи;Марьина роща;Mod
+TimeProperty;real_estate_agent;https://www.cian.ru/sale/flat/287040322/;Москва;sale;flat;8;55;1;43.53;440213;19162500;Марьина роща;4-я Марьиной рощи;Марьина роща;Mod
+ПИК;developer;https://www.cian.ru/sale/flat/280318246/;Москва;sale;flat;23;23;1;35.6;289870;10319372;Текстильщики;Юго-Восточный ао;Текстильщики;Волжский Парк ЖК
+ПИК;developer;https://www.cian.ru/sale/flat/286288578/;Москва;sale;flat;8;17;1;32.6;271588;8853801;Текстильщики;Юго-Восточный ао;Текстильщики;Волжский Парк ЖК
+А101;developer;https://www.cian.ru/sale/flat/278068263/;Москва;sale;flat;2;15;1;36.7;275813;10122361;;;Улица Скобелевская;
+Пионер;developer;https://www.cian.ru/sale/flat/283684664/;Москва;sale;flat;6;10;1;41.12;439313;18064567;Москворечье-Сабурово;переулок 2-й Котляковский;Каширская;LIFE-Варшавская
+Основа;developer;https://www.cian.ru/sale/flat/286886173/;Москва;sale;flat;10;31;1;40.09;452999;18160770;Марфино;;Балтийская;Вери ЖК
+MR Group;developer;https://www.cian.ru/sale/flat/267483516/;Москва;sale;flat;10;55;1;43.45;426724;18541201;Марьина роща;4-я Марьиной рощи;Рижская;Mod
+Донстрой;developer;https://www.cian.ru/sale/flat/286396243/;Москва;sale;flat;20;22;1;38.3;662400;25369920;Хорошево-Мневники;проезд Проектируемый № 1074;Терехово ;Остров
+Донстрой;developer;https://www.cian.ru/sale/flat/286395181/;Москва;sale;flat;4;11;1;43.0;600500;25821500;Хорошево-Мневники;Нижние Мневники;Терехово ;Остров
+Forma;developer;https://www.cian.ru/sale/flat/284059753/;Москва;sale;flat;-1;-1;-1;202.0;160520;32425138;Пресненский;к1.1;Белорусская;Репаблик ЖК
+Стрелецкая Слобода;developer;https://www.cian.ru/sale/flat/281377539/;Москва;sale;flat;7;8;1;57.0;1425000;81225000;Таганский;Большой Николоворобинский переулок;Китай-город;
+VSN Realty;real_estate_agent;https://www.cian.ru/sale/flat/287245095/;Москва;sale;flat;1;9;1;47.7;499270;23815186;Кунцево;Академика Павлова;Молодёжная;TWICE
+ПИК;developer;https://www.cian.ru/sale/flat/284094787/;Москва;sale;flat;5;17;1;32.5;259064;8419612;;;Бунинская аллея;
+ПИК;developer;https://www.cian.ru/sale/flat/281865138/;Москва;sale;flat;21;32;1;36.9;251085;9265073;Северное Медведково;к1.1;Медведково;Полар ЖК
+Level Group;developer;https://www.cian.ru/sale/flat/284889591/;Москва;sale;flat;-1;-1;-1;202.0;82109;16586022;Хорошево-Мневники;Причальный проезд;Шелепиха;Level Причальный
+MR Group;developer;https://www.cian.ru/sale/flat/264958694/;Москва;sale;flat;27;55;1;43.5;426523;18553751;Марьина роща;4-я Марьиной рощи;Марьина роща;Mod
+Абсолют Недвижимость;representative_developer;https://www.cian.ru/sale/flat/285445579/;Москва;sale;flat;22;22;1;34.5;276251;9530666;Некрасовка;Юго-Восточный ао;Некрасовка;Квартал Некрасовка ЖК
+КРОСТ;developer;https://www.cian.ru/sale/flat/281060957/;Москва;sale;flat;5;21;1;43.3;339000;14678700;Хорошево-Мневники;Народного Ополчения;Народное Ополчение;Wellton Gold
+ПИК;developer;https://www.cian.ru/sale/flat/277515086/;Москва;sale;flat;3;28;1;44.6;321000;14316600;Щукино;Волоколамское шоссе;Стрешнево;Волоколамское 24
+GloraX;developer;https://www.cian.ru/sale/flat/277738013/;Москва;sale;flat;2;21;1;53.27;459170;24459999;Беговой;1-я Ямского Поля;Белорусская;Глоракс Премиум Белорусская
+ПИК;developer;https://www.cian.ru/sale/flat/278089136/;Москва;sale;flat;33;33;1;44.0;237047;10430068;Алтуфьевский;Алтуфьевское шоссе;Дегунино;Алтуфьевское 53
+Ключи;real_estate_agent;https://www.cian.ru/sale/flat/286627773/;Москва;sale;flat;2;16;1;38.6;279792;10800000;Пресненский;Антонова-Овсеенко;Деловой центр;
+Ключи;real_estate_agent;https://www.cian.ru/sale/flat/286079324/;Москва;sale;flat;10;13;1;38.8;265463;10300000;Новогиреево;Зеленый проспект;Новогиреево;
+ID 101904221;developer;https://www.cian.ru/sale/flat/286016309/;Москва;sale;flat;14;25;1;38.39;218950;8405491;Люблино;Юго-Восточный ао;Марьино;Светлый Мир Станция Л ЖК
+МИЦ;developer;https://www.cian.ru/sale/flat/286214795/;Москва;sale;flat;-1;-1;-1;-1;-12806400;12806400;Хорошевский;1-я Магистральная;Хорошёвская;Сити-комплекс Мята
+ПИК;developer;https://www.cian.ru/sale/flat/270792015/;Москва;sale;flat;2;33;1;36.4;396121;14418840;Кунцево;Академика Павлова;Крылатское;Академика Павлова
+А101;developer;https://www.cian.ru/sale/flat/286846990/;Москва;sale;flat;8;14;1;23.7;317676;7528943;;;Улица Горчакова;
+МИЦ;developer;https://www.cian.ru/sale/flat/286214784/;Москва;sale;flat;-1;-1;-1;-1;-12964390;12964390;Хорошевский;1-я Магистральная;Хорошёвская;Сити-комплекс Мята
+VOSHOD;developer;https://www.cian.ru/sale/flat/285674296/;Москва;sale;flat;-1;-1;-1;202.0;168637;34064711;Филевский парк;Василисы Кожиной;Филёвский парк;AHEAD
+ПИК;developer;https://www.cian.ru/sale/flat/282450421/;Москва;sale;flat;30;33;1;39.54;322479;12750828;Дмитровский;;Яхромская;Дмитровский Парк ЖК
+ФСК;developer;https://www.cian.ru/sale/flat/278387245/;Москва;sale;flat;-1;-1;-1;2.0;8389381;16778762;Хорошевский;Зорге;Зорге;Рихард
+ПИК;developer;https://www.cian.ru/sale/flat/279627223/;Москва;sale;flat;19;21;1;31.9;366700;11697730;Тимирязевский;3-й Нижнелихоборский проезд;Окружная;Большая Академическая 85
+ФСК;developer;https://www.cian.ru/sale/flat/281553062/;Москва;sale;flat;-1;-1;-1;202.0;106168;21446040;Свиблово;Снежная;Свиблово;The Lake
+ДОНСТРОЙ;developer;https://www.cian.ru/sale/flat/286394380/;Москва;sale;flat;9;27;1;43.5;412500;17943750;Лефортово;бульвар Сенкевича;Площадь Ильича;Символ
+ПИК;developer;https://www.cian.ru/sale/flat/276937852/;Москва;sale;flat;16;16;1;32.2;262397;8449215;Люблино;;Депо;Люблинский парк ЖК
+МИЦ;developer;https://www.cian.ru/sale/flat/286214787/;Москва;sale;flat;-1;-1;-1;-1;-13662950;13662950;Хорошевский;1-я Магистральная;Хорошёвская;Сити-комплекс Мята
+ПИК;developer;https://www.cian.ru/sale/flat/270792254/;Москва;sale;flat;21;33;1;40.1;445308;17856890;Кунцево;Академика Павлова;Крылатское;Академика Павлова
+ПИК;developer;https://www.cian.ru/sale/flat/274205506/;Москва;sale;flat;24;33;1;32.7;258911;8466422;Западное Дегунино;Северный ао;Лианозово;Бусиновский Парк ЖК
+ДСК-1;developer;https://www.cian.ru/sale/flat/270376421/;Москва;sale;flat;-1;-1;-1;202.0;42319;8548529;Молжаниновский;Ленинградское шоссе;Беломорская;Первый Ленинградский
+ПИК;developer;https://www.cian.ru/sale/flat/276378859/;Москва;sale;flat;22;33;1;36.4;415615;15128386;Кунцево;Академика Павлова;Крылатское;Академика Павлова
+ПИК;developer;https://www.cian.ru/sale/flat/278390967/;Москва;sale;flat;15;24;1;32.1;325724;10455772;Бабушкинский;;Свиблово;Кольская 8 ЖК
+ПИК;developer;https://www.cian.ru/sale/flat/270787716/;Москва;sale;flat;29;33;1;39.54;325623;12875145;Дмитровский;;Яхромская;Дмитровский Парк ЖК
+ПИК;developer;https://www.cian.ru/sale/flat/277021153/;Москва;sale;flat;24;32;1;35.1;251085;8813118;Северное Медведково;к1.3;Медведково;Полар ЖК
+Isaev Estate;real_estate_agent;https://www.cian.ru/sale/flat/286282325/;Москва;sale;flat;10;13;1;38.8;265463;10300000;Новогиреево;Зеленый проспект;Новогиреево;
+Бест-Пресня;real_estate_agent;https://www.cian.ru/sale/flat/286726268/;Москва;sale;flat;1;17;1;37.6;226063;8500000;Солнцево;Богданова;Солнцево;
+ПИК;developer;https://www.cian.ru/sale/flat/286830934/;Москва;sale;flat;16;16;1;32.2;250075;8052447;Люблино;;Депо;Люблинский парк ЖК
+Grand.Classic;real_estate_agent;https://www.cian.ru/sale/flat/276658007/;Москва;sale;flat;7;14;1;37.0;224324;8300000;;;Ольховая;
+А101;developer;https://www.cian.ru/sale/flat/282394896/;Москва;sale;flat;2;15;1;38.3;293470;11239901;;;Саларьево;
+KR Properties;developer;https://www.cian.ru/sale/flat/275220041/;Москва;sale;flat;5;5;1;127.4;991900;126368060;Хамовники;Зубовская;Парк Культуры;Metropol Serviced Residences
+ID 101904221;developer;https://www.cian.ru/sale/flat/286016007/;Москва;sale;flat;24;25;1;34.64;220750;7646780;Люблино;Юго-Восточный ао;Марьино;Светлый Мир Станция Л ЖК
+ПИК;developer;https://www.cian.ru/sale/flat/287096226/;Москва;sale;flat;18;21;1;33.6;335700;11279520;Тимирязевский;3-й Нижнелихоборский проезд;Окружная;Большая Академическая 85
+Пионер;developer;https://www.cian.ru/sale/flat/283969797/;Москва;sale;flat;-1;-1;-1;202.0;80123;16185044;Марьина роща;Полковая;Савёловская;PRIDE
+Д-Инвест;developer;https://www.cian.ru/sale/flat/272751487/;Москва;sale;flat;4;18;1;32.2;288000;9273600;Останкинский;;Ботанический сад;Легендарный квартал ЖК
+VSN Realty;real_estate_agent;https://www.cian.ru/sale/flat/280650585/;Москва;sale;flat;5;9;1;55.1;498267;27454545;Кунцево;Академика Павлова;Молодёжная;TWICE
+ПИК;developer;https://www.cian.ru/sale/flat/283073215/;Москва;sale;flat;4;33;1;41.4;376225;15575715;Кунцево;Академика Павлова;Крылатское;Академика Павлова
+А101;developer;https://www.cian.ru/sale/flat/281573998/;Москва;sale;flat;10;16;1;36.9;296659;10946728;;;Прокшино;
+ПИК;developer;https://www.cian.ru/sale/flat/278396514/;Москва;sale;flat;21;33;1;41.5;385416;15994764;Кунцево;Академика Павлова;Крылатское;Академика Павлова
+А101;developer;https://www.cian.ru/sale/flat/273873706/;Москва;sale;flat;16;30;1;36.1;278068;10038267;Южное Бутово;к2.3;Бунинская аллея;Южные Сады ЖК
+ПИК;developer;https://www.cian.ru/sale/flat/277431987/;Москва;sale;flat;9;33;1;32.3;260074;8400422;Метрогородок;к1/2;Бульвар Рокоссовского;Открытый Парк ЖК
+ПИК;developer;https://www.cian.ru/sale/flat/270792427/;Москва;sale;flat;31;33;1;41.6;386223;16066918;Кунцево;Академика Павлова;Крылатское;Академика Павлова
+ПИК;developer;https://www.cian.ru/sale/flat/274774422/;Москва;sale;flat;17;33;1;31.3;316735;9913836;Нагатино-Садовники;к1.1;Нагатинская;Второй Нагатинский ЖК
+Upside Development;developer;https://www.cian.ru/sale/flat/273638276/;Москва;sale;flat;6;8;1;37.14;221300;8219082;Бибирево;Корнейчука;Медведково;Clementine
+ID 96167522;realtor;https://www.cian.ru/sale/flat/279847997/;Москва;sale;flat;3;9;1;26.5;277830;7362500;Люблино;Верхние Поля;Братиславская;
+ID 96167522;realtor;https://www.cian.ru/sale/flat/278816863/;Москва;sale;flat;5;9;1;29.6;265929;7871500;Люблино;Верхние Поля;Братиславская;
+ID 96167522;realtor;https://www.cian.ru/sale/flat/278819371/;Москва;sale;flat;2;9;1;25.3;236561;5985000;Люблино;Верхние Поля;Братиславская;
+ID 96167522;realtor;https://www.cian.ru/sale/flat/278821154/;Москва;sale;flat;6;9;1;25.0;243200;6080000;Люблино;Верхние Поля;Братиславская;
+BERI;real_estate_agent;https://www.cian.ru/sale/flat/286929845/;Москва;sale;flat;2;8;1;48.5;412164;19990000;Замоскворечье;Космодамианская набережная;Павелецкая;
+ID 12564578;homeowner;https://www.cian.ru/sale/flat/273314840/;Москва;sale;flat;9;9;1;31.2;365384;11400000;Даниловский;Дербеневская набережная;Павелецкая;
+ID 96167522;realtor;https://www.cian.ru/sale/flat/278820310/;Москва;sale;flat;4;9;1;25.0;243200;6080000;Люблино;Верхние Поля;Братиславская;
+ID 96167522;realtor;https://www.cian.ru/sale/flat/285804531/;Москва;sale;flat;9;9;1;26.4;284280;7505000;Люблино;Верхние Поля;Братиславская;
+ПИК;developer;https://www.cian.ru/sale/flat/284096065/;Москва;sale;flat;3;17;1;32.5;212100;6893250;Южное Бутово;;Щербинка;Никольские Луга ЖК
+ID 96167522;realtor;https://www.cian.ru/sale/flat/284408968/;Москва;sale;flat;1;9;1;25.3;222351;5625500;Люблино;Верхние Поля;Братиславская;
+ID 96167522;realtor;https://www.cian.ru/sale/flat/279846898/;Москва;sale;flat;1;9;1;25.8;224612;5795000;Люблино;Верхние Поля;Братиславская;
+ID 96167522;realtor;https://www.cian.ru/sale/flat/278821463/;Москва;sale;flat;9;9;1;25.2;242559;6112500;Люблино;Верхние Поля;Братиславская;
+ID 13544436;realtor;https://www.cian.ru/sale/flat/287014503/;Москва;sale;flat;2;6;1;38.0;225789;8580000;;;Филатов Луг;
+ФСК;developer;https://www.cian.ru/sale/flat/271319121/;Москва;sale;flat;-1;-1;-1;1.0;17343400;17343400;Хорошевский;Зорге;Зорге;Рихард
+Realty Point - Точка недвижимости;real_estate_agent;https://www.cian.ru/sale/flat/286182757/;Москва;sale;flat;14;16;1;27.2;256985;6990000;;;Прокшино;
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/280331173/;Москва;sale;flat;14;23;1;39.4;304314;11990000;Солнцево;Производственная;Солнцево;Лучи
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/286022522/;Москва;sale;flat;10;13;1;38.8;265463;10300000;Новогиреево;Зеленый проспект;Новогиреево;
+KR Properties;developer;https://www.cian.ru/sale/flat/275220055/;Москва;sale;flat;4;5;1;61.5;978400;60171600;Хамовники;Зубовская;Парк Культуры;Metropol Serviced Residences
+Экран;developer;https://www.cian.ru/sale/flat/280422655/;Москва;sale;flat;2;4;1;115.21;2574274;296582222;Замоскворечье;;Третьяковская;Русские Сезоны ЖК
+ПИК;developer;https://www.cian.ru/sale/flat/283223146/;Москва;sale;flat;20;21;1;33.6;337600;11343360;Тимирязевский;3-й Нижнелихоборский проезд;Окружная;Большая Академическая 85
+Upside Development;developer;https://www.cian.ru/sale/flat/276735646/;Москва;sale;flat;1;8;1;34.57;202200;6990054;Бибирево;Корнейчука;Медведково;Clementine
+Группа ЛСР;developer;https://www.cian.ru/sale/flat/276171198/;Москва;sale;flat;7;52;1;33.8;340862;11521169;Москворечье-Сабурово;;Москворечье;Вэйв ЖК
+ID 13544436;realtor;https://www.cian.ru/sale/flat/287284808/;Москва;sale;flat;2;5;1;40.0;217000;8680000;;;Филатов Луг;
+ТСН Владис;real_estate_agent;https://www.cian.ru/sale/flat/286925719/;Москва;sale;flat;1;18;1;38.0;302631;11500000;Ломоносовский;Академика Пилюгина;Новые Черёмушки;
+ПИК;developer;https://www.cian.ru/sale/flat/275623295/;Москва;sale;flat;17;33;1;34.26;286132;9802916;Нижегородский;;Нижегородская;Перовское 2 ЖК
+Логос;developer;https://www.cian.ru/sale/flat/286009746/;Москва;sale;flat;4;13;1;39.8;513994;20456968;Даниловский;Подольское шоссе;Тульская;Logos
+Sminex-Интеко;developer;https://www.cian.ru/sale/flat/286944811/;Москва;sale;flat;3;6;1;86.0;2218023;190750000;Хамовники;3-й Обыденский переулок;;Обыденский №1
+ПИК;developer;https://www.cian.ru/sale/flat/274344677/;Москва;sale;flat;22;26;1;39.3;411675;16178866;Лефортово;Красноказарменная;Лефортово;Красноказарменная 15
+Галс-Девелопмент;developer;https://www.cian.ru/sale/flat/280748927/;Москва;sale;flat;2;6;1;48.77;882200;43024894;Замоскворечье;Космодамианская набережная;Новокузнецкая;Клубный дом Космо 4/22
+ПИК;developer;https://www.cian.ru/sale/flat/279627221/;Москва;sale;flat;20;21;1;31.8;376300;11966340;Тимирязевский;3-й Нижнелихоборский проезд;Окружная;Большая Академическая 85
+ПИК;developer;https://www.cian.ru/sale/flat/274209038/;Москва;sale;flat;21;33;1;32.3;270982;8752750;Очаково-Матвеевское;к1.2;Давыдково;Новое Очаково ЖК
+ПИК;developer;https://www.cian.ru/sale/flat/287053680/;Москва;sale;flat;4;28;1;32.2;282496;9096403;Гольяново;;Черкизовская;Амурский парк ЖК
+ПИК;developer;https://www.cian.ru/sale/flat/284914645/;Москва;sale;flat;10;24;1;32.1;321482;10319604;Бабушкинский;;Свиблово;Кольская 8 ЖК
+ПИК;developer;https://www.cian.ru/sale/flat/272251671/;Москва;sale;flat;6;15;1;32.0;271488;8687616;Люблино;;Депо;Люблинский парк ЖК
+ПИК;developer;https://www.cian.ru/sale/flat/272669022/;Москва;sale;flat;1;15;1;33.6;322417;10833244;Южное Медведково;;Медведково;Полярная 25 ЖК
+ПИК;developer;https://www.cian.ru/sale/flat/285823135/;Москва;sale;flat;5;9;1;34.5;207252;7150194;Южное Бутово;;Щербинка;Никольские Луга ЖК
+ID 101904221;developer;https://www.cian.ru/sale/flat/286014413/;Москва;sale;flat;18;25;1;38.41;220750;8479008;Люблино;Юго-Восточный ао;Марьино;Светлый Мир Станция Л ЖК
+ПИК;developer;https://www.cian.ru/sale/flat/276513648/;Москва;sale;flat;13;33;1;32.3;289970;9366063;Гольяново;;Черкизовская;Амурский парк ЖК
+ПИК;developer;https://www.cian.ru/sale/flat/284914962/;Москва;sale;flat;2;33;1;32.5;352894;11469055;Бутырский;к2.8;Бутырская;Руставели 14 ЖК
+Мангазея;developer;https://www.cian.ru/sale/flat/285612833/;Москва;sale;flat;11;21;1;48.0;443760;21300480;Щукино;Щукинская;Стрешнево;Интонация
+Галс-Девелопмент;developer;https://www.cian.ru/sale/flat/280748932/;Москва;sale;flat;3;6;1;48.23;1317200;63528556;Замоскворечье;Космодамианская набережная;Новокузнецкая;Клубный дом Космо 4/22
+ПИК;developer;https://www.cian.ru/sale/flat/275291362/;Москва;sale;flat;13;32;1;35.1;252095;8848569;Северное Медведково;к1.3;Медведково;Полар ЖК
+ФСК;developer;https://www.cian.ru/sale/flat/271319140/;Москва;sale;flat;-1;-1;-1;3.0;5617520;16852560;Хорошевский;Зорге;Зорге;Рихард
+ФСК;developer;https://www.cian.ru/sale/flat/271319124/;Москва;sale;flat;-1;-1;-1;2.0;9862480;19724960;Хорошевский;Зорге;Зорге;Рихард
+ПИК;developer;https://www.cian.ru/sale/flat/275804302/;Москва;sale;flat;14;28;1;32.3;285324;9215997;Гольяново;;Черкизовская;Амурский парк ЖК
+ПИК;developer;https://www.cian.ru/sale/flat/277095471/;Москва;sale;flat;28;33;1;32.1;290475;9324279;Отрадное;;Владыкино;Сигнальный 16 ЖК
+ПИК;developer;https://www.cian.ru/sale/flat/286096909/;Москва;sale;flat;2;32;1;37.9;364508;13814891;Филевский парк;;Багратионовская;Барклая 6 ЖК
+ПИК;developer;https://www.cian.ru/sale/flat/275409561/;Москва;sale;flat;20;23;1;31.9;293303;9356397;Текстильщики;Юго-Восточный ао;Текстильщики;Волжский Парк ЖК
+ПИК;developer;https://www.cian.ru/sale/flat/276099760/;Москва;sale;flat;29;33;1;37.1;287850;10679235;Рязанский;Михайлова;Окская;Михайловский парк
+ПИК;developer;https://www.cian.ru/sale/flat/281620141/;Москва;sale;flat;12;24;1;46.7;400767;18715865;Филевский парк;;Багратионовская;Барклая 6 ЖК
+ПИК;developer;https://www.cian.ru/sale/flat/274560047/;Москва;sale;flat;29;33;1;32.5;365114;11866237;Головинский;Кронштадтский бульвар;Водный стадион;Кронштадтский 14
+ПИК;developer;https://www.cian.ru/sale/flat/276513566/;Москва;sale;flat;20;33;1;36.1;293910;10610151;Гольяново;;Черкизовская;Амурский парк ЖК
+ПИК;developer;https://www.cian.ru/sale/flat/275804454/;Москва;sale;flat;27;33;1;32.3;297848;9620522;Гольяново;;Черкизовская;Амурский парк ЖК
+Whitewill;real_estate_agent;https://www.cian.ru/sale/flat/280875173/;Москва;sale;flat;6;18;1;38.4;416406;15990000;Алексеевский;Новоалексеевская;Алексеевская;Серебряный фонтан
+Пионер;developer;https://www.cian.ru/sale/flat/283969757/;Москва;sale;flat;-1;-1;-1;202.0;79417;16042265;Марьина роща;Полковая;Савёловская;PRIDE
+do A.S.A.P.;real_estate_agent;https://www.cian.ru/sale/flat/285879109/;Москва;sale;flat;14;30;1;41.0;407317;16700000;Зябликово;Ореховый бульвар;Красногвардейская;Fresh
+MR Group;developer;https://www.cian.ru/sale/flat/273739914/;Москва;sale;flat;-1;-1;-1;202.0;115369;23304629;Раменки;1-й Сетуньский проезд;Лужники;Hide
+Капиталъ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/273535976/;Москва;sale;flat;7;11;1;41.0;535365;21950000;Тверской;2-я Брестская;Маяковская;Резиденция Тверская
+ПИК;developer;https://www.cian.ru/sale/flat/284914961/;Москва;sale;flat;2;33;1;32.6;351681;11464833;Бутырский;к2.8;Бутырская;Руставели 14 ЖК
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/271502124/;Москва;sale;flat;4;21;1;40.9;281173;11500000;Сокольники;Сокольнический Вал;Рижская;
+ПИК;developer;https://www.cian.ru/sale/flat/286577280/;Москва;sale;flat;6;23;1;32.3;257244;8309001;Царицыно;;Кантемировская;Кавказский Бульвар 51 ЖК
+Мангазея;developer;https://www.cian.ru/sale/flat/286906175/;Москва;sale;flat;7;21;1;47.6;426560;20304256;Щукино;Щукинская;Стрешнево;Интонация
+Самолет Плюс Москва;real_estate_agent;https://www.cian.ru/sale/flat/284512141/;Москва;sale;flat;6;22;1;35.9;236768;8500000;;;Филатов Луг;
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/273728681/;Москва;sale;flat;5;22;1;36.1;311634;11250000;Орехово-Борисово Северное;Борисовский проезд;Шипиловская;
+RAN-realty;real_estate_agent;https://www.cian.ru/sale/flat/287104620/;Москва;sale;flat;7;30;1;37.3;391420;14600000;Можайский;переулок 2-й Петра Алексеева;Рабочий посёлок;КутузовGRAD II
+VOSHOD;developer;https://www.cian.ru/sale/flat/285674285/;Москва;sale;flat;-1;-1;-1;202.0;175626;35476610;Филевский парк;Василисы Кожиной;Филёвский парк;AHEAD
+St Michael;developer;https://www.cian.ru/sale/flat/282823445/;Москва;sale;flat;18;21;1;36.56;538407;19684160;Хорошевский;Зорге;Зорге;Зорге 9
+VSN Realty;real_estate_agent;https://www.cian.ru/sale/flat/287250389/;Москва;sale;flat;3;9;1;55.3;484900;26814984;Кунцево;Академика Павлова;Молодёжная;TWICE
+Галс-Девелопмент;developer;https://www.cian.ru/sale/flat/275923519/;Москва;sale;flat;6;6;1;81.65;2200200;179646330;Замоскворечье;Космодамианская набережная;Новокузнецкая;Клубный дом Космо 4/22
+ASTERUS;developer;https://www.cian.ru/sale/flat/274202141/;Москва;sale;flat;10;18;1;37.68;449900;16952232;Покровское-Стрешнево;;Спартак;Алиа ЖК
+ФСК;developer;https://www.cian.ru/sale/flat/251715732/;Москва;sale;flat;-1;-1;-1;202.0;94592;19107584;Хорошево-Мневники;;Народное Ополчение;Сидней Сити ЖК
+Галс-Девелопмент;developer;https://www.cian.ru/sale/flat/275923507/;Москва;sale;flat;4;6;1;62.79;962200;60416538;Замоскворечье;Космодамианская набережная;Новокузнецкая;Клубный дом Космо 4/22
+Sezar Group;developer;https://www.cian.ru/sale/flat/283289274/;Москва;sale;flat;21;25;1;47.6;499500;23776200;Тропарево-Никулино;проспект Вернадского;;Клубный дом Full House
+MR Group;developer;https://www.cian.ru/sale/flat/273739886/;Москва;sale;flat;-1;-1;-1;202.0;144188;29125987;Раменки;1-й Сетуньский проезд;Лужники;Hide
+ФСК;developer;https://www.cian.ru/sale/flat/274167955/;Москва;sale;flat;-1;-1;-1;202.0;110801;22381920;Хорошево-Мневники;к2/1;Хорошёво;Сидней Сити ЖК
+Forma;developer;https://www.cian.ru/sale/flat/276446994/;Москва;sale;flat;4;20;1;38.77;418002;16205976;Даниловский;Автозаводская;Тульская;FORST
+ФСК;developer;https://www.cian.ru/sale/flat/264672543/;Москва;sale;flat;-1;-1;-1;202.0;108230;21862520;Хорошево-Мневники;к2/1;Хорошёво;Сидней Сити ЖК
+ASTERUS;developer;https://www.cian.ru/sale/flat/276204713/;Москва;sale;flat;20;25;1;59.62;392800;23418736;Покровское-Стрешнево;;Спартак;Алиа ЖК
+MR Group;developer;https://www.cian.ru/sale/flat/273739891/;Москва;sale;flat;-1;-1;-1;202.0;122490;24743082;Раменки;1-й Сетуньский проезд;Лужники;Hide
+ЕГСН Продажа;real_estate_agent;https://www.cian.ru/sale/flat/276503708/;Москва;sale;flat;2;5;1;31.0;370967;11500000;Басманный;Денисовский переулок;Курская;
+ЕГСН Продажа;real_estate_agent;https://www.cian.ru/sale/flat/280612156/;Москва;sale;flat;14;17;1;42.4;168632;7150000;Южное Бутово;Маршала Савицкого;Аннино;
+ЕГСН Продажа;real_estate_agent;https://www.cian.ru/sale/flat/284803303/;Москва;sale;flat;4;14;1;40.0;190000;7600000;Южное Бутово;2-я Мелитопольская;Бутово;
+Intermark Real Estate - ранее Savills - городская недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/282912174/;Москва;sale;flat;7;9;1;31.0;467741;14500000;Аэропорт;Ленинградский проспект;Аэропорт;
+ЕГСН Продажа;real_estate_agent;https://www.cian.ru/sale/flat/281522043/;Москва;sale;flat;1;9;1;32.4;256172;8300000;Ховрино;Зеленоградская;Ховрино;
+TimeProperty;real_estate_agent;https://www.cian.ru/sale/flat/285608474/;Москва;sale;flat;16;25;1;41.0;334146;13700000;Очаково-Матвеевское;Аминьевское шоссе;Аминьевская;Вестердам
+ХОРЕКА ИНВЕСТ;real_estate_agent;https://www.cian.ru/sale/flat/284342578/;Москва;sale;flat;9;22;1;17.1;346023;5917000;Тропарево-Никулино;Ленинский проспект;Юго-Западная;
+Intermark Real Estate - ранее Savills - городская недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/284346667/;Москва;sale;flat;3;9;1;31.7;694006;22000000;Пресненский;Вспольный переулок;Баррикадная;
+ХОРЕКА ИНВЕСТ;real_estate_agent;https://www.cian.ru/sale/flat/283206068/;Москва;sale;flat;9;22;1;20.8;312884;6508000;Тропарево-Никулино;Ленинский проспект;Юго-Западная;
+ID 18262191;homeowner;https://www.cian.ru/sale/flat/287335183/;Москва;sale;flat;13;16;1;42.0;369047;15500000;Северное Медведково;Широкая;Медведково;
+ID 257780;realtor;https://www.cian.ru/sale/flat/285094688/;Москва;sale;flat;3;10;1;30.0;377333;11320000;Можайский;Рябиновая;Рабочий посёлок;КутузовGRAD I
+ИМПЕРИАЛ;official_representative;https://www.cian.ru/sale/flat/282129012/;Москва;sale;flat;10;14;1;45.5;200000;9100000;Сокол;Балтийская;Сокол;
+ИМПЕРИАЛ;official_representative;https://www.cian.ru/sale/flat/279957942/;Москва;sale;flat;5;5;1;20.4;256500;5232600;Черемушки;Херсонская;Зюзино;
+ЕГСН Продажа;real_estate_agent;https://www.cian.ru/sale/flat/283967735/;Москва;sale;flat;5;14;1;34.8;294540;10250000;Кунцево;Бобруйская;Молодёжная;
+ИМПЕРИАЛ;official_representative;https://www.cian.ru/sale/flat/275434869/;Москва;sale;flat;10;14;1;25.2;353174;8900000;Сокол;Ленинградский проспект;Сокол;
+ИМПЕРИАЛ;official_representative;https://www.cian.ru/sale/flat/269644572/;Москва;sale;flat;3;5;1;20.1;323383;6500000;Черемушки;Херсонская;Зюзино;
+ЕГСН Продажа;real_estate_agent;https://www.cian.ru/sale/flat/286917700/;Москва;sale;flat;8;18;1;56.6;268551;15200000;Куркино;Родионовская;Планерная;
+ИМПЕРИАЛ;official_representative;https://www.cian.ru/sale/flat/282005545/;Москва;sale;flat;10;10;1;27.6;337250;9308100;Проспект Вернадского;проспект Вернадского;Проспект Вернадского;
+BERI;real_estate_agent;https://www.cian.ru/sale/flat/286043709/;Москва;sale;flat;2;9;1;29.3;375085;10990000;Останкинский;2-я Новоостанкинская;Улица Академика Королёва;
+ИМПЕРИАЛ;official_representative;https://www.cian.ru/sale/flat/281751033/;Москва;sale;flat;4;5;1;12.3;395000;4858500;Хорошевский;Хорошевское шоссе;Беговая;
+ЕГСН Продажа;real_estate_agent;https://www.cian.ru/sale/flat/284008585/;Москва;sale;flat;2;9;1;32.6;271472;8850000;Тимирязевский;3-й Нижнелихоборский проезд;Окружная;
+Century 21 Level;real_estate_agent;https://www.cian.ru/sale/flat/286661474/;Москва;sale;flat;9;25;1;38.4;390364;14990000;Можайский;Рябиновая;Кунцевская;КутузовGRAD I
+ЕГЦН-М;real_estate_agent;https://www.cian.ru/sale/flat/286867432/;Москва;sale;flat;9;14;1;19.0;400000;7600000;Сокол;Балтийская;Сокол;
+ЕГСН Продажа;real_estate_agent;https://www.cian.ru/sale/flat/286666327/;Москва;sale;flat;1;9;1;32.7;244648;8000000;Вешняки;Старый Гай;Новогиреево;
+Excellent real estate;real_estate_agent;https://www.cian.ru/sale/flat/286462948/;Москва;sale;flat;19;59;1;39.0;538461;21000000;Тимирязевский;Дмитровский проезд;Дмитровская;D1
+Msk Estate;real_estate_agent;https://www.cian.ru/sale/flat/287082741/;Москва;sale;flat;9;22;1;19.5;305897;5965000;Тропарево-Никулино;Ленинский проспект;Юго-Западная;
+Kalinka Group;real_estate_agent;https://www.cian.ru/sale/flat/268826365/;Москва;sale;flat;2;7;1;98.0;969387;95000000;Арбат;Филипповский переулок;Арбатская;
+ЕГСН Продажа;real_estate_agent;https://www.cian.ru/sale/flat/286978957/;Москва;sale;flat;12;16;1;44.8;247767;11100000;Текстильщики;8-я Текстильщиков;Текстильщики;
+Whitewill;real_estate_agent;https://www.cian.ru/sale/flat/287091367/;Москва;sale;flat;3;5;1;42.0;857142;36000000;Тверской;Петровка;Трубная;La Rue
+ЕГСН Продажа;real_estate_agent;https://www.cian.ru/sale/flat/283214639/;Москва;sale;flat;10;12;1;36.0;322222;11600000;Царицыно;Кавказский бульвар;Кантемировская;
+НДВ;real_estate_agent;https://www.cian.ru/sale/flat/287211836/;Москва;sale;flat;10;14;1;38.4;325520;12500000;Останкинский;Сельскохозяйственная;Ботанический сад;Green park
+ID 15381315;realtor;https://www.cian.ru/sale/flat/287204321/;Москва;sale;flat;4;20;1;38.6;386010;14900000;Западное Дегунино;Дмитровское шоссе;Верхние Лихоборы;Талисман на Дмитровском
+Msk Estate;real_estate_agent;https://www.cian.ru/sale/flat/287073749/;Москва;sale;flat;10;22;1;-1;-6111000;6111000;Тропарево-Никулино;Ленинский проспект;Юго-Западная;
+ЕГСН Продажа;real_estate_agent;https://www.cian.ru/sale/flat/262343028/;Москва;sale;flat;13;14;1;53.1;704331;37400000;Замоскворечье;Мытная;Серпуховская;Английский квартал
+Forma;developer;https://www.cian.ru/sale/flat/286516978/;Москва;sale;flat;-1;-1;-1;202.0;81035;16369215;Аэропорт;Часовая;Красный Балтиец;SOUL
+ЕГСН Продажа;real_estate_agent;https://www.cian.ru/sale/flat/279629349/;Москва;sale;flat;7;25;1;52.5;257142;13500000;;;Филатов Луг;
+ЕГСН Продажа;real_estate_agent;https://www.cian.ru/sale/flat/286635296/;Москва;sale;flat;34;38;1;37.0;405405;15000000;Бутырский;Новодмитровская;Дмитровская;Савеловский Сити
+Contact Real Estate;real_estate_agent;https://www.cian.ru/sale/flat/287028842/;Москва;sale;flat;3;11;1;43.0;493441;21218000;Басманный;Казакова;Курская;KAZAKOV Grand Loft
+ЕГЦН-М;real_estate_agent;https://www.cian.ru/sale/flat/285050546/;Москва;sale;flat;5;5;1;17.4;381500;6638100;Хорошевский;Хорошевское шоссе;Беговая;
+ЕГСН Продажа;real_estate_agent;https://www.cian.ru/sale/flat/283767578/;Москва;sale;flat;14;22;1;38.4;611979;23500000;Красносельский;Большая Спасская;Площадь трёх вокзалов;Dialog
+DOORS AGENCY;real_estate_agent;https://www.cian.ru/sale/flat/285344080/;Москва;sale;flat;32;37;1;41.6;367764;15299000;Раменки;Мосфильмовская;Аминьевская;
+MiniStudioRealty;real_estate_agent;https://www.cian.ru/sale/flat/281742376/;Москва;sale;flat;1;5;1;17.7;310500;5495850;Хорошевский;Хорошевское шоссе;Беговая;
+ИМПЕРИАЛ;official_representative;https://www.cian.ru/sale/flat/282938882/;Москва;sale;flat;1;5;1;18.0;307500;5535000;Хорошевский;Хорошевское шоссе;Беговая;
+ЕГСН Продажа;real_estate_agent;https://www.cian.ru/sale/flat/262343029/;Москва;sale;flat;13;14;1;54.1;709796;38400000;Замоскворечье;Мытная;Серпуховская;Английский квартал
+Msk Estate;real_estate_agent;https://www.cian.ru/sale/flat/286976087/;Москва;sale;flat;2;2;1;11.6;390000;4524000;Хорошевский;Хорошевское шоссе;Беговая;
+Msk Estate;real_estate_agent;https://www.cian.ru/sale/flat/286057265/;Москва;sale;flat;5;5;1;20.4;256500;5232600;Черемушки;Херсонская;Зюзино;
+ХОРЕКА ИНВЕСТ;real_estate_agent;https://www.cian.ru/sale/flat/286988891/;Москва;sale;flat;9;22;1;15.6;345384;5388000;Тропарево-Никулино;Ленинский проспект;Юго-Западная;
+Msk Estate;real_estate_agent;https://www.cian.ru/sale/flat/287085862/;Москва;sale;flat;1;2;1;17.7;310500;5495850;Хорошевский;Хорошевское шоссе;Беговая;
+Msk Estate;real_estate_agent;https://www.cian.ru/sale/flat/286050698/;Москва;sale;flat;10;22;1;17.2;346220;5955000;Тропарево-Никулино;Ленинский проспект;Юго-Западная;
+Msk Estate;real_estate_agent;https://www.cian.ru/sale/flat/287020290/;Москва;sale;flat;9;22;1;17.1;346023;5917000;Тропарево-Никулино;Ленинский проспект;Юго-Западная;
+ХОРЕКА ИНВЕСТ;real_estate_agent;https://www.cian.ru/sale/flat/283140148/;Москва;sale;flat;9;22;1;20.6;308398;6353000;Тропарево-Никулино;Ленинский проспект;Юго-Западная;
+Msk Estate;real_estate_agent;https://www.cian.ru/sale/flat/286997462/;Москва;sale;flat;9;22;1;-1;-6353000;6353000;Тропарево-Никулино;Ленинский проспект;Юго-Западная;
+ХОРЕКА ИНВЕСТ;real_estate_agent;https://www.cian.ru/sale/flat/286587616/;Москва;sale;flat;9;22;1;20.8;312884;6508000;Тропарево-Никулино;Ленинский проспект;Юго-Западная;
+ZIP Realty;real_estate_agent;https://www.cian.ru/sale/flat/280298754/;Москва;sale;flat;1;2;1;19.0;405263;7700000;Соколиная гора;Вольная;Семёновская;
+ZIP Realty;real_estate_agent;https://www.cian.ru/sale/flat/285081444/;Москва;sale;flat;2;2;1;27.0;295000;7965000;Преображенское;Электрозаводская;Преображенская площадь;
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/273502092/;Москва;sale;flat;1;9;1;32.1;249221;8000000;Зябликово;Шипиловская;Шипиловская;
+Msk Estate;real_estate_agent;https://www.cian.ru/sale/flat/287109703/;Москва;sale;flat;1;14;1;41.3;230000;9499000;Сокол;Ленинградский проспект;Сокол;
+Msk Estate;real_estate_agent;https://www.cian.ru/sale/flat/287086842/;Москва;sale;flat;4;5;1;29.4;326800;9607920;Хорошевский;Хорошевское шоссе;Беговая;
+ZIP Realty;real_estate_agent;https://www.cian.ru/sale/flat/286625407/;Москва;sale;flat;1;8;1;48.5;260000;12610000;Преображенское;Электрозаводская;Преображенская площадь;
+Century 21 Street Realty;real_estate_agent;https://www.cian.ru/sale/flat/286672360/;Москва;sale;flat;21;31;1;37.8;383333;14490000;Раменки;Лобачевского;Проспект Вернадского;Крылья
+Verges of estate;real_estate_agent;https://www.cian.ru/sale/flat/272801609/;Москва;sale;flat;10;28;1;48.0;552083;26500000;Тропарево-Никулино;Мичуринский проспект Олимпийская деревня;Мичуринский проспект;Чемпион парк
+Level Group;developer;https://www.cian.ru/sale/flat/286107141/;Москва;sale;flat;3;17;1;36.1;447802;16165671;Басманный;Большая Почтовая;Электрозаводская;Level Бауманская
+ПИК;developer;https://www.cian.ru/sale/flat/270796609/;Москва;sale;flat;17;33;1;34.1;277056;9447622;Царицыно;;Кантемировская;Кавказский Бульвар 51 ЖК
+ЕГЦН-М;real_estate_agent;https://www.cian.ru/sale/flat/282553699/;Москва;sale;flat;1;3;1;18.4;305000;5612000;Хорошевский;Хорошевское шоссе;Беговая;
+ИМПЕРИАЛ;official_representative;https://www.cian.ru/sale/flat/287304162/;Москва;sale;flat;2;14;1;41.3;217900;8999270;Сокол;Балтийская;Сокол;
+ИМПЕРИАЛ;official_representative;https://www.cian.ru/sale/flat/287304229/;Москва;sale;flat;1;14;1;81.1;240000;19464000;Сокол;Балтийская;Сокол;
+ASTERUS;developer;https://www.cian.ru/sale/flat/279559415/;Москва;sale;flat;10;25;1;57.32;341301;19563400;Покровское-Стрешнево;;Спартак;Алиа ЖК
+MR Group;developer;https://www.cian.ru/sale/flat/273739890/;Москва;sale;flat;-1;-1;-1;202.0;190005;38381048;Раменки;1-й Сетуньский проезд;Лужники;Hide
+А101;developer;https://www.cian.ru/sale/flat/273232845/;Москва;sale;flat;3;18;1;32.5;360943;11730662;;;Прокшино;
+BERI;real_estate_agent;https://www.cian.ru/sale/flat/285490452/;Москва;sale;flat;8;9;1;31.6;347784;10990000;Нагатинский затон;Кленовый бульвар;Коломенская;
+ID 15381315;realtor;https://www.cian.ru/sale/flat/286810393/;Москва;sale;flat;22;22;1;34.0;350000;11900000;Покровское-Стрешнево;Волоколамское шоссе;Спартак;Движение.Тушино
+ЛюксДом;real_estate_agent;https://www.cian.ru/sale/flat/274593955/;Москва;sale;flat;3;5;1;41.2;910194;37500000;Замоскворечье;Озерковская набережная;Новокузнецкая;Bogenhouse
+Sezar Group;developer;https://www.cian.ru/sale/flat/283289265/;Москва;sale;flat;15;25;1;45.0;480600;21627000;Тропарево-Никулино;проспект Вернадского;;Клубный дом Full House
+Whitewill;real_estate_agent;https://www.cian.ru/sale/flat/283856090/;Москва;sale;flat;4;11;1;43.0;453488;19500000;Басманный;Казакова;Курская;KAZAKOV Grand Loft
+MR Group;developer;https://www.cian.ru/sale/flat/274969520/;Москва;sale;flat;2;27;1;39.4;508777;20045815;Даниловский;Дубининская;Серпуховская;Павелецкая сити
+Пионер;developer;https://www.cian.ru/sale/flat/279362264/;Москва;sale;flat;6;11;1;65.8;764958;50334302;Даниловский;Дербеневская;Павелецкая;OPUS
+Whitewill Москва-Сити;real_estate_agent;https://www.cian.ru/sale/flat/280128397/;Москва;sale;flat;37;86;1;170.0;676470;115000000;Пресненский;1-й Красногвардейский проезд;Международная;МФК ОКО
+COLDY;developer;https://www.cian.ru/sale/flat/279637191/;Москва;sale;flat;4;21;1;43.91;308784;13558749;Нижегородский;Автомобильный проезд;Калитники;N’ice Loft
+Intermark Real Estate - ранее Savills - городская недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/286319563/;Москва;sale;flat;13;41;1;36.2;580110;21000000;Раменки;;Спортивная;Хайд ЖК
+Sminex-Интеко;developer;https://www.cian.ru/sale/flat/287094614/;Москва;sale;flat;11;27;1;46.1;380694;17550000;Очаково-Матвеевское;Аминьевское шоссе;Аминьевская;Вестердам
+А101;developer;https://www.cian.ru/sale/flat/273053505/;Москва;sale;flat;6;15;1;34.5;309925;10692415;;;Прокшино;
+Level Group;developer;https://www.cian.ru/sale/flat/286107254/;Москва;sale;flat;10;21;1;35.6;455010;16198369;Басманный;Большая Почтовая;Электрозаводская;Level Бауманская
+Level Group;developer;https://www.cian.ru/sale/flat/286107274/;Москва;sale;flat;13;21;1;35.5;460372;16343229;Басманный;Большая Почтовая;Электрозаводская;Level Бауманская
+Sminex-Интеко;developer;https://www.cian.ru/sale/flat/287094627/;Москва;sale;flat;17;27;1;46.0;404565;18610000;Очаково-Матвеевское;Аминьевское шоссе;Аминьевская;Вестердам
+Sminex-Интеко;developer;https://www.cian.ru/sale/flat/287094637/;Москва;sale;flat;21;27;1;46.1;419956;19360000;Очаково-Матвеевское;Аминьевское шоссе;Аминьевская;Вестердам
+Hutton Development;developer;https://www.cian.ru/sale/flat/287039529/;Москва;sale;flat;11;17;1;49.94;639000;31911660;Гагаринский;Ленинский проспект;Ленинский проспект;Lunar
+ПИК;developer;https://www.cian.ru/sale/flat/284094786/;Москва;sale;flat;17;17;1;32.6;260075;8478445;;;Бунинская аллея;
+А101;developer;https://www.cian.ru/sale/flat/273050337/;Москва;sale;flat;5;14;1;34.4;283629;9756871;;;Ольховая;
+ПИК;developer;https://www.cian.ru/sale/flat/286153780/;Москва;sale;flat;17;17;1;32.3;216543;6994371;;;Щербинка;
+ФЛИП;real_estate_agent;https://www.cian.ru/sale/flat/287305297/;Москва;sale;flat;4;9;1;30.0;311666;9350000;Нагатинский затон;Судостроительная;Коломенская;
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/276504703/;Москва;sale;flat;1;12;1;38.8;234536;9100000;Ярославский;Проходчиков;Ботанический сад;
+OXE CAPITAL - Элитная Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/283812047/;Москва;sale;flat;31;41;1;42.4;459905;19500000;Хорошево-Мневники;Шелепихинская набережная;Шелепиха;Сердце Столицы
+ФЛИП;real_estate_agent;https://www.cian.ru/sale/flat/285741193/;Москва;sale;flat;2;9;1;30.7;348534;10700000;Сокольники;Шумкина;Сокольники;
+Chase R.E.S.;real_estate_agent;https://www.cian.ru/sale/flat/282505273/;Москва;sale;flat;7;9;1;38.0;518149;19689691;Кунцево;Маршала Тимошенко;Молодёжная;TWICE
+do A.S.A.P.;real_estate_agent;https://www.cian.ru/sale/flat/286676767/;Москва;sale;flat;13;15;1;46.5;492473;22900000;Останкинский;проспект Мира;Алексеевская;Hill8
+Хлебозавод 9;developer;https://www.cian.ru/sale/flat/278751030/;Москва;sale;flat;6;9;1;49.9;269638;13454986;Преображенское;Электрозаводская;Преображенская площадь;Апартаменты Берег Яузы
+Навигатор недвижимости;real_estate_agent;https://www.cian.ru/sale/flat/283641070/;Москва;sale;flat;3;16;1;38.0;223684;8500000;Люблино;Тихорецкий бульвар;Люблино;
+Хлебозавод 9;developer;https://www.cian.ru/sale/flat/278751117/;Москва;sale;flat;2;3;1;33.3;280000;9324000;Преображенское;Электрозаводская;Преображенская площадь;Апартаменты Берег Яузы
+ID 61854957;realtor;https://www.cian.ru/sale/flat/286547106/;Москва;sale;flat;2;9;1;32.0;340625;10900000;Чертаново Центральное;Днепропетровская;Южная;
+REALTY PRО;real_estate_agent;https://www.cian.ru/sale/flat/286716177/;Москва;sale;flat;10;13;1;12.1;338016;4090000;Даниловский;Автозаводская;ЗИЛ;
+Елена Дегтярева;realtor;https://www.cian.ru/sale/flat/286649002/;Москва;sale;flat;21;25;1;34.2;377192;12900000;;;;
+RAN-realty;real_estate_agent;https://www.cian.ru/sale/flat/286728256/;Москва;sale;flat;18;20;1;55.0;369090;20300000;Свиблово;проезд Серебрякова;Ботанический сад;Silver
+Денис Каргин;realtor;https://www.cian.ru/sale/flat/282683054/;Москва;sale;flat;2;5;1;19.8;247474;4899999;Марфино;Гостиничная;Окружная;
+Homeapp;real_estate_agent;https://www.cian.ru/sale/flat/287067368/;Москва;sale;flat;14;26;1;32.5;275384;8950000;;;Коммунарка;
+Навигатор недвижимости;real_estate_agent;https://www.cian.ru/sale/flat/283039863/;Москва;sale;flat;8;23;1;45.67;226625;10350000;;;Рассказовка;
+Verges of estate;real_estate_agent;https://www.cian.ru/sale/flat/275365749/;Москва;sale;flat;7;29;1;34.0;479411;16300000;Можайский;переулок 2-й Петра Алексеева;Рабочий посёлок;КутузовGRAD II
+Century 21 Premium Property;real_estate_agent;https://www.cian.ru/sale/flat/283327592/;Москва;sale;flat;27;48;1;29.1;563573;16400000;Хорошево-Мневники;Народного Ополчения;Народное Ополчение;Wellton Towers
+Century 21 Premium Property;real_estate_agent;https://www.cian.ru/sale/flat/286809893/;Москва;sale;flat;31;58;1;38.0;468421;17800000;Хорошево-Мневники;Народного Ополчения;Народное Ополчение;Wellton Towers
+Century 21 Premium Property;real_estate_agent;https://www.cian.ru/sale/flat/286809892/;Москва;sale;flat;28;48;1;42.1;484560;20400000;Хорошево-Мневники;Народного Ополчения;Народное Ополчение;Wellton Towers
+ASTERUS;developer;https://www.cian.ru/sale/flat/276238950/;Москва;sale;flat;15;25;1;47.4;389900;18481260;Покровское-Стрешнево;;Спартак;Алиа ЖК
+ПИК;developer;https://www.cian.ru/sale/flat/270781741/;Москва;sale;flat;29;33;1;32.6;333905;10885335;Нижегородский;Новохохловская;Новохохловская;Новохохловская 15
+ЦеНтр ПИК;real_estate_agent;https://www.cian.ru/sale/flat/279205666/;Москва;sale;flat;17;21;1;32.8;442073;14500000;Свиблово;Лазоревый проезд;Ботанический сад;LIFE-Ботанический сад
+Татьяна Переверзева;realtor;https://www.cian.ru/sale/flat/272423402/;Москва;sale;flat;2;4;1;34.0;264411;8990000;Даниловский;Автозаводская;ЗИЛ;Галерея ЗИЛ
+MERSI;real_estate_agent;https://www.cian.ru/sale/flat/286763088/;Москва;sale;flat;10;12;1;35.0;328571;11500000;Щукино;Народного Ополчения;Октябрьское поле;
+Whitewill;real_estate_agent;https://www.cian.ru/sale/flat/285085456/;Москва;sale;flat;12;24;1;40.8;487745;19900000;Хорошевский;Хорошевское шоссе;Полежаевская;Династия
+ПИК;developer;https://www.cian.ru/sale/flat/287323365/;Москва;sale;flat;18;21;1;33.8;371200;12546560;Солнцево;;Говорово;Мещерский лес ЖК
+MERSI;real_estate_agent;https://www.cian.ru/sale/flat/286644875/;Москва;sale;flat;1;9;1;31.6;436708;13800000;Тверской;Самотечная;Достоевская;
+REALTY PRО;real_estate_agent;https://www.cian.ru/sale/flat/283221000/;Москва;sale;flat;1;17;1;17.2;343023;5900000;Коньково;Миклухо-Маклая;Беляево;
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/276622907/;Москва;sale;flat;2;2;1;14.0;592857;8300000;Замоскворечье;Новокузнецкая;Павелецкая;
+ID 283823;real_estate_agent;https://www.cian.ru/sale/flat/283412827/;Москва;sale;flat;10;52;1;56.0;464285;26000000;Хорошево-Мневники;Народного Ополчения;Народное Ополчение;Wellton Towers
+Арт Риэлти;real_estate_agent;https://www.cian.ru/sale/flat/280637177/;Москва;sale;flat;2;16;1;45.0;420000;18900000;Лефортово;проезд Невельского;Площадь Ильича;Символ
+Арт Риэлти;real_estate_agent;https://www.cian.ru/sale/flat/282182608/;Москва;sale;flat;7;10;1;49.0;495918;24300000;Лефортово;проезд Невельского;Авиамоторная;Символ
+ПИК;developer;https://www.cian.ru/sale/flat/281172453/;Москва;sale;flat;14;21;1;33.7;390899;13173330;Солнцево;;Говорово;Мещерский лес ЖК
+DOMILION;real_estate_agent;https://www.cian.ru/sale/flat/286073934/;Москва;sale;flat;8;9;1;32.0;306250;9800000;Богородское;1-я Мясниковская;Бульвар Рокоссовского;
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/280304805/;Москва;sale;flat;4;17;1;41.0;270731;11100000;Митино;переулок Ангелов;Пятницкое шоссе;
+MERSI;real_estate_agent;https://www.cian.ru/sale/flat/286662161/;Москва;sale;flat;9;12;1;32.1;358255;11500000;Тропарево-Никулино;26 Бакинских Комиссаров;Юго-Западная;
+Century 21 Premium Property;real_estate_agent;https://www.cian.ru/sale/flat/282360585/;Москва;sale;flat;2;16;1;45.0;426666;19200000;Лефортово;проезд Невельского;Авиамоторная;Символ
+Whitewill Москва-Сити;real_estate_agent;https://www.cian.ru/sale/flat/283347338/;Москва;sale;flat;26;67;1;72.0;597222;43000000;Пресненский;1-й Красногвардейский проезд;Деловой центр;NEVA TOWERS
+PEOPLE;real_estate_agent;https://www.cian.ru/sale/flat/285605741/;Москва;sale;flat;14;20;1;56.8;880281;50000000;Пресненский;2-я Черногрязская;Улица 1905 года;RedSide
+Chase R.E.S.;real_estate_agent;https://www.cian.ru/sale/flat/286064815/;Москва;sale;flat;37;43;1;45.0;482222;21700000;Пресненский;Шмитовский проезд;Шелепиха;Headliner
+ID 10281856;realtor;https://www.cian.ru/sale/flat/287253803/;Москва;sale;flat;4;14;1;34.0;423500;14399000;Марьина роща;Складочная;Савёловская;Шереметьевский
+MR Group;developer;https://www.cian.ru/sale/flat/286945652/;Москва;sale;flat;-1;-1;-1;202.0;89122;18002644;Марьина роща;4-я Марьиной рощи;Марьина роща;Mod
+ИМПЕРИАЛ;official_representative;https://www.cian.ru/sale/flat/278743549/;Москва;sale;flat;2;4;1;19.0;288947;5490000;Мещанский;Средняя Переяславская;Рижская;
+ПЕРСПЕКТИВА24-ЮГО-ЗАПАД;real_estate_agent;https://www.cian.ru/sale/flat/284229845/;Москва;sale;flat;10;17;1;38.0;244736;9300000;Митино;Пятницкое шоссе;Пятницкое шоссе;
+Князев и Партнёры;real_estate_agent;https://www.cian.ru/sale/flat/283247624/;Москва;sale;flat;1;9;1;30.4;259868;7900000;Царицыно;Кантемировская;Кантемировская;
+ИМПЕРИАЛ;official_representative;https://www.cian.ru/sale/flat/272782691/;Москва;sale;flat;3;5;1;19.9;340954;6785000;Богородское;Ивантеевская;Бульвар Рокоссовского;
+BERI;real_estate_agent;https://www.cian.ru/sale/flat/287029791/;Москва;sale;flat;9;12;1;34.8;439367;15290000;Пресненский;Столярный переулок;Улица 1905 года;
+ИМПЕРИАЛ;official_representative;https://www.cian.ru/sale/flat/278743884/;Москва;sale;flat;2;4;1;15.5;334838;5190000;Мещанский;Средняя Переяславская;Рижская;
+ИМПЕРИАЛ;official_representative;https://www.cian.ru/sale/flat/280977409/;Москва;sale;flat;4;4;1;19.2;311979;5990000;Басманный;Радио;Бауманская;
+REALTY PRО;real_estate_agent;https://www.cian.ru/sale/flat/285827451/;Москва;sale;flat;2;4;1;20.0;269500;5390000;Мещанский;Средняя Переяславская;Рижская;
+Татьяна Серебрякова;realtor;https://www.cian.ru/sale/flat/262267177/;Москва;sale;flat;3;6;1;40.0;148750;5950000;Даниловский;Автозаводская;ЗИЛ;Галерея ЗИЛ
+Msk Estate;real_estate_agent;https://www.cian.ru/sale/flat/286527098/;Москва;sale;flat;2;3;1;15.7;247770;3890000;Нижегородский;шоссе Фрезер;Нижегородская;
+REALTY PRО;real_estate_agent;https://www.cian.ru/sale/flat/286083971/;Москва;sale;flat;2;4;1;11.7;358119;4190000;Сокольники;Стромынка;Сокольники;
+ПЕРСПЕКТИВА24-ЮГО-ЗАПАД;real_estate_agent;https://www.cian.ru/sale/flat/287069732/;Москва;sale;flat;1;9;1;32.7;259938;8500000;Ярославский;Проходчиков;ВДНХ;
+REALTY PRО;real_estate_agent;https://www.cian.ru/sale/flat/287005325/;Москва;sale;flat;3;3;1;14.2;245774;3490000;Нижегородский;шоссе Фрезер;Нижегородская;
+REALTY PRО;real_estate_agent;https://www.cian.ru/sale/flat/287005190/;Москва;sale;flat;3;3;1;14.7;257823;3790000;Нижегородский;шоссе Фрезер;Нижегородская;
+МИЭЛЬ офис В Солнечногорске;real_estate_agent;https://www.cian.ru/sale/flat/274662806/;Москва;sale;flat;5;5;1;31.0;338709;10500000;Можайский;Сафоновская;Кунцевская;
+ПЕРСПЕКТИВА24-ЮГО-ЗАПАД;real_estate_agent;https://www.cian.ru/sale/flat/286815583/;Москва;sale;flat;18;25;1;47.2;328389;15500000;Солнцево;Боровское шоссе;Говорово;Мещерский лес
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/286625814/;Москва;sale;flat;21;25;1;35.0;240000;8400000;;;Коммунарка;
+ПЕРСПЕКТИВА24-ЮГО-ЗАПАД;real_estate_agent;https://www.cian.ru/sale/flat/285707484/;Москва;sale;flat;8;14;1;37.0;225675;8350000;;;Щербинка;
+ПЕРСПЕКТИВА24-ЮГО-ЗАПАД;real_estate_agent;https://www.cian.ru/sale/flat/286730511/;Москва;sale;flat;3;17;1;33.3;327327;10900000;;;Филатов Луг;
+ПИК;developer;https://www.cian.ru/sale/flat/284914663/;Москва;sale;flat;5;33;1;42.4;251598;10667788;Южное Медведково;;Бабушкинская;Полярная 25 ЖК
+Навигатор;real_estate_agent;https://www.cian.ru/sale/flat/286985082/;Москва;sale;flat;4;16;1;34.5;382608;13200000;Марьина роща;Октябрьская;Марьина роща;
+Century 21 Street Realty;real_estate_agent;https://www.cian.ru/sale/flat/283448373/;Москва;sale;flat;22;24;1;40.0;649999;25999999;Хорошевский;Хорошевское шоссе;Полежаевская;Династия
+Whitewill;real_estate_agent;https://www.cian.ru/sale/flat/284799855/;Москва;sale;flat;9;58;1;35.0;425714;14900000;Хорошево-Мневники;Народного Ополчения;Народное Ополчение;Wellton Towers
+Century 21 Street Realty;real_estate_agent;https://www.cian.ru/sale/flat/285546472/;Москва;sale;flat;27;41;1;42.0;464285;19500000;Хорошево-Мневники;Шелепихинская набережная;Шелепиха;Сердце Столицы
+ПЕРСПЕКТИВА24-ЮГО-ЗАПАД;real_estate_agent;https://www.cian.ru/sale/flat/284014858/;Москва;sale;flat;19;25;1;43.4;403225;17500000;Нижегородский;Рязанский проспект;Нижегородская;SREDA
+ПИК;developer;https://www.cian.ru/sale/flat/281410373/;Москва;sale;flat;2;33;1;34.26;278557;9543397;Нижегородский;;Нижегородская;Перовское 2 ЖК
+ID 90674976;unknown;https://www.cian.ru/sale/flat/281740598/;Москва;sale;flat;2;20;1;47.4;269831;12790000;Черемушки;Нахимовский проспект;Профсоюзная;Апарт-комплекс Нахимов
+ПЕРСПЕКТИВА24-ЮГО-ЗАПАД;real_estate_agent;https://www.cian.ru/sale/flat/284548045/;Москва;sale;flat;12;24;1;46.9;613859;28790000;Хорошево-Мневники;Шелепихинская набережная;Шелепиха;Сердце Столицы
+CENTURY 21;real_estate_agent;https://www.cian.ru/sale/flat/287253930/;Москва;sale;flat;8;9;1;29.0;341379;9900000;;;Говорово;
+Whitewill;real_estate_agent;https://www.cian.ru/sale/flat/279147914/;Москва;sale;flat;18;25;1;40.0;600000;24000000;Очаково-Матвеевское;Нежинская;Минская;Городские резиденции SPIRES
+Суламит-НГС;real_estate_agent;https://www.cian.ru/sale/flat/287299395/;Москва;sale;flat;2;4;1;26.0;346153;8999999;Басманный;Старокирочный переулок;Бауманская;
+Msk Estate;real_estate_agent;https://www.cian.ru/sale/flat/287259806/;Москва;sale;flat;4;4;1;24.7;242510;5990000;Мещанский;Средняя Переяславская;Рижская;
+REALTY PRО;real_estate_agent;https://www.cian.ru/sale/flat/285307190/;Москва;sale;flat;4;4;1;25.9;238996;6190000;Мещанский;Средняя Переяславская;Рижская;
+Whitewill;real_estate_agent;https://www.cian.ru/sale/flat/285390187/;Москва;sale;flat;3;20;1;41.5;672289;27900000;Пресненский;Мантулинская;Деловой центр;City Park
+ПЕРСПЕКТИВА24-ЮГО-ЗАПАД;real_estate_agent;https://www.cian.ru/sale/flat/286016014/;Москва;sale;flat;3;14;1;40.8;230392;9400000;Можайский;Сколковское шоссе;;Stellar City
+CENTURY 21;real_estate_agent;https://www.cian.ru/sale/flat/287261229/;Москва;sale;flat;8;24;1;44.0;281818;12400000;;;Рассказовка;
+Msk Estate;real_estate_agent;https://www.cian.ru/sale/flat/284490555/;Москва;sale;flat;6;6;1;16.3;230853;3762912;Вешняки;аллея Первой Маевки;Рязанский проспект;
+Msk Estate;real_estate_agent;https://www.cian.ru/sale/flat/286529126/;Москва;sale;flat;3;3;1;14.3;265034;3790000;Нижегородский;шоссе Фрезер;Нижегородская;
+Msk Estate;real_estate_agent;https://www.cian.ru/sale/flat/285290816/;Москва;sale;flat;2;6;1;20.8;211538;4400000;Вешняки;аллея Первой Маевки;Рязанский проспект;
+Msk Estate;real_estate_agent;https://www.cian.ru/sale/flat/283898832/;Москва;sale;flat;1;6;1;20.5;224000;4592000;Коптево;Клары Цеткин;Войковская;
+Msk Estate;real_estate_agent;https://www.cian.ru/sale/flat/277361190/;Москва;sale;flat;1;2;1;26.3;182827;4808370;Вешняки;аллея Первой Маевки;Рязанский проспект;
+Msk Estate;real_estate_agent;https://www.cian.ru/sale/flat/283898835/;Москва;sale;flat;1;6;1;21.8;224000;4883200;Коптево;Клары Цеткин;Войковская;
+Msk Estate;real_estate_agent;https://www.cian.ru/sale/flat/282781725/;Москва;sale;flat;2;4;1;21.4;270560;5790000;Мещанский;Средняя Переяславская;Рижская;
+Msk Estate;real_estate_agent;https://www.cian.ru/sale/flat/284778457/;Москва;sale;flat;4;7;1;26.8;221170;5927368;Коптево;Клары Цеткин;Войковская;
+Msk Estate;real_estate_agent;https://www.cian.ru/sale/flat/286535660/;Москва;sale;flat;1;4;1;15.4;421428;6490000;Басманный;Радио;Бауманская;
+Msk Estate;real_estate_agent;https://www.cian.ru/sale/flat/286976090/;Москва;sale;flat;5;7;1;32.14;205040;6590000;Марьина роща;проезд 3-й Марьиной рощи;Марьина роща;
+Msk Estate;real_estate_agent;https://www.cian.ru/sale/flat/284639058/;Москва;sale;flat;1;4;1;19.3;346632;6690000;Басманный;Радио;Бауманская;
+Msk Estate;real_estate_agent;https://www.cian.ru/sale/flat/286138180/;Москва;sale;flat;4;4;1;20.9;358373;7490000;Басманный;Радио;Бауманская;
+ПЕРСПЕКТИВА24-ЮГО-ЗАПАД;real_estate_agent;https://www.cian.ru/sale/flat/285046177/;Москва;sale;flat;3;17;1;37.2;239247;8900000;Южное Бутово;бульвар Адмирала Ушакова;Улица Скобелевская;
+ПЕРСПЕКТИВА24-ЮГО-ЗАПАД;real_estate_agent;https://www.cian.ru/sale/flat/286730007/;Москва;sale;flat;5;17;1;38.1;262467;10000000;;;Рассказовка;
+TPI Company;real_estate_agent;https://www.cian.ru/sale/flat/286671659/;Москва;sale;flat;2;4;1;22.9;436244;9990000;Хорошевский;Ленинградский проспект;Аэропорт;
+ПЕРСПЕКТИВА24-ЮГО-ЗАПАД;real_estate_agent;https://www.cian.ru/sale/flat/286537948/;Москва;sale;flat;14;22;1;32.0;331250;10600000;Ярославский;Красная Сосна;ВДНХ;Настроение
+ПЕРСПЕКТИВА24-ЮГО-ЗАПАД;real_estate_agent;https://www.cian.ru/sale/flat/286872778/;Москва;sale;flat;24;25;1;46.1;357917;16500000;Солнцево;Боровское шоссе;Говорово;Мещерский лес
+Century 21 Premium Property;real_estate_agent;https://www.cian.ru/sale/flat/282641525/;Москва;sale;flat;26;28;1;42.0;402380;16900000;Можайский;переулок 2-й Петра Алексеева;Кунцевская;КутузовGRAD II
+Century 21 Level;real_estate_agent;https://www.cian.ru/sale/flat/283385785/;Москва;sale;flat;2;11;1;40.9;427872;17500000;Раменки;Винницкая;Раменки;Настоящее
+Chase R.E.S.;real_estate_agent;https://www.cian.ru/sale/flat/286390454/;Москва;sale;flat;11;25;1;46.0;489130;22500000;Очаково-Матвеевское;Нежинская;Аминьевская;Городские резиденции SPIRES
+НДВ;real_estate_agent;https://www.cian.ru/sale/flat/286261421/;Москва;sale;flat;2;12;1;52.2;498084;26000000;Марьина роща;Тихвинская;Менделеевская;
+Verges of estate;real_estate_agent;https://www.cian.ru/sale/flat/276154463/;Москва;sale;flat;8;11;1;54.0;496296;26800000;Гагаринский;Дмитрия Ульянова;Академическая;
+Chase R.E.S.;real_estate_agent;https://www.cian.ru/sale/flat/278897431/;Москва;sale;flat;3;10;1;59.0;564406;33300000;Таганский;Наставнический переулок;Чкаловская;Royal House on Yauza
+Whitewill;real_estate_agent;https://www.cian.ru/sale/flat/285017091/;Москва;sale;flat;7;11;1;39.8;703517;28000000;Басманный;Казакова;Курская;KAZAKOV Grand Loft
+Арт Риэлти;real_estate_agent;https://www.cian.ru/sale/flat/282819804/;Москва;sale;flat;9;48;1;42.0;571428;24000000;Хорошево-Мневники;Народного Ополчения;Народное Ополчение;Wellton Towers
+Msk Estate;real_estate_agent;https://www.cian.ru/sale/flat/287260478/;Москва;sale;flat;4;4;1;26.7;254307;6790000;Мещанский;Средняя Переяславская;Рижская;
+ПИК;developer;https://www.cian.ru/sale/flat/287049980/;Москва;sale;flat;10;32;1;35.9;228562;8205411;Митино;Северо-Западный ао;Пятницкое шоссе;Митинский Лес ЖК
+FALCON GROUP;real_estate_agent;https://www.cian.ru/sale/flat/287065225/;Москва;sale;flat;6;8;1;61.3;440456;27000000;Савеловский;Верхняя Масловка;Петровский Парк;Verdi
+ПИК;developer;https://www.cian.ru/sale/flat/286290017/;Москва;sale;flat;18;26;1;34.26;281991;9661045;Нижегородский;;Нижегородская;Перовское 2 ЖК
+ID 391173;unknown;https://www.cian.ru/sale/flat/279000224/;Москва;sale;flat;6;9;1;33.3;512012;17050000;Дорогомилово;Бережковская набережная;Киевская;
+Князев и Партнёры;real_estate_agent;https://www.cian.ru/sale/flat/285154772/;Москва;sale;flat;22;25;1;29.0;244827;7100000;Митино;Митинская;Митино;Апарт-отель YE’S
+Самолет Плюс Москва ЦАО;real_estate_agent;https://www.cian.ru/sale/flat/285038368/;Москва;sale;flat;11;12;1;38.9;269922;10500000;Южное Медведково;проезд Дежнева;;
+ЕГСН Продажа;real_estate_agent;https://www.cian.ru/sale/flat/275891629/;Москва;sale;flat;1;12;1;39.1;194373;7600000;Бирюлево Восточное;Загорьевский проезд;Царицыно;
+ЕГСН Продажа;real_estate_agent;https://www.cian.ru/sale/flat/278262801/;Москва;sale;flat;4;12;1;46.4;387931;18000000;Лефортово;Красноказарменная;Авиамоторная;
+ЕГСН Продажа;real_estate_agent;https://www.cian.ru/sale/flat/277627452/;Москва;sale;flat;1;14;1;32.0;290625;9300000;Преображенское;Просторная;Бульвар Рокоссовского;
+Группа Родина;developer;https://www.cian.ru/sale/flat/285604977/;Москва;sale;flat;6;13;1;31.08;286435;8902400;;;Ольховая;
+ПИК;developer;https://www.cian.ru/sale/flat/286092619/;Москва;sale;flat;2;19;1;32.2;235834;7593887;Митино;Северо-Западный ао;Пятницкое шоссе;Митинский Лес ЖК
+ID 12963175;official_representative;https://www.cian.ru/sale/flat/284418468/;Москва;sale;flat;4;5;1;19.0;300000;5700000;Марфино;Гостиничный проезд;Окружная;
+Isaev Estate;real_estate_agent;https://www.cian.ru/sale/flat/287206698/;Москва;sale;flat;3;9;1;31.5;365079;11500000;Проспект Вернадского;Лобачевского;Проспект Вернадского;
+Князев и Партнёры;real_estate_agent;https://www.cian.ru/sale/flat/286077172/;Москва;sale;flat;19;25;1;29.0;255172;7400000;Митино;Митинская;Митино;Апарт-отель YE’S
+ФЛИП;real_estate_agent;https://www.cian.ru/sale/flat/286888202/;Москва;sale;flat;3;9;1;34.2;247076;8450000;Орехово-Борисово Южное;Тамбовская;Зябликово;
+Виктор Долгорукий;realtor;https://www.cian.ru/sale/flat/283190332/;Москва;sale;flat;4;4;1;24.0;408333;9800000;Басманный;Старокирочный переулок;Бауманская;
+Самолет Плюс Москва ЦАО;real_estate_agent;https://www.cian.ru/sale/flat/286537827/;Москва;sale;flat;6;33;1;37.0;320270;11850000;Дмитровский;Лобненская;;Дмитровский парк
+BEATRIX;real_estate_agent;https://www.cian.ru/sale/flat/275356516/;Москва;sale;flat;23;46;1;20.0;670000;13400000;Даниловский;Дубининская;Серпуховская;Павелецкая сити
+Chase R.E.S.;real_estate_agent;https://www.cian.ru/sale/flat/281242865/;Москва;sale;flat;27;48;1;43.0;406976;17500000;Хорошево-Мневники;Народного Ополчения;Народное Ополчение;Wellton Towers
+Verges of estate;real_estate_agent;https://www.cian.ru/sale/flat/284496796/;Москва;sale;flat;13;26;1;40.0;575000;23000000;Очаково-Матвеевское;Нежинская;Минская;Городские резиденции SPIRES
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/273362903/;Москва;sale;flat;4;13;1;50.0;560000;28000000;Преображенское;Краснобогатырская;Преображенская площадь;Наследие
+Century 21 Street Realty;real_estate_agent;https://www.cian.ru/sale/flat/278258780/;Москва;sale;flat;19;25;1;41.88;465616;19500000;Пресненский;Шмитовский проезд;Шелепиха;Headliner
+Century 21 Premium Property;real_estate_agent;https://www.cian.ru/sale/flat/282504058/;Москва;sale;flat;17;25;1;48.1;446985;21500000;Раменки;Лобачевского;Аминьевская;Событие
+Chase R.E.S.;real_estate_agent;https://www.cian.ru/sale/flat/285997531/;Москва;sale;flat;7;35;1;45.0;442222;19900000;Пресненский;Шмитовский проезд;Шелепиха;Headliner
+Bespoke Estate;real_estate_agent;https://www.cian.ru/sale/flat/281437461/;Москва;sale;flat;4;7;1;40.5;395061;16000000;Даниловский;;Технопарк;Нагатино Ай-Ленд ЖК
+TEKTA GROUP;developer;https://www.cian.ru/sale/flat/273866964/;Москва;sale;flat;27;34;1;29.3;547700;16047610;Обручевский;Обручева;Воронцовская;Ever
+ID 43561666;homeowner;https://www.cian.ru/sale/flat/286732813/;Москва;sale;flat;8;24;1;45.5;252747;11500000;Покровское-Стрешнево;Волоколамское шоссе;Трикотажная;Апартаментный комплекс Level Стрешнево
+Tower Estate;real_estate_agent;https://www.cian.ru/sale/flat/279939529/;Москва;sale;flat;5;10;1;36.0;444444;16000000;Хамовники;1-я Фрунзенская;Фрунзенская;
+Century 21 Street Realty;real_estate_agent;https://www.cian.ru/sale/flat/286801427/;Москва;sale;flat;11;25;1;33.4;290419;9700000;Кунцево;;Павшино;Мякинино Парк ЖК
+Msk Estate;real_estate_agent;https://www.cian.ru/sale/flat/286384202/;Москва;sale;flat;2;4;1;24.6;251626;6190000;Мещанский;Средняя Переяславская;Рижская;
+Msk Estate;real_estate_agent;https://www.cian.ru/sale/flat/285236577/;Москва;sale;flat;1;17;1;18.5;340540;6300000;Коньково;Миклухо-Маклая;Беляево;
+Msk Estate;real_estate_agent;https://www.cian.ru/sale/flat/282555278/;Москва;sale;flat;5;7;1;32.14;248599;7990000;Марьина роща;проезд 3-й Марьиной рощи;Марьина роща;
+Msk Estate;real_estate_agent;https://www.cian.ru/sale/flat/282766871/;Москва;sale;flat;5;7;1;32.44;292848;9500000;Марьина роща;проезд 3-й Марьиной рощи;Марьина роща;
+Арт Риэлти;real_estate_agent;https://www.cian.ru/sale/flat/279868327/;Москва;sale;flat;13;24;1;31.7;362460;11490000;Щукино;Берзарина;Октябрьское поле;Октябрьское поле
+Verges of estate;real_estate_agent;https://www.cian.ru/sale/flat/277808953/;Москва;sale;flat;41;48;1;50.0;440000;22000000;Обручевский;Ленинский проспект;Новаторская;Well House на Ленинском
+Арт Риэлти;real_estate_agent;https://www.cian.ru/sale/flat/287086457/;Москва;sale;flat;2;35;1;38.0;676315;25700000;Раменки;Лобачевского;Аминьевская;Крылья
+PRIME;real_estate_agent;https://www.cian.ru/sale/flat/284806741/;Москва;sale;flat;5;14;1;45.0;777777;35000000;Раменки;;Минская;Вест Гарден ЖК
+Ключи;real_estate_agent;https://www.cian.ru/sale/flat/287307663/;Москва;sale;flat;5;9;1;31.5;365079;11500000;Проспект Вернадского;Лобачевского;Проспект Вернадского;
+Msk Estate;real_estate_agent;https://www.cian.ru/sale/flat/287316217/;Москва;sale;flat;4;4;1;31.4;238535;7490000;Мещанский;Средняя Переяславская;Рижская;
+Msk Estate;real_estate_agent;https://www.cian.ru/sale/flat/287316221/;Москва;sale;flat;4;4;1;36.6;212841;7790000;Мещанский;Средняя Переяславская;Рижская;
+Msk Estate;real_estate_agent;https://www.cian.ru/sale/flat/287316223/;Москва;sale;flat;4;4;1;36.4;217032;7900000;Мещанский;Средняя Переяславская;Рижская;
+ИМПЕРИАЛ;official_representative;https://www.cian.ru/sale/flat/278747020/;Москва;sale;flat;1;4;1;18.5;189513;3506000;Покровское-Стрешнево;Волоколамское шоссе;Трикотажная;
+ИМПЕРИАЛ;official_representative;https://www.cian.ru/sale/flat/283409798/;Москва;sale;flat;2;4;1;13.1;389312;5100000;Покровское-Стрешнево;Волоколамское шоссе;;
+Космополис;real_estate_agent;https://www.cian.ru/sale/flat/287249936/;Москва;sale;flat;3;4;1;37.8;171957;6500000;;;Филатов Луг;
+CENTURY 21 Перспектива;real_estate_agent;https://www.cian.ru/sale/flat/286422498/;Москва;sale;flat;4;9;1;32.8;243902;8000000;Выхино-Жулебино;Ферганский проезд;Юго-Восточная;
+Суламит-НГС;real_estate_agent;https://www.cian.ru/sale/flat/286335001/;Москва;sale;flat;5;9;1;32.5;252307;8200000;Выхино-Жулебино;Ферганский проезд;Юго-Восточная;
+ИМПЕРИАЛ;official_representative;https://www.cian.ru/sale/flat/281184196/;Москва;sale;flat;4;5;1;17.1;380116;6500000;Черемушки;Херсонская;Зюзино;
+Стоун Бридж эстейт;real_estate_agent;https://www.cian.ru/sale/flat/286707150/;Москва;sale;flat;2;16;1;50.0;1200000;60000000;Якиманка;Большая Якиманка;Полянка;Коперник
+ATLANT;real_estate_agent;https://www.cian.ru/sale/flat/286992958/;Москва;sale;flat;19;52;1;28.0;571428;16000000;Раменки;Мичуринский проспект;Раменки;
+ИМПЕРИАЛ;official_representative;https://www.cian.ru/sale/flat/282406612/;Москва;sale;flat;1;4;1;17.3;421387;7290000;Басманный;Радио;Бауманская;
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/286625793/;Москва;sale;flat;10;18;1;27.5;209090;5750000;;;Ольховая;
+ПИК;developer;https://www.cian.ru/sale/flat/284915169/;Москва;sale;flat;31;33;1;32.6;260831;8503122;Западное Дегунино;Северный ао;Лианозово;Бусиновский Парк ЖК
+ФСК;developer;https://www.cian.ru/sale/flat/278772111/;Москва;sale;flat;-1;-1;-1;1.0;10050806;10050806;Покровское-Стрешнево;Северо-Западный ао;Спартак;Движение Тушино ЖК
+Навигатор;real_estate_agent;https://www.cian.ru/sale/flat/285865750/;Москва;sale;flat;5;19;1;39.3;330788;13000000;Коньково;Введенского;Беляево;
+Ключи;real_estate_agent;https://www.cian.ru/sale/flat/287034120/;Москва;sale;flat;10;26;1;35.2;371874;13090000;Западное Дегунино;Дмитровское шоссе;Верхние Лихоборы;Тринити
+Chase R.E.S.;real_estate_agent;https://www.cian.ru/sale/flat/287243502/;Москва;sale;flat;8;9;1;45.0;655555;29500000;Пресненский;переулок Красина;Маяковская;Дом на Красина
+PORTAL ESTATE;real_estate_agent;https://www.cian.ru/sale/flat/287145708/;Москва;sale;flat;10;17;1;44.0;290909;12800000;Бирюлево Восточное;6-я Радиальная;Царицыно;Царицыно
+PORTAL ESTATE;real_estate_agent;https://www.cian.ru/sale/flat/283530944/;Москва;sale;flat;3;5;1;38.0;115789;4400000;;;Теплый Стан. 2 этаж. Общая площадь 39;
+PORTAL ESTATE;real_estate_agent;https://www.cian.ru/sale/flat/283531900/;Москва;sale;flat;1;5;1;37.0;122972;4550000;;;"Теплый Стан.
+
+1 этаж 5 этажного дома. Общая площадь 38 кв м";
+Империя;real_estate_agent;https://www.cian.ru/sale/flat/286920819/;Москва;sale;flat;6;9;1;35.0;254285;8900000;Коньково;Островитянова;Беляево;
+PORTAL ESTATE;real_estate_agent;https://www.cian.ru/sale/flat/285373708/;Москва;sale;flat;10;17;1;38.3;240208;9200000;;;;
+Chase R.E.S.;real_estate_agent;https://www.cian.ru/sale/flat/275597314/;Москва;sale;flat;11;37;1;28.0;435714;12200000;Раменки;Лобачевского;Аминьевская;Огни
+Chase R.E.S.;real_estate_agent;https://www.cian.ru/sale/flat/281919291/;Москва;sale;flat;7;16;1;30.0;449666;13490000;Лефортово;проезд Невельского;Авиамоторная;Символ
+Chase R.E.S.;real_estate_agent;https://www.cian.ru/sale/flat/279260891/;Москва;sale;flat;32;37;1;37.0;391891;14500000;Раменки;Лобачевского;Аминьевская;Огни
+BRIGHT ESTATE - городская недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/284187408/;Москва;sale;flat;10;15;1;60.6;346534;21000000;Останкинский;проспект Мира;;Hill8
+MiniStudioRealty;real_estate_agent;https://www.cian.ru/sale/flat/287284176/;Москва;sale;flat;2;14;1;41.3;217900;8999270;Сокол;Балтийская;Сокол;
+ФСК;developer;https://www.cian.ru/sale/flat/286827613/;Москва;sale;flat;-1;-1;-1;-1;-11620935;11620935;Покровское-Стрешнево;Северо-Западный ао;Спартак;Движение Тушино ЖК
+ПИК;developer;https://www.cian.ru/sale/flat/272237772/;Москва;sale;flat;33;33;1;32.6;266591;8690898;Западное Дегунино;Северный ао;Бескудниково;Бусиновский Парк ЖК
+GRAVION;developer;https://www.cian.ru/sale/flat/284824183/;Москва;sale;flat;2;9;1;52.18;985234;51409562;Якиманка;Ленинский проспект;Октябрьская;CULT (Апартаменты премиум-класса)
+BRIGHT ESTATE - городская недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/284187406/;Москва;sale;flat;9;15;1;58.6;358361;21000000;Останкинский;проспект Мира;;Hill8
+Msk Estate;real_estate_agent;https://www.cian.ru/sale/flat/287317038/;Москва;sale;flat;4;4;1;33.6;252678;8490000;Мещанский;Средняя Переяславская;Рижская;
+Спартак;developer;https://www.cian.ru/sale/flat/286434756/;Москва;sale;flat;6;14;1;47.52;269360;12800000;Ясенево;Новоясеневский проспект;Тёплый Стан;LES
+ID 59405969;unknown;https://www.cian.ru/sale/flat/286545373/;Москва;sale;flat;9;9;1;33.0;220606;7280000;Ивановское;Молостовых;Новогиреево;
+ID 60102614;realtor;https://www.cian.ru/sale/flat/285521234/;Москва;sale;flat;4;9;1;37.2;315860;11750000;Царицыно;Каспийская;Царицыно;
+ХОРЕКА ИНВЕСТ;real_estate_agent;https://www.cian.ru/sale/flat/283899025/;Москва;sale;flat;6;6;1;18.6;258064;4800000;Марфино;Гостиничный проезд;Окружная;
+RED;real_estate_agent;https://www.cian.ru/sale/flat/286045327/;Москва;sale;flat;11;26;1;36.6;218306;7990000;Митино;Муравская;Пятницкое шоссе;Мир Митино
+ID 102136095;homeowner;https://www.cian.ru/sale/flat/286309827/;Москва;sale;flat;2;9;1;33.0;278787;9200000;Северное Медведково;Широкая;Медведково;
+Homeapp;real_estate_agent;https://www.cian.ru/sale/flat/283113540/;Москва;sale;flat;2;2;1;40.0;237500;9500000;Даниловский;Автозаводская;ЗИЛ;Галерея ЗИЛ
+ИНСАЙДЕР;real_estate_agent;https://www.cian.ru/sale/flat/280679893/;Москва;sale;flat;21;22;1;33.5;289552;9700000;Текстильщики;1-й Грайвороновский проезд;Печатники;Волжский парк
+Homeapp;real_estate_agent;https://www.cian.ru/sale/flat/285622563/;Москва;sale;flat;25;30;1;32.0;353125;11300000;Рязанский;Окская;Окская;balance
+Свой родной дом;real_estate_agent;https://www.cian.ru/sale/flat/284189071/;Москва;sale;flat;10;16;1;43.2;203703;8800000;Бирюлево Восточное;Лебедянская;Царицыно;
+Владис;real_estate_agent;https://www.cian.ru/sale/flat/285614967/;Москва;sale;flat;2;9;1;32.0;250000;8000000;Богородское;Глебовская;Бульвар Рокоссовского;
+One Life;real_estate_agent;https://www.cian.ru/sale/flat/283894159/;Москва;sale;flat;12;18;1;43.2;212962;9200000;;;Коммунарка;
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/286625825/;Москва;sale;flat;19;25;1;36.5;268493;9800000;Митино;Муравская;Пятницкое шоссе;Мир Митино
+Тарас Иванов;realtor;https://www.cian.ru/sale/flat/285391485/;Москва;sale;flat;5;5;1;30.2;387417;11700000;Фили-Давыдково;Минская;Филёвский парк;
+Homeapp;real_estate_agent;https://www.cian.ru/sale/flat/282821911/;Москва;sale;flat;2;17;1;37.4;267352;9999000;Ново-Переделкино;Боровское шоссе;Боровское шоссе;
+ИМПЕРИАЛ;official_representative;https://www.cian.ru/sale/flat/283102563/;Москва;sale;flat;1;4;1;16.5;375272;6192000;Покровское-Стрешнево;Волоколамское шоссе;Трикотажная;
+ИМПЕРИАЛ;official_representative;https://www.cian.ru/sale/flat/278794127/;Москва;sale;flat;2;4;1;17.6;268352;4723000;Покровское-Стрешнево;Волоколамское шоссе;Трикотажная;
+Homeapp;real_estate_agent;https://www.cian.ru/sale/flat/284808198/;Москва;sale;flat;7;9;1;30.0;350000;10500000;Войковский;Клары Цеткин;Балтийская;
+MadeState;real_estate_agent;https://www.cian.ru/sale/flat/286711757/;Москва;sale;flat;11;12;1;34.2;350877;12000000;Донской;Малая Тульская;Тульская;
+Homeapp;real_estate_agent;https://www.cian.ru/sale/flat/286568126/;Москва;sale;flat;9;17;1;37.2;268817;10000000;Выхино-Жулебино;Лермонтовский проспект;Косино;
+ИМПЕРИАЛ;official_representative;https://www.cian.ru/sale/flat/279499134/;Москва;sale;flat;2;4;1;16.9;249704;4220000;Покровское-Стрешнево;Волоколамское шоссе;Трикотажная;
+ПИК;developer;https://www.cian.ru/sale/flat/284914717/;Москва;sale;flat;11;33;1;32.1;274080;8797968;Отрадное;;Владыкино;Сигнальный 16 ЖК
+Центр недвижимости от Сбербанка;real_estate_agent;https://www.cian.ru/sale/flat/286893915/;Москва;sale;flat;8;16;1;34.1;278592;9500000;Бирюлево Западное;Харьковская;Пражская;
+Homeapp;real_estate_agent;https://www.cian.ru/sale/flat/283584693/;Москва;sale;flat;1;12;1;35.4;398305;14100000;Тверской;Новолесная;Белорусская;
+ИМПЕРИАЛ;official_representative;https://www.cian.ru/sale/flat/276055180/;Москва;sale;flat;1;4;1;38.8;288278;11185223;Даниловский;2-я Рощинская;Тульская;
+Артём Рихтер;realtor;https://www.cian.ru/sale/flat/286092744/;Москва;sale;flat;22;30;1;48.8;294487;14371000;Южнопортовый;Волгоградский проспект;Угрешская;Метрополия
+Homeapp;real_estate_agent;https://www.cian.ru/sale/flat/285390770/;Москва;sale;flat;12;12;1;34.6;343930;11900000;Южнопортовый;5-я Кожуховская;Автозаводская;
+Владис;real_estate_agent;https://www.cian.ru/sale/flat/285912655/;Москва;sale;flat;3;17;1;37.6;279255;10500000;Братеево;Братеевская;Борисово;
+Simon Group;real_estate_agent;https://www.cian.ru/sale/flat/282135050/;Москва;sale;flat;12;12;1;33.0;286363;9450000;Хорошево-Мневники;Маршала Тухачевского;Карамышевская;
+УЮТ;real_estate_agent;https://www.cian.ru/sale/flat/286209124/;Москва;sale;flat;9;17;1;38.6;349740;13500000;Хорошевский;Хорошевское шоссе;;
+Свой родной дом;real_estate_agent;https://www.cian.ru/sale/flat/285908566/;Москва;sale;flat;4;5;1;32.1;264797;8500000;Нижегородский;Рязанский проспект;Стахановская;
+Isaev Estate;real_estate_agent;https://www.cian.ru/sale/flat/286848617/;Москва;sale;flat;2;9;1;33.0;263636;8700000;Ясенево;Голубинская;Ясенево;
+Homeapp;real_estate_agent;https://www.cian.ru/sale/flat/286847903/;Москва;sale;flat;23;23;1;37.7;310344;11700000;Южное Бутово;Старокрымская;Улица Скобелевская;Эталон-Сити
+Homeapp;real_estate_agent;https://www.cian.ru/sale/flat/284604062/;Москва;sale;flat;14;14;1;46.8;303418;14200000;Солнцево;Боровское шоссе;Говорово;Мещерский лес
+Homeapp;real_estate_agent;https://www.cian.ru/sale/flat/285681480/;Москва;sale;flat;14;17;1;38.0;250000;9500000;;;Филатов Луг;
+ПИК;developer;https://www.cian.ru/sale/flat/285819629/;Москва;sale;flat;25;33;1;34.2;331295;11330323;Головинский;Кронштадтский бульвар;Водный стадион;Кронштадтский 14
+Homeapp;real_estate_agent;https://www.cian.ru/sale/flat/287128988/;Москва;sale;flat;12;14;1;35.2;340909;12000000;Даниловский;3-й Павелецкий проезд;Серпуховская;
+ПИК;developer;https://www.cian.ru/sale/flat/286291253/;Москва;sale;flat;17;33;1;37.1;286536;10630522;Рязанский;Михайлова;Окская;Михайловский парк
+ID 32194156;realtor;https://www.cian.ru/sale/flat/286588003/;Москва;sale;flat;7;9;1;34.1;319648;10900000;;;Коммунарка;
+Навигатор;real_estate_agent;https://www.cian.ru/sale/flat/286924435/;Москва;sale;flat;3;9;1;32.6;266871;8700000;Печатники;Кухмистерова;Печатники;
+Города;real_estate_agent;https://www.cian.ru/sale/flat/286975458/;Москва;sale;flat;10;25;1;39.0;333333;13000000;Орехово-Борисово Южное;Генерала Белова;Домодедовская;Орехово-Борисово
+Homeapp;real_estate_agent;https://www.cian.ru/sale/flat/287074136/;Москва;sale;flat;2;16;1;35.7;420168;15000000;Таганский;Талалихина;Пролетарская;
+ID 93476937;unknown;https://www.cian.ru/sale/flat/286889396/;Москва;sale;flat;4;18;1;33.7;250118;8429000;;;Рассказовка;
+Homeapp;real_estate_agent;https://www.cian.ru/sale/flat/287103682/;Москва;sale;flat;4;23;1;40.3;347146;13990000;Ново-Переделкино;Чоботовская;Новопеределкино;FoRest
+ПИК;developer;https://www.cian.ru/sale/flat/279435728/;Москва;sale;flat;2;33;1;34.22;243914;8346771;Чертаново Южное;;Красный Строитель;Ютаново ЖК
+Навигатор недвижимости;real_estate_agent;https://www.cian.ru/sale/flat/285709374/;Москва;sale;flat;2;17;1;35.0;311428;10900000;Покровское-Стрешнево;Волоколамское шоссе;Тушинская;
+Свой родной дом;real_estate_agent;https://www.cian.ru/sale/flat/285454779/;Москва;sale;flat;5;19;1;40.0;325000;13000000;Коньково;Введенского;Беляево;
+ID 70767177;homeowner;https://www.cian.ru/sale/flat/287171165/;Москва;sale;flat;12;25;1;33.0;278787;9200000;Люблино;Люблинская;Перерва;Люблинский парк
+Homeapp;real_estate_agent;https://www.cian.ru/sale/flat/283391054/;Москва;sale;flat;14;19;1;40.3;302729;12200000;Лианозово;Псковская;;
+ID 311;realtor;https://www.cian.ru/sale/flat/286631155/;Москва;sale;flat;6;18;1;38.7;227390;8800000;Некрасовка;2-я Вольская;Некрасовка;
+ХОРЕКА ИНВЕСТ;real_estate_agent;https://www.cian.ru/sale/flat/270405991/;Москва;sale;flat;4;6;1;18.0;316666;5700000;Марфино;Гостиничный проезд;Окружная;
+Свой родной дом;real_estate_agent;https://www.cian.ru/sale/flat/284548012/;Москва;sale;flat;3;24;1;44.4;290540;12900000;Гольяново;площадь Белы Куна;Щёлковская;
+Homeapp;real_estate_agent;https://www.cian.ru/sale/flat/287293266/;Москва;sale;flat;4;16;1;46.0;201086;9250000;;;Тёплый Стан;
+Ключи;real_estate_agent;https://www.cian.ru/sale/flat/287036142/;Москва;sale;flat;4;11;1;37.7;363395;13700000;Солнцево;Юлиана Семенова;Солнцево;
+EstateLiga;real_estate_agent;https://www.cian.ru/sale/flat/287238763/;Москва;sale;flat;5;26;1;43.3;284064;12300000;Головинский;Кронштадтский бульвар;Водный стадион;Водный
+Татьяна Забережная;realtor;https://www.cian.ru/sale/flat/283601607/;Москва;sale;flat;1;9;1;26.8;298507;8000000;Северное Измайлово;Сиреневый бульвар;Измайловская;
+Homeapp;real_estate_agent;https://www.cian.ru/sale/flat/287299260/;Москва;sale;flat;12;12;1;35.0;347142;12150000;Ростокино;проспект Мира;Улица Сергея Эйзенштейна;
+Bespoke Estate;real_estate_agent;https://www.cian.ru/sale/flat/287222697/;Москва;sale;flat;12;12;1;40.0;237500;9500000;;;Филатов Луг;
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/273737022/;Москва;sale;flat;4;5;1;15.2;308552;4690000;Академический;Кржижановского;Профсоюзная;
+Msk Estate;real_estate_agent;https://www.cian.ru/sale/flat/280736011/;Москва;sale;flat;2;6;1;27.2;225488;6133277;Коптево;Клары Цеткин;Войковская;
+Msk Estate;real_estate_agent;https://www.cian.ru/sale/flat/285799566/;Москва;sale;flat;5;7;1;32.44;221948;7200000;Марьина роща;проезд 3-й Марьиной рощи;Марьина роща;
+Homeapp;real_estate_agent;https://www.cian.ru/sale/flat/286386002/;Москва;sale;flat;1;9;1;32.9;231003;7600000;Марьино;Батайский проезд;Марьино;
+Homeapp;real_estate_agent;https://www.cian.ru/sale/flat/286530516/;Москва;sale;flat;5;9;1;32.2;242204;7799000;Лосиноостровский;Тайнинская;Медведково;
+Homeapp;real_estate_agent;https://www.cian.ru/sale/flat/287036415/;Москва;sale;flat;5;5;1;31.6;253164;7999999;Головинский;Онежская;Беломорская;
+Центр недвижимости от Сбербанка;real_estate_agent;https://www.cian.ru/sale/flat/286379875/;Москва;sale;flat;2;12;1;35.9;236490;8490000;Западное Дегунино;Весенняя;Селигерская;
+Города;real_estate_agent;https://www.cian.ru/sale/flat/286670989/;Москва;sale;flat;13;22;1;41.06;207014;8500000;;;Саларьево;
+Homeapp;real_estate_agent;https://www.cian.ru/sale/flat/284556413/;Москва;sale;flat;1;9;1;37.0;240540;8900000;Северное Медведково;проезд Шокальского;Медведково;
+Homeapp;real_estate_agent;https://www.cian.ru/sale/flat/286240751/;Москва;sale;flat;3;9;1;32.9;279635;9200000;Гольяново;Щелковское шоссе;Локомотив;
+Homeapp;real_estate_agent;https://www.cian.ru/sale/flat/282206823/;Москва;sale;flat;1;16;1;46.6;199570;9300000;Чертаново Южное;Варшавское шоссе;Аннино;
+Homeapp;real_estate_agent;https://www.cian.ru/sale/flat/282039507/;Москва;sale;flat;1;12;1;39.1;239130;9350000;Кузьминки;Юго-Восточный ао;Кузьминки;
+Homeapp;real_estate_agent;https://www.cian.ru/sale/flat/284124481/;Москва;sale;flat;7;9;1;33.0;287878;9500000;Богородское;Погонный проезд;Бульвар Рокоссовского;
+Homeapp;real_estate_agent;https://www.cian.ru/sale/flat/285027914/;Москва;sale;flat;9;9;1;33.0;290909;9600000;Строгино;Исаковского;Строгино;
+Homeapp;real_estate_agent;https://www.cian.ru/sale/flat/285947512/;Москва;sale;flat;2;14;1;38.0;276315;10500000;Чертаново Северное;Сумской проезд;Чертановская;
+Homeapp;real_estate_agent;https://www.cian.ru/sale/flat/285104800/;Москва;sale;flat;2;14;1;37.0;294594;10900000;Измайлово;Измайловский проезд;Измайловская;
+Homeapp;real_estate_agent;https://www.cian.ru/sale/flat/276924391/;Москва;sale;flat;4;5;1;42.0;266642;11199000;Тимирязевский;Дмитровское шоссе;Дмитровская;
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/286681278/;Москва;sale;flat;15;33;1;41.6;292067;12150000;Отрадное;;Владыкино;Сигнальный 16 ЖК
+Центр недвижимости от Сбербанка;real_estate_agent;https://www.cian.ru/sale/flat/286333817/;Москва;sale;flat;4;23;1;36.2;337016;12200000;Крылатское;Рублевское шоссе;Крылатское;
+Homeapp;real_estate_agent;https://www.cian.ru/sale/flat/283293755/;Москва;sale;flat;3;9;1;32.5;375384;12200000;Савеловский;Мишина;Петровский Парк;
+Homeapp;real_estate_agent;https://www.cian.ru/sale/flat/286999313/;Москва;sale;flat;3;14;1;40.0;307500;12300000;Москворечье-Сабурово;Кантемировская;Царицыно;
+Владис;real_estate_agent;https://www.cian.ru/sale/flat/285709041/;Москва;sale;flat;2;9;1;33.0;383333;12650000;Таганский;Стройковская;Пролетарская;
+Homeapp;real_estate_agent;https://www.cian.ru/sale/flat/285792805/;Москва;sale;flat;8;12;1;30.0;440000;13200000;Тверской;2-я Брестская;Маяковская;Резиденция Тверская
+Homeapp;real_estate_agent;https://www.cian.ru/sale/flat/284092364/;Москва;sale;flat;5;8;1;38.65;349262;13499000;Измайлово;Измайловский проезд;Измайловская;Измайловский 11
+Homeapp;real_estate_agent;https://www.cian.ru/sale/flat/286276834/;Москва;sale;flat;3;39;1;39.8;366834;14600000;Ростокино;Вильгельма Пика;Ботанический сад;Режиссер
+Homeapp;real_estate_agent;https://www.cian.ru/sale/flat/280752202/;Москва;sale;flat;2;17;1;43.8;339954;14890000;Фили-Давыдково;Кастанаевская;Пионерская;
+Homeapp;real_estate_agent;https://www.cian.ru/sale/flat/287084764/;Москва;sale;flat;10;26;1;39.9;363408;14500000;Западное Дегунино;Дмитровское шоссе;Верхние Лихоборы;Тринити
+EstateLiga;real_estate_agent;https://www.cian.ru/sale/flat/286608331/;Москва;sale;flat;21;29;1;43.5;310344;13500000;Нижегородский;Рязанский проспект;Нижегородская;SREDA
+Century 21 Street Realty;real_estate_agent;https://www.cian.ru/sale/flat/287288002/;Москва;sale;flat;16;51;1;29.0;517241;15000000;Пресненский;Шмитовский проезд;Шелепиха;Headliner
+ПИК;developer;https://www.cian.ru/sale/flat/283074222/;Москва;sale;flat;21;33;1;36.2;347136;12566359;Головинский;Кронштадтский бульвар;Водный стадион;Кронштадтский 14
+Homeapp;real_estate_agent;https://www.cian.ru/sale/flat/285230876/;Москва;sale;flat;4;9;1;32.0;359375;11500000;Пресненский;Причальный проезд;Шелепиха;
+Homeapp;real_estate_agent;https://www.cian.ru/sale/flat/287087772/;Москва;sale;flat;3;9;1;31.5;365079;11500000;Проспект Вернадского;Лобачевского;Проспект Вернадского;
+ЦЗН ПРОСПЕКТ МИРА;real_estate_agent;https://www.cian.ru/sale/flat/284655579/;Москва;sale;flat;2;17;1;40.0;302500;12100000;Кунцево;Молодогвардейская;Молодёжная;
+Homeapp;real_estate_agent;https://www.cian.ru/sale/flat/285251375/;Москва;sale;flat;2;7;1;51.4;252821;12995000;Можайский;Верейская;Давыдково;Loft 151
+CENTURY 21;real_estate_agent;https://www.cian.ru/sale/flat/287055306/;Москва;sale;flat;8;39;1;40.0;362500;14500000;Раменки;Лобачевского;Аминьевская;Крылья
+Homeapp;real_estate_agent;https://www.cian.ru/sale/flat/287296909/;Москва;sale;flat;3;21;1;41.6;389423;16200000;Хорошево-Мневники;3-я Хорошевская;Зорге;Вереск
+Адрес;real_estate_agent;https://www.cian.ru/sale/flat/284517014/;Москва;sale;flat;3;6;1;22.7;176211;4000000;Перово;2-я Энтузиастов;Андроновка;
+ID 10202674;realtor;https://www.cian.ru/sale/flat/270142433/;Москва;sale;flat;2;5;1;18.8;225000;4230000;Текстильщики;Артюхиной;Текстильщики;
+ИМПЕРИАЛ;official_representative;https://www.cian.ru/sale/flat/278745498/;Москва;sale;flat;3;4;1;14.6;288698;4215000;Покровское-Стрешнево;Волоколамское шоссе;Трикотажная;
+ID 101643854;homeowner;https://www.cian.ru/sale/flat/287266860/;Москва;sale;flat;1;5;1;35.0;125714;4400000;;;;
+ИМПЕРИАЛ;official_representative;https://www.cian.ru/sale/flat/282940489/;Москва;sale;flat;2;5;1;15.0;365000;5475000;Басманный;Центросоюзный переулок;Бауманская;
+ID 69556235;unknown;https://www.cian.ru/sale/flat/287202531/;Москва;sale;flat;4;4;1;30.0;183333;5500000;Соколиная гора;Большая Семеновская;Семёновская;RT Test JK 1672065719
+ID 18468962;unknown;https://www.cian.ru/sale/flat/286643342/;Москва;sale;flat;4;5;1;18.0;321666;5790000;Академический;Кржижановского;Профсоюзная;
+ID 80301916;realtor;https://www.cian.ru/sale/flat/279762387/;Москва;sale;flat;3;5;1;14.9;409463;6101000;Богородское;Ивантеевская;Бульвар Рокоссовского;
+ПИК;developer;https://www.cian.ru/sale/flat/286096528/;Москва;sale;flat;9;9;1;32.2;195333;6289754;;;Филатов Луг;
+Рида-Химки;real_estate_agent;https://www.cian.ru/sale/flat/285963948/;Москва;sale;flat;2;4;1;37.0;170270;6300000;;;;
+Семь Высоток;real_estate_agent;https://www.cian.ru/sale/flat/286720539/;Москва;sale;flat;5;5;1;30.8;204545;6300000;;;Силикатная;
+МИЦ-Столичный ипотечный центр недвижимости;real_estate_agent;https://www.cian.ru/sale/flat/286481114/;Москва;sale;flat;8;9;1;32.8;193597;6350000;Матушкино;Зеленоград;Ховрино;
+Метриум;real_estate_agent;https://www.cian.ru/sale/flat/286632620/;Москва;sale;flat;2;8;1;24.8;259000;6423200;Таганский;Нижегородская;Калитники;
+Космополис;real_estate_agent;https://www.cian.ru/sale/flat/284152862/;Москва;sale;flat;3;16;1;34.2;198801;6799000;;;;
+ЛИДЕР;real_estate_agent;https://www.cian.ru/sale/flat/286934871/;Москва;sale;flat;1;9;1;29.8;228187;6800000;Старое Крюково;Зеленоград;;
+ID 87073452;unknown;https://www.cian.ru/sale/flat/269837993/;Москва;sale;flat;7;8;1;30.6;225163;6890000;;;Силикатная;
+ID 80771826;homeowner;https://www.cian.ru/sale/flat/265601657/;Москва;sale;flat;4;9;1;32.8;207317;6800000;Матушкино;Зеленоград;Ховрино;
+БЕЛЫЙ КВАДРАТ - Московский Центр Недвижимости;real_estate_agent;https://www.cian.ru/sale/flat/287243436/;Москва;sale;flat;2;22;1;20.0;345000;6900000;Бабушкинский;Летчика Бабушкина;Бабушкинская;
+ПИК;developer;https://www.cian.ru/sale/flat/284916623/;Москва;sale;flat;20;25;1;32.0;219069;7010208;Крюково;Зеленоград;Пятницкое шоссе;Зелёный парк
+НДВ;real_estate_agent;https://www.cian.ru/sale/flat/280590262/;Москва;sale;flat;4;5;1;25.3;276679;7000000;Даниловский;Автозаводская;Автозаводская;
+ПИК;developer;https://www.cian.ru/sale/flat/281409748/;Москва;sale;flat;9;9;1;36.3;199171;7229943;Южное Бутово;;Щербинка;Никольские Луга ЖК
+Самолет Плюс Москва;real_estate_agent;https://www.cian.ru/sale/flat/286730253/;Москва;sale;flat;1;12;1;36.6;196721;7200000;Бирюлево Восточное;Михневская;Царицыно;
+ПИК;developer;https://www.cian.ru/sale/flat/285823152/;Москва;sale;flat;6;9;1;36.5;200888;7332448;Южное Бутово;;Щербинка;Никольские Луга ЖК
+ID 291645;homeowner;https://www.cian.ru/sale/flat/274429171/;Москва;sale;flat;10;17;1;27.14;268975;7300000;;;Рассказовка;
+CENTURY 21;real_estate_agent;https://www.cian.ru/sale/flat/286483512/;Москва;sale;flat;2;16;1;34.2;215497;7370000;Крюково;1 Мая;Комсомольская;
+ID 80301916;realtor;https://www.cian.ru/sale/flat/272245141/;Москва;sale;flat;5;6;1;24.9;297188;7400000;Богородское;Ивантеевская;Бульвар Рокоссовского;
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/287088116/;Москва;sale;flat;7;14;1;40.6;183497;7450000;;;;
+ПИК;developer;https://www.cian.ru/sale/flat/281669697/;Москва;sale;flat;11;11;1;32.0;235027;7520864;Крюково;Зеленоград;Пятницкое шоссе;Зеленый Парк ЖК
+Бест офис на Таганской;real_estate_agent;https://www.cian.ru/sale/flat/287322719/;Москва;sale;flat;8;9;1;36.8;203804;7500000;;;Филатов Луг;
+ОГРК;real_estate_agent;https://www.cian.ru/sale/flat/284543443/;Москва;sale;flat;15;16;1;37.5;200000;7500000;Гольяново;Красноярская;Щёлковская;
+The Smitt;real_estate_agent;https://www.cian.ru/sale/flat/285245103/;Москва;sale;flat;14;16;1;33.0;227272;7500000;;;Силикатная;
+ПИК;developer;https://www.cian.ru/sale/flat/285823410/;Москва;sale;flat;17;17;1;35.98;212301;7638625;;;Щербинка;
+ПИК;developer;https://www.cian.ru/sale/flat/270784124/;Москва;sale;flat;24;25;1;35.6;216442;7705370;Крюково;Зеленоград;Пятницкое шоссе;Зелёный парк
+ПИК;developer;https://www.cian.ru/sale/flat/283354115/;Москва;sale;flat;9;9;1;40.75;188465;7679989;;;Филатов Луг;
+На Петровке;real_estate_agent;https://www.cian.ru/sale/flat/285029841/;Москва;sale;flat;5;5;1;26.0;296153;7700000;Ростокино;Сельскохозяйственная;Ботанический сад;Турист
+ID 305746;homeowner;https://www.cian.ru/sale/flat/287020547/;Москва;sale;flat;5;5;1;26.0;294230;7650000;Ростокино;Сельскохозяйственная;Ботанический сад;Турист
+Cristall Realty;real_estate_agent;https://www.cian.ru/sale/flat/287021362/;Москва;sale;flat;17;17;1;37.7;206896;7800000;Некрасовка;Рождественская;Некрасовка;
+Екатерина Боброва;realtor;https://www.cian.ru/sale/flat/285479798/;Москва;sale;flat;2;9;1;33.0;236363;7800000;Ярославский;Холмогорская;Медведково;
+ФСК Агент;real_estate_agent;https://www.cian.ru/sale/flat/287123720/;Москва;sale;flat;11;12;1;34.3;228862;7850000;Молжаниновский;Ленинградское шоссе;Водники;Первый Ленинградский
+ДСК-1;developer;https://www.cian.ru/sale/flat/280416656/;Москва;sale;flat;-1;-1;-1;202.0;39472;7973515;Молжаниновский;Ленинградское шоссе;Водники;Первый Ленинградский
+ZIP Realty;real_estate_agent;https://www.cian.ru/sale/flat/284503437/;Москва;sale;flat;1;5;1;32.0;249687;7990000;Кузьминки;Волгоградский проспект;Кузьминки;
+Миэль Офис на Юго-Западе;real_estate_agent;https://www.cian.ru/sale/flat/285632897/;Москва;sale;flat;1;9;1;33.0;239393;7900000;Царицыно;Севанская;Царицыно;
+DOMILION;real_estate_agent;https://www.cian.ru/sale/flat/285736097/;Москва;sale;flat;10;16;1;35.0;225714;7900000;Капотня;4-й кв-л;Алма-Атинская;
+Бест офис на Таганской;real_estate_agent;https://www.cian.ru/sale/flat/286390991/;Москва;sale;flat;7;9;1;32.3;244582;7900000;Орехово-Борисово Северное;Борисовский проезд;Шипиловская;
+ЕВРОНЕДВИЖИМОСТЬ;real_estate_agent;https://www.cian.ru/sale/flat/286662346/;Москва;sale;flat;6;9;1;35.2;225852;7950000;Гольяново;Хабаровская;Щёлковская;
+Континент-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/285520789/;Москва;sale;flat;4;9;1;31.6;250000;7900000;Кузьминки;Юных Ленинцев;Кузьминки;
+CENTURY 21;real_estate_agent;https://www.cian.ru/sale/flat/286994766/;Москва;sale;flat;5;14;1;39.3;203562;7999999;Люблино;Совхозная;Люблино;
+CENTURY 21;real_estate_agent;https://www.cian.ru/sale/flat/285797601/;Москва;sale;flat;3;9;1;31.4;251592;7900000;Кузьминки;Академика Скрябина;Рязанский проспект;
+CENTURY 21;real_estate_agent;https://www.cian.ru/sale/flat/287298455/;Москва;sale;flat;2;9;1;32.6;245398;8000000;Чертаново Южное;Россошанская;Улица Академика Янгеля;
+КОММЕРСАНТ;real_estate_agent;https://www.cian.ru/sale/flat/284760808/;Москва;sale;flat;7;15;1;35.7;224089;8000000;;;Рассказовка;
+ZIP Realty;real_estate_agent;https://www.cian.ru/sale/flat/286531595/;Москва;sale;flat;7;9;1;27.0;296296;8000000;Ясенево;Айвазовского;Ясенево;
+ID 87392166;homeowner;https://www.cian.ru/sale/flat/287276113/;Москва;sale;flat;12;14;1;34.2;233918;8000000;;;Рассказовка;
+Homeapp;real_estate_agent;https://www.cian.ru/sale/flat/286376984/;Москва;sale;flat;2;22;1;32.4;253086;8200000;Некрасовка;Маресьева;Некрасовка;Квартал Некрасовка
+Самолет Плюс Москва Сити;real_estate_agent;https://www.cian.ru/sale/flat/282700525/;Москва;sale;flat;13;15;1;37.3;219839;8200000;;;Филатов Луг;
+Владис;real_estate_agent;https://www.cian.ru/sale/flat/287061863/;Москва;sale;flat;2;20;1;38.75;211612;8200000;Бирюлево Восточное;6-я Радиальная;Красный Строитель;Царицыно-2
+Метриум;real_estate_agent;https://www.cian.ru/sale/flat/286633761/;Москва;sale;flat;3;8;1;34.0;241764;8220000;Таганский;Нижегородская;Калитники;
+Новые Ватутинки;developer;https://www.cian.ru/sale/flat/286730034/;Москва;sale;flat;8;8;1;33.2;249155;8271979;;;Ольховая;
+ID 99767394;homeowner;https://www.cian.ru/sale/flat/284433702/;Москва;sale;flat;4;25;1;39.0;212307;8280000;;;Филатов Луг;
+Метриум;real_estate_agent;https://www.cian.ru/sale/flat/286633460/;Москва;sale;flat;3;8;1;31.8;260377;8280000;Таганский;Нижегородская;Калитники;
+ПИК;developer;https://www.cian.ru/sale/flat/277324162/;Москва;sale;flat;2;33;1;32.4;259165;8396978;Метрогородок;к1/4;Бульвар Рокоссовского;Открытый Парк ЖК
+Новые Ватутинки;developer;https://www.cian.ru/sale/flat/282798997/;Москва;sale;flat;8;8;1;31.7;262115;8309077;;;Ольховая;
+ID 101904221;developer;https://www.cian.ru/sale/flat/286253596/;Москва;sale;flat;20;25;1;38.04;220750;8397330;Люблино;Юго-Восточный ао;Перерва;Светлый Мир Станция Л ЖК
+Бест офис на Таганской;real_estate_agent;https://www.cian.ru/sale/flat/283135656/;Москва;sale;flat;1;9;1;34.8;241350;8399000;Восточное Дегунино;Дубнинская;Бескудниково;
+На Петровке;real_estate_agent;https://www.cian.ru/sale/flat/283963670/;Москва;sale;flat;3;12;1;35.0;237142;8300000;Выхино-Жулебино;Волгоградский проспект;Юго-Восточная;
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/287051726/;Москва;sale;flat;5;16;1;40.2;206467;8300000;;;Бульвар Адмирала Ушакова;
+Космополис;real_estate_agent;https://www.cian.ru/sale/flat/284124484/;Москва;sale;flat;1;12;1;40.1;206982;8300000;Южное Медведково;Ясный проезд;Отрадное;
+ГОРОБМЕН;real_estate_agent;https://www.cian.ru/sale/flat/286635831/;Москва;sale;flat;5;5;1;32.0;259375;8300000;Соколиная гора;проспект Буденного;Семёновская;
+ЦАН;real_estate_agent;https://www.cian.ru/sale/flat/285563276/;Москва;sale;flat;8;9;1;34.8;238505;8300000;Орехово-Борисово Южное;Елецкая;Зябликово;
+ПИК;developer;https://www.cian.ru/sale/flat/282440087/;Москва;sale;flat;10;33;1;32.35;260074;8413426;Чертаново Южное;;Красный Строитель;Ютаново ЖК
+ПИК;developer;https://www.cian.ru/sale/flat/285820839/;Москва;sale;flat;2;14;1;32.3;261084;8433045;;;Саларьево;
+ПИК;developer;https://www.cian.ru/sale/flat/280531324/;Москва;sale;flat;2;25;1;40.1;211695;8489009;Крюково;Зеленоград;Пятницкое шоссе;Зеленый Парк ЖК
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/287297463/;Москва;sale;flat;10;34;1;32.5;261507;8499000;Нижегородский;;Нижегородская;Перовское 2 ЖК
+Монолит Столица;real_estate_agent;https://www.cian.ru/sale/flat/284485330/;Москва;sale;flat;14;15;1;38.2;219895;8400000;Южное Бутово;Маршала Савицкого;Бульвар Дмитрия Донского;
+ID 101904221;developer;https://www.cian.ru/sale/flat/286016304/;Москва;sale;flat;14;25;1;38.56;218950;8442712;Люблино;Юго-Восточный ао;Марьино;Светлый Мир Станция Л ЖК
+ПИК;developer;https://www.cian.ru/sale/flat/282440025/;Москва;sale;flat;2;33;1;32.3;261590;8449357;Чертаново Южное;;Красный Строитель;Ютаново ЖК
+ЦАН;real_estate_agent;https://www.cian.ru/sale/flat/283321450/;Москва;sale;flat;2;9;1;36.0;233333;8400000;Чертаново Южное;Россошанская;Улица Академика Янгеля;
+RED;real_estate_agent;https://www.cian.ru/sale/flat/287298403/;Москва;sale;flat;10;11;1;38.1;223097;8500000;Южное Бутово;Бартеневская;Улица Горчакова;
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/287239233/;Москва;sale;flat;2;19;1;32.0;265625;8500000;Северное Бутово;Феодосийская;Бульвар Дмитрия Донского;Гринада
+СТРОЙИНВЕСТ;real_estate_agent;https://www.cian.ru/sale/flat/271866224/;Москва;sale;flat;4;17;1;39.6;215141;8519596;Некрасовка;Лавриненко;Некрасовка;Некрасовка
+ID 87138315;realtor;https://www.cian.ru/sale/flat/287114302/;Москва;sale;flat;3;16;1;38.1;223097;8500000;Южное Бутово;Захарьинские Дворики;Щербинка;
+А101;developer;https://www.cian.ru/sale/flat/286729706/;Москва;sale;flat;8;9;1;36.2;238107;8619492;;;Бунинская аллея;
+ПИК;developer;https://www.cian.ru/sale/flat/281128907/;Москва;sale;flat;31;33;1;32.6;265023;8639782;Алтуфьевский;Алтуфьевское шоссе;Дегунино;Алтуфьевское 53
+ФСК;developer;https://www.cian.ru/sale/flat/279103174/;Москва;sale;flat;-1;-1;-1;202.0;42327;8550146;;;Тропарёво;
+ФСК;developer;https://www.cian.ru/sale/flat/287254403/;Москва;sale;flat;-1;-1;-1;202.0;42401;8565004;;;Тропарёво;
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/286230605/;Москва;sale;flat;8;9;1;33.0;260606;8600000;Ивановское;Сталеваров;Новогиреево;
+А101;developer;https://www.cian.ru/sale/flat/286729930/;Москва;sale;flat;14;17;1;33.4;261272;8726502;;;Бунинская аллея;
+ПИК;developer;https://www.cian.ru/sale/flat/278638587/;Москва;sale;flat;9;33;1;32.5;268660;8731450;Метрогородок;к1/4;Бульвар Рокоссовского;Открытый Парк ЖК
+Владис;real_estate_agent;https://www.cian.ru/sale/flat/287318073/;Москва;sale;flat;4;5;1;31.4;277070;8700000;Богородское;Бойцовая;Бульвар Рокоссовского;
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/285633348/;Москва;sale;flat;10;12;1;34.8;250000;8700000;Царицыно;Кавказский бульвар;Царицыно;
+Квадратный метр;real_estate_agent;https://www.cian.ru/sale/flat/284840092/;Москва;sale;flat;4;5;1;31.0;280645;8700000;Коньково;Академика Арцимовича;Беляево;
+Навигатор;real_estate_agent;https://www.cian.ru/sale/flat/286252143/;Москва;sale;flat;4;9;1;32.4;268518;8700000;Орехово-Борисово Северное;Шипиловская;Орехово;
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/287169289/;Москва;sale;flat;8;25;1;43.5;200000;8700000;;;Филатов Луг;
+Московский Риэлторский Центр;real_estate_agent;https://www.cian.ru/sale/flat/286944087/;Москва;sale;flat;3;9;1;32.5;267692;8700000;Печатники;Кухмистерова;Печатники;
+Екатерина Москвина;realtor;https://www.cian.ru/sale/flat/287123908/;Москва;sale;flat;16;16;1;35.0;248571;8700000;Марьино;Белореченская;Братиславская;
+Новые Ватутинки;developer;https://www.cian.ru/sale/flat/282647539/;Москва;sale;flat;14;14;1;37.2;236499;8797800;;;Ольховая;
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/286560884/;Москва;sale;flat;9;12;1;35.2;248579;8750000;;;Бунинская аллея;
+Новые Ватутинки;developer;https://www.cian.ru/sale/flat/282647525/;Москва;sale;flat;15;15;1;37.8;232724;8797000;;;Ольховая;
+Кристина Лебедева;realtor;https://www.cian.ru/sale/flat/275162851/;Москва;sale;flat;3;4;1;27.3;321062;8765000;Соколиная гора;Щербаковская;Измайлово;
+ПИК;developer;https://www.cian.ru/sale/flat/276334706/;Москва;sale;flat;8;33;1;32.3;272497;8801685;Очаково-Матвеевское;к1.1;Давыдково;Новое Очаково ЖК
+ПИК;developer;https://www.cian.ru/sale/flat/281815936/;Москва;sale;flat;6;17;1;34.3;259367;8896322;;;Бунинская аллея;
+ПИК;developer;https://www.cian.ru/sale/flat/272110060/;Москва;sale;flat;31;33;1;34.6;256895;8888601;Западное Дегунино;Северный ао;Бескудниково;Бусиновский Парк ЖК
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/284153146/;Москва;sale;flat;9;9;1;32.6;269938;8800000;Печатники;Полбина;Депо;
+ЗЕЛЕНОГРАДСКИЙ ЦЕНТР НЕДВИЖИМОСТИ И ИПОТЕКИ;real_estate_agent;https://www.cian.ru/sale/flat/286606638/;Москва;sale;flat;7;14;1;33.7;261127;8800000;Крюково;Зеленоград;;Жемчужина Зеленограда
+ФСК Агент;real_estate_agent;https://www.cian.ru/sale/flat/286719450/;Москва;sale;flat;11;14;1;38.4;229166;8800000;Молжаниновский;Ленинградское шоссе;Водники;Первый Ленинградский
+ЕГСН Продажа;real_estate_agent;https://www.cian.ru/sale/flat/277507095/;Москва;sale;flat;1;14;1;36.0;249972;8999000;Головинский;Флотская;Водный стадион;
+ПИК;developer;https://www.cian.ru/sale/flat/285821162/;Москва;sale;flat;2;14;1;34.5;259570;8955165;;;Филатов Луг;Саларьево Парк ЖК
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/287082067/;Москва;sale;flat;20;23;1;36.0;247222;8900000;Можайский;Барвихинская;Сетунь;
+ПИК;developer;https://www.cian.ru/sale/flat/286577194/;Москва;sale;flat;27;33;1;36.0;247602;8913678;Царицыно;Кавказский бульвар;Кантемировская;Кавказский бульвар 51
+ПИК;developer;https://www.cian.ru/sale/flat/276334747/;Москва;sale;flat;28;33;1;31.4;283810;8911634;Очаково-Матвеевское;к1.2;Давыдково;Новое Очаково ЖК
+ПИК;developer;https://www.cian.ru/sale/flat/282440074/;Москва;sale;flat;5;33;1;36.16;246944;8929531;Чертаново Южное;;Красный Строитель;Ютаново ЖК
+Космополис;real_estate_agent;https://www.cian.ru/sale/flat/284405416/;Москва;sale;flat;2;5;1;31.2;285256;8900000;Головинский;Онежская;Речной вокзал;
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/278180877/;Москва;sale;flat;8;15;1;37.7;237400;8950000;;;Бунинская аллея;
+МИЭЛЬ;real_estate_agent;https://www.cian.ru/sale/flat/287154502/;Москва;sale;flat;9;9;1;33.0;272727;9000000;Теплый Стан;Профсоюзная;Тёплый Стан;
+Homeapp;real_estate_agent;https://www.cian.ru/sale/flat/285951216/;Москва;sale;flat;9;12;1;41.3;217917;9000000;Можайский;Сколковское шоссе;Молодёжная;Stellar City
+ПИК;developer;https://www.cian.ru/sale/flat/281484220/;Москва;sale;flat;8;14;1;33.1;273103;9039742;;;Филатов Луг;Саларьево Парк ЖК
+ПИК;developer;https://www.cian.ru/sale/flat/278142505/;Москва;sale;flat;20;33;1;36.1;249974;9024097;Метрогородок;к1/2;Бульвар Рокоссовского;Открытый Парк ЖК
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/287281376/;Москва;sale;flat;11;17;1;37.5;240000;9000000;Выхино-Жулебино;Привольная;Лермонтовский проспект;
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/285228084/;Москва;sale;flat;9;9;1;32.5;276923;9000000;Теплый Стан;Профсоюзная;Тёплый Стан;
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/278449052/;Москва;sale;flat;1;17;1;37.8;238095;9000000;Москворечье-Сабурово;Кантемировская;Кантемировская;
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/277236052/;Москва;sale;flat;4;9;1;33.0;272727;9000000;Кузьминки;Зеленодольская;Кузьминки;
+PROНЕДВИЖИМОСТЬ;real_estate_agent;https://www.cian.ru/sale/flat/285798770/;Москва;sale;flat;13;19;1;43.0;210465;9050000;;;Коммунарка;
+ПРОГРЕСС;developer;https://www.cian.ru/sale/flat/283847182/;Москва;sale;flat;12;18;1;27.5;329515;9061668;Щукино;Большой Волоколамский проезд;Стрешнево;Комплекс апартаментов B’aires
+Бест-Пресня;real_estate_agent;https://www.cian.ru/sale/flat/287235838/;Москва;sale;flat;2;5;1;36.6;245901;9000000;Новогиреево;Зеленый проспект;Перово;
+Омега-Эстейт;real_estate_agent;https://www.cian.ru/sale/flat/286914131/;Москва;sale;flat;1;9;1;33.2;271084;9000000;Щукино;Рогова;Щукинская;
+А101;developer;https://www.cian.ru/sale/flat/285086311/;Москва;sale;flat;2;30;1;35.6;255618;9100013;Южное Бутово;к2.4;Бунинская аллея;Южные Сады ЖК
+ПИК;developer;https://www.cian.ru/sale/flat/282519485/;Москва;sale;flat;5;21;1;32.0;287200;9190400;Сокольники;Сокольнический Вал;Рижская;Сокольнический вал 1
+Новые Ватутинки;developer;https://www.cian.ru/sale/flat/282647527/;Москва;sale;flat;2;15;1;40.6;226248;9185700;;;Ольховая;
+ПИК;developer;https://www.cian.ru/sale/flat/286291107/;Москва;sale;flat;2;24;1;34.1;268962;9171638;Отрадное;;Бибирево;Римского-Корсакова 11 ЖК
+Абсолют Недвижимость;developer;https://www.cian.ru/sale/flat/285928708/;Москва;sale;flat;5;17;1;38.7;236134;9138416;;;Рассказовка;
+ОГРК;real_estate_agent;https://www.cian.ru/sale/flat/284678831/;Москва;sale;flat;5;12;1;35.8;256703;9190000;Северное Медведково;Студеный проезд;Медведково;
+ПИК;developer;https://www.cian.ru/sale/flat/279788775/;Москва;sale;flat;17;32;1;42.4;215937;9155771;Митино;Северо-Западный ао;Пятницкое шоссе;Митинский Лес ЖК
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/286918036/;Москва;sale;flat;6;16;1;44.08;206442;9100000;Люблино;Юго-Восточный ао;Братиславская;Светлый Мир Станция Л ЖК
+Континент-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/284450427/;Москва;sale;flat;9;9;1;34.6;265895;9200000;Южное Медведково;Ясный проезд;Отрадное;
+Своя Квартира;real_estate_agent;https://www.cian.ru/sale/flat/284651403/;Москва;sale;flat;9;17;1;34.5;266666;9200000;Перово;Федеративный проспект;;
+ГОРОБМЕН;real_estate_agent;https://www.cian.ru/sale/flat/280630595/;Москва;sale;flat;5;5;1;31.9;288401;9200000;Зюзино;Черноморский бульвар;Чертановская;
+ID 11130039;official_representative;https://www.cian.ru/sale/flat/284131072/;Москва;sale;flat;2;22;1;20.5;450097;9227000;Пресненский;Сергея Макеева;Выставочная;
+А101;developer;https://www.cian.ru/sale/flat/274078427/;Москва;sale;flat;6;30;1;33.3;280201;9330707;Южное Бутово;к2.4;Бунинская аллея;Южные Сады ЖК
+ТСН Владис;real_estate_agent;https://www.cian.ru/sale/flat/273639329/;Москва;sale;flat;13;22;1;37.86;245641;9300000;Западное Дегунино;Дегунинская;Селигерская;
+Офис в Сокольниках;real_estate_agent;https://www.cian.ru/sale/flat/285952813/;Москва;sale;flat;5;5;1;30.3;306930;9300000;Сокольники;Стромынка;Сокольники;
+ПЕРСПЕКТИВА24-ЮГО-ЗАПАД;real_estate_agent;https://www.cian.ru/sale/flat/286913299/;Москва;sale;flat;10;12;1;33.0;281818;9300000;Теплый Стан;Генерала Тюленева;Тёплый Стан;
+ПИК;developer;https://www.cian.ru/sale/flat/285822279/;Москва;sale;flat;26;33;1;36.3;256438;9308735;Алтуфьевский;Алтуфьевское шоссе;Дегунино;Алтуфьевское 53
+ПИК;developer;https://www.cian.ru/sale/flat/276334710/;Москва;sale;flat;25;33;1;36.2;257549;9323310;Очаково-Матвеевское;к1.1;Давыдково;Новое Очаково ЖК
+ПИК;developer;https://www.cian.ru/sale/flat/282449618/;Москва;sale;flat;2;17;1;32.7;283304;9264073;Метрогородок;к2/4;Бульвар Рокоссовского;Лосиноостровский Парк ЖК
+ДомЭль Недвижимость. Отделение на Серпуховской. 8 отдел;real_estate_agent;https://www.cian.ru/sale/flat/286792984/;Москва;sale;flat;15;24;1;37.8;246031;9300000;Выхино-Жулебино;Жулебинский бульвар;Лермонтовский проспект;
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/286478942/;Москва;sale;flat;14;17;1;39.1;236572;9250000;;;Бунинская аллея;
+СТРОЙИНВЕСТ;real_estate_agent;https://www.cian.ru/sale/flat/284080223/;Москва;sale;flat;13;25;1;41.5;224002;9296100;Некрасовка;Липчанского;Некрасовка;Некрасовка
+АБ Риэлти;real_estate_agent;https://www.cian.ru/sale/flat/285167377/;Москва;sale;flat;2;9;1;39.0;238461;9300000;Косино-Ухтомский;Рудневка;Лухмановская;
+Level Group;developer;https://www.cian.ru/sale/flat/285646692/;Москва;sale;flat;2;33;1;28.2;333478;9404100;Западное Дегунино;Северный ао;Селигерская;Левел Селигерская ЖК
+ДОМ МСК;real_estate_agent;https://www.cian.ru/sale/flat/287234763/;Москва;sale;flat;9;12;1;39.1;240409;9400000;Южное Бутово;Адмирала Лазарева;Бунинская аллея;
+Новые Ватутинки;developer;https://www.cian.ru/sale/flat/281861139/;Москва;sale;flat;4;14;1;41.2;230255;9486547;;;Ольховая;
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/287088075/;Москва;sale;flat;1;9;1;35.0;271428;9500000;Чертаново Северное;Кировоградская;Чертановская;
+А101;developer;https://www.cian.ru/sale/flat/278068522/;Москва;sale;flat;5;9;1;36.5;261089;9529763;;;Улица Скобелевская;
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/278015834/;Москва;sale;flat;14;17;1;38.7;245478;9500000;Орехово-Борисово Южное;Гурьевский проезд;Красногвардейская;
+Владис;real_estate_agent;https://www.cian.ru/sale/flat/287085496/;Москва;sale;flat;5;25;1;38.0;250000;9500000;Лосиноостровский;Тайнинская;Медведково;Нормандия
+Владис;real_estate_agent;https://www.cian.ru/sale/flat/286400709/;Москва;sale;flat;1;9;1;29.6;320945;9500000;Раменки;Столетова;Ломоносовский проспект;
+Космополис;real_estate_agent;https://www.cian.ru/sale/flat/275934186/;Москва;sale;flat;3;8;1;40.5;234567;9500000;Люблино;Маршала Баграмяна;Люблино;
+Навигатор;real_estate_agent;https://www.cian.ru/sale/flat/287022141/;Москва;sale;flat;3;5;1;34.9;275071;9600000;Соколиная гора;8-я Соколиной Горы;Соколиная гора;
+ПИК;developer;https://www.cian.ru/sale/flat/284074064/;Москва;sale;flat;11;33;1;37.4;256035;9575709;Алтуфьевский;Алтуфьевское шоссе;Дегунино;Алтуфьевское 53
+ПИК;developer;https://www.cian.ru/sale/flat/285819251/;Москва;sale;flat;2;22;1;32.4;297646;9643762;Нагатино-Садовники;к1.5;Нагатинская;Второй Нагатинский ЖК
+PRO ОБМЕН;real_estate_agent;https://www.cian.ru/sale/flat/286674942/;Москва;sale;flat;14;15;1;36.6;262295;9600000;;;Улица Скобелевская;
+ID 53120826;unknown;https://www.cian.ru/sale/flat/280790629/;Москва;sale;flat;3;10;1;41.0;234146;9600000;;;Коммунарка;
+Д-Инвест;developer;https://www.cian.ru/sale/flat/269474776/;Москва;sale;flat;15;18;1;33.3;292000;9723600;Останкинский;Березовая аллея;Ботанический сад;Апарт-комплекс Легендарный квартал
+ПИК;developer;https://www.cian.ru/sale/flat/281172299/;Москва;sale;flat;11;28;1;34.0;286537;9742258;Гольяново;;Черкизовская;Амурский парк ЖК
+Городские квартиры;real_estate_agent;https://www.cian.ru/sale/flat/285551299/;Москва;sale;flat;5;17;1;38.0;255263;9700000;Западное Дегунино;Весенняя;Яхромская;
+Монолит Столица;real_estate_agent;https://www.cian.ru/sale/flat/285550107/;Москва;sale;flat;12;15;1;38.5;251168;9670000;Молжаниновский;Ленинградское шоссе;Водники;Первый Ленинградский
+ПИК;developer;https://www.cian.ru/sale/flat/282439880/;Москва;sale;flat;19;33;1;35.9;269007;9657370;Царицыно;;Кантемировская;Кавказский Бульвар 51 ЖК
+ФСК Агент;real_estate_agent;https://www.cian.ru/sale/flat/286448463/;Москва;sale;flat;8;14;1;42.1;229216;9650000;Молжаниновский;Ленинградское шоссе;Водники;Первый Ленинградский
+ЭЛЬНОВА;real_estate_agent;https://www.cian.ru/sale/flat/285305348/;Москва;sale;flat;3;9;1;47.1;205944;9700000;;;Бунинская аллея;
+Level Group;developer;https://www.cian.ru/sale/flat/286511164/;Москва;sale;flat;17;33;1;28.5;344520;9818820;Западное Дегунино;Северный ао;Селигерская;Левел Селигерская ЖК
+ПИК;developer;https://www.cian.ru/sale/flat/281943238/;Москва;sale;flat;26;33;1;34.2;286840;9809928;Метрогородок;к2/1;Бульвар Рокоссовского;Лосиноостровский Парк ЖК
+ПИК;developer;https://www.cian.ru/sale/flat/270790883/;Москва;sale;flat;13;23;1;33.8;289365;9780537;Текстильщики;Юго-Восточный ао;Текстильщики;Волжский Парк ЖК
+OPN PARTNER;real_estate_agent;https://www.cian.ru/sale/flat/284356833/;Москва;sale;flat;8;18;1;37.0;263513;9750000;Бирюлево Восточное;6-я Радиальная;Царицыно;Царицыно-2
+OPN PARTNER;real_estate_agent;https://www.cian.ru/sale/flat/286251851/;Москва;sale;flat;7;18;1;38.0;257631;9790000;Бирюлево Восточное;6-я Радиальная;Царицыно;Царицыно-2
+Монолит Столица;real_estate_agent;https://www.cian.ru/sale/flat/286022893/;Москва;sale;flat;2;17;1;38.0;257894;9800000;Ново-Переделкино;Боровское шоссе;Боровское шоссе;
+ПИК;developer;https://www.cian.ru/sale/flat/286830487/;Москва;sale;flat;24;33;1;33.9;289970;9830016;Отрадное;;Владыкино;Сигнальный 16 ЖК
+Абсолют Недвижимость;developer;https://www.cian.ru/sale/flat/285438366/;Москва;sale;flat;7;9;1;41.4;237558;9834912;;;Рассказовка;
+Адреса;real_estate_agent;https://www.cian.ru/sale/flat/287284015/;Москва;sale;flat;10;16;1;37.5;261333;9800000;Лианозово;Череповецкая;Лианозово;
+Жилищная инициатива;real_estate_agent;https://www.cian.ru/sale/flat/282891483/;Москва;sale;flat;11;25;1;41.8;235167;9830000;;;Саларьево;
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/276774532/;Москва;sale;flat;9;18;1;38.8;254896;9890000;Бирюлево Восточное;6-я Радиальная;Пражская;Царицыно-2
+ПИК;developer;https://www.cian.ru/sale/flat/277324036/;Москва;sale;flat;33;33;1;36.0;273912;9860832;Отрадное;;Владыкино;Сигнальный 16 ЖК
+МИЦ;developer;https://www.cian.ru/sale/flat/286217690/;Москва;sale;flat;2;17;1;35.3;279100;9852230;Печатники;Шоссейная;Перерва;Графика на воде
+Владис;real_estate_agent;https://www.cian.ru/sale/flat/287304293/;Москва;sale;flat;1;14;1;38.3;258485;9900000;Северное Медведково;Широкая;Медведково;
+ПИК;developer;https://www.cian.ru/sale/flat/277350372/;Москва;sale;flat;3;21;1;33.7;293600;9894320;Сокольники;Сокольнический Вал;Рижская;Сокольнический вал 1
+ПИК;developer;https://www.cian.ru/sale/flat/286092480/;Москва;sale;flat;7;33;1;30.7;321709;9876489;Очаково-Матвеевское;;Аминьевская;Большая Очаковская 2 ЖК
+ПИК;developer;https://www.cian.ru/sale/flat/284916300/;Москва;sale;flat;19;24;1;33.9;295525;10018331;Отрадное;;Отрадное;Римского-Корсакова 11 ЖК
+НДВ;real_estate_agent;https://www.cian.ru/sale/flat/278832173/;Москва;sale;flat;4;9;1;32.4;308611;9999000;Котловка;Нахимовский проспект;Нахимовский проспект;
+Welcome 24;real_estate_agent;https://www.cian.ru/sale/flat/286552431/;Москва;sale;flat;4;4;1;34.5;289826;9999000;Академический;Винокурова;Академическая;
+METRAGE;real_estate_agent;https://www.cian.ru/sale/flat/287247604/;Москва;sale;flat;12;13;1;38.0;263157;10000000;Люблино;Люблинская;Люблино;
+RED;real_estate_agent;https://www.cian.ru/sale/flat/287105009/;Москва;sale;flat;15;16;1;36.0;277777;9999999;Бабушкинский;Радужная;Свиблово;
+Century 21 Level;real_estate_agent;https://www.cian.ru/sale/flat/287193803/;Москва;sale;flat;3;14;1;39.1;255754;10000000;Ново-Переделкино;Скульптора Мухиной;Новопеределкино;
+Ольга Щербакова;realtor;https://www.cian.ru/sale/flat/286570172/;Москва;sale;flat;4;17;1;46.0;216956;9980000;;;Коммунарка;
+ПИК;developer;https://www.cian.ru/sale/flat/276334921/;Москва;sale;flat;29;33;1;36.2;279971;10134986;Метрогородок;к2/1;Бульвар Рокоссовского;Лосиноостровский Парк ЖК
+ЕГСН Продажа;real_estate_agent;https://www.cian.ru/sale/flat/278366106/;Москва;sale;flat;7;14;1;39.6;255050;10100000;Гольяново;Байкальская;Щёлковская;
+РГ-Девелопмент;developer;https://www.cian.ru/sale/flat/286729287/;Москва;sale;flat;26;30;1;41.9;242000;10139800;Чертаново Южное;;Аннино;Варшавские Ворота ЖК
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/274999731/;Москва;sale;flat;6;26;1;35.6;283707;10100000;Кунцево;к3/4;Кунцевская;Мякинино Парк ЖК
+ПИК;developer;https://www.cian.ru/sale/flat/281172142/;Москва;sale;flat;22;33;1;36.2;278153;10069174;Очаково-Матвеевское;к1.4;Давыдково;Новое Очаково ЖК
+Велес Проперти Консалт;real_estate_agent;https://www.cian.ru/sale/flat/286900185/;Москва;sale;flat;5;22;1;38.0;265789;10100000;Ново-Переделкино;Боровское шоссе;Новопеределкино;
+А101;developer;https://www.cian.ru/sale/flat/274079456/;Москва;sale;flat;2;30;1;38.1;268429;10227170;Южное Бутово;;Бунинская аллея;Южные Сады ЖК
+Абсолют Недвижимость;developer;https://www.cian.ru/sale/flat/285928691/;Москва;sale;flat;9;17;1;46.1;221822;10226007;;;Рассказовка;
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/285693530/;Москва;sale;flat;2;5;1;32.0;318750;10200000;Академический;Шверника;Крымская;
+ПИК;developer;https://www.cian.ru/sale/flat/286291502/;Москва;sale;flat;2;38;1;32.11;318755;10235255;Южнопортовый;;Волгоградский проспект;Первый Дубровский ЖК
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/287218435/;Москва;sale;flat;7;34;1;40.5;251827;10199000;Нагатино-Садовники;к1.5;Нагатинская;Второй Нагатинский ЖК
+RED;real_estate_agent;https://www.cian.ru/sale/flat/287254013/;Москва;sale;flat;6;17;1;43.4;235714;10230000;;;Бунинская аллея;
+ID 49002304;unknown;https://www.cian.ru/sale/flat/285557694/;Москва;sale;flat;19;25;1;35.25;289361;10200000;Нижегородский;Рязанский проспект;Нижегородская;Аквилон Beside
+Группа ЛСР;developer;https://www.cian.ru/sale/flat/282487242/;Москва;sale;flat;2;23;1;42.7;240465;10267898;Чертаново Центральное;;Покровское;Парксайд ЖК
+ГОРОБМЕН;real_estate_agent;https://www.cian.ru/sale/flat/286412540/;Москва;sale;flat;6;9;1;38.0;271052;10300000;Текстильщики;Артюхиной;Волжская;
+MR Group;developer;https://www.cian.ru/sale/flat/285042059/;Москва;sale;flat;-1;-1;-1;202.0;50915;10285000;Покровское-Стрешнево;Северо-Западный ао;Мякинино;Сити Бэй ЖК
+ПИК;developer;https://www.cian.ru/sale/flat/284074560/;Москва;sale;flat;2;33;1;34.5;298336;10292625;Очаково-Матвеевское;;Озёрная;Мичуринский Парк ЖК
+Dream Realty;real_estate_agent;https://www.cian.ru/sale/flat/287084845/;Москва;sale;flat;13;17;1;38.0;271052;10300000;Некрасовка;Вертолетчиков;Некрасовка;Некрасовка
+Владис;real_estate_agent;https://www.cian.ru/sale/flat/286955047/;Москва;sale;flat;6;14;1;38.0;271052;10300000;Солнцево;Главмосстроя;Солнцево;
+Dream Realty;real_estate_agent;https://www.cian.ru/sale/flat/285709317/;Москва;sale;flat;4;6;1;38.8;265463;10300000;Новокосино;Николая Старостина;Новокосино;
+ПИК;developer;https://www.cian.ru/sale/flat/279105230/;Москва;sale;flat;14;21;1;37.8;275400;10410120;Сокольники;Сокольнический Вал;Рижская;Сокольнический вал 1
+ПИК;developer;https://www.cian.ru/sale/flat/286830966/;Москва;sale;flat;4;33;1;32.4;320472;10383325;Очаково-Матвеевское;;Аминьевская;Матвеевский Парк ЖК
+ПИК;developer;https://www.cian.ru/sale/flat/282439668/;Москва;sale;flat;26;33;1;32.6;318655;10388153;Нагатино-Садовники;к1.3;Нагатинская;Второй Нагатинский ЖК
+Основа;developer;https://www.cian.ru/sale/flat/286346332/;Москва;sale;flat;14;29;1;30.6;339300;10382580;Черемушки;Наметкина;Новые Черёмушки;Nametkin Tower
+Анна Климова;realtor;https://www.cian.ru/sale/flat/274682561/;Москва;sale;flat;13;14;1;43.4;239631;10400000;Свиблово;Вересковая;Свиблово;
+Cristall Realty;real_estate_agent;https://www.cian.ru/sale/flat/287257901/;Москва;sale;flat;6;19;1;46.0;226086;10400000;;;Рассказовка;
+Владис;real_estate_agent;https://www.cian.ru/sale/flat/286707075/;Москва;sale;flat;7;15;1;43.6;237385;10350000;Люблино;Юго-Восточный ао;;Светлый Мир Станция Л ЖК
+ПИК;developer;https://www.cian.ru/sale/flat/273746690/;Москва;sale;flat;7;33;1;34.2;305120;10435138;Нагатино-Садовники;;Коломенская;Второй Нагатинский ЖК
+ПИК;developer;https://www.cian.ru/sale/flat/283554204/;Москва;sale;flat;3;24;1;39.3;264620;10399566;Отрадное;;Бибирево;Римского-Корсакова 11 ЖК
+MR Group;developer;https://www.cian.ru/sale/flat/286391724/;Москва;sale;flat;-1;-1;-1;202.0;51647;10432719;Южнопортовый;Волгоградский проспект;Волгоградский проспект;Метрополия
+Павел Коробов;realtor;https://www.cian.ru/sale/flat/285593403/;Москва;sale;flat;11;17;1;38.2;272251;10400000;Чертаново Северное;Варшавское шоссе;Чертановская;
+Владис;real_estate_agent;https://www.cian.ru/sale/flat/286396146/;Москва;sale;flat;17;28;1;47.5;221052;10500000;Ховрино;Флотская;Речной вокзал;Апарт-комплекс Флотилия
+OPN PARTNER;real_estate_agent;https://www.cian.ru/sale/flat/284356272/;Москва;sale;flat;16;18;1;36.0;290277;10450000;Бирюлево Восточное;6-я Радиальная;Царицыно;Царицыно-2
+ОГРК;real_estate_agent;https://www.cian.ru/sale/flat/284720639/;Москва;sale;flat;10;12;1;35.3;297167;10490000;Коптево;Большая Академическая;Красный Балтиец;
+Владис;real_estate_agent;https://www.cian.ru/sale/flat/286989837/;Москва;sale;flat;2;15;1;36.3;289256;10500000;Ховрино;Зеленоградская;Ховрино;
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/287226192/;Москва;sale;flat;5;34;1;32.6;322055;10499000;Очаково-Матвеевское;к.2.2;Аминьевская;Матвеевский Парк ЖК
+На Петровке;real_estate_agent;https://www.cian.ru/sale/flat/286659273/;Москва;sale;flat;5;15;1;41.5;253012;10500000;Царицыно;Пролетарский проспект;Кантемировская;
+БЕСТ на Октябрьской;real_estate_agent;https://www.cian.ru/sale/flat/287211481/;Москва;sale;flat;4;12;1;44.0;238636;10500000;Чертаново Южное;Академика Янгеля;Улица Академика Янгеля;
+Лидия Ортнер;realtor;https://www.cian.ru/sale/flat/286591268/;Москва;sale;flat;1;9;1;32.1;327102;10500000;Коньково;Профсоюзная;Беляево;
+Навигатор недвижимости;real_estate_agent;https://www.cian.ru/sale/flat/280934641/;Москва;sale;flat;17;17;1;37.6;279255;10500000;Ново-Переделкино;Боровское шоссе;Боровское шоссе;
+ПИК;developer;https://www.cian.ru/sale/flat/278391114/;Москва;sale;flat;3;25;1;34.2;308958;10566397;Бабушкинский;;Свиблово;Кольская 8 ЖК
+ПИК;developer;https://www.cian.ru/sale/flat/270781480/;Москва;sale;flat;22;33;1;32.6;326431;10641683;Нижегородский;Новохохловская;Новохохловская;Новохохловская 15
+ФСК Агент;real_estate_agent;https://www.cian.ru/sale/flat/286301692/;Москва;sale;flat;3;33;1;40.1;264339;10600000;Южное Бутово;Поляны;Улица Скобелевская;Столичные поляны
+ГК  LER GROUP;official_representative;https://www.cian.ru/sale/flat/278827996/;Москва;sale;flat;2;4;1;43.1;245011;10560000;Покровское-Стрешнево;Летная;Тушинская;
+ПИК;developer;https://www.cian.ru/sale/flat/280318807/;Москва;sale;flat;6;17;1;36.1;296333;10697657;Метрогородок;к2/4;Бульвар Рокоссовского;Лосиноостровский Парк ЖК
+ПИК;developer;https://www.cian.ru/sale/flat/278024396/;Москва;sale;flat;18;21;1;37.7;284100;10710570;Сокольники;Сокольнический Вал;Рижская;Сокольнический вал 1
+Абсолют Недвижимость;developer;https://www.cian.ru/sale/flat/285444062/;Москва;sale;flat;18;21;1;43.7;245601;10732773;;;Рассказовка;
+Level Group;developer;https://www.cian.ru/sale/flat/284889193/;Москва;sale;flat;16;24;1;38.1;281061;10708433;Покровское-Стрешнево;проезд Проектируемый № 3959;Тушинская;Апартаментный комплекс Level Стрешнево
+ОГРК;real_estate_agent;https://www.cian.ru/sale/flat/286759186/;Москва;sale;flat;7;16;1;37.1;288407;10699900;Теплый Стан;Теплый Стан;Тёплый Стан;
+Северная слобода;real_estate_agent;https://www.cian.ru/sale/flat/283581591/;Москва;sale;flat;8;12;1;38.0;281578;10700000;Бибирево;Шенкурский проезд;Алтуфьево;
+ПИК;developer;https://www.cian.ru/sale/flat/283572616/;Москва;sale;flat;19;33;1;38.9;279770;10883053;Рязанский;Михайлова;Окская;Михайловский парк
+ДСК-1;developer;https://www.cian.ru/sale/flat/281306482/;Москва;sale;flat;-1;-1;-1;10.0;1075000;10750000;Молжаниновский;Ленинградское шоссе;Водники;Первый Ленинградский
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/287249093/;Москва;sale;flat;3;10;1;39.5;272151;10750000;Солнцево;Юлиана Семенова;Солнцево;Лучи
+Светлана Молчанова;realtor;https://www.cian.ru/sale/flat/286864269/;Москва;sale;flat;5;17;1;38.8;278350;10800000;Бескудниковский;Бескудниковский бульвар;Яхромская;
+На Петровке;real_estate_agent;https://www.cian.ru/sale/flat/286753325/;Москва;sale;flat;2;6;1;19.7;550000;10835000;Таганский;2-й Гончарный переулок;Таганская;
+НДВ;real_estate_agent;https://www.cian.ru/sale/flat/285324734/;Москва;sale;flat;22;31;1;36.0;298611;10750000;Кунцево;№ 100 кв-л;Мякинино;Мякинино парк
+Tikhomirova Estate;real_estate_agent;https://www.cian.ru/sale/flat/284202619/;Москва;sale;flat;4;16;1;35.0;308571;10800000;Лефортово;Таможенный проезд;Площадь Ильича;
+Павел Коробов;realtor;https://www.cian.ru/sale/flat/285738014/;Москва;sale;flat;11;22;1;34.5;313043;10800000;;;Саларьево;
+Семь Высоток;real_estate_agent;https://www.cian.ru/sale/flat/287144878/;Москва;sale;flat;13;14;1;38.0;282894;10750000;Нагорный;Варшавское шоссе;Варшавская;
+Самолет Плюс Москва;real_estate_agent;https://www.cian.ru/sale/flat/284854058/;Москва;sale;flat;7;17;1;33.5;322388;10800000;Ярославский;Красная Сосна;ВДНХ;Настроение
+RED;real_estate_agent;https://www.cian.ru/sale/flat/285496474/;Москва;sale;flat;11;16;1;37.0;291891;10800000;;;Бунинская аллея;
+А101;developer;https://www.cian.ru/sale/flat/273052784/;Москва;sale;flat;14;15;1;35.7;305561;10908541;;;Филатов Луг;
+DOORS AGENCY;real_estate_agent;https://www.cian.ru/sale/flat/287102644/;Москва;sale;flat;6;15;1;45.0;242222;10900000;Бирюлево Восточное;6-я Радиальная;Царицыно;Царицыно
+Homeapp;real_estate_agent;https://www.cian.ru/sale/flat/284250674/;Москва;sale;flat;4;53;1;39.5;275949;10900000;Покровское-Стрешнево;Северо-Западный ао;Волоколамская;Сити Бэй ЖК
+Группа Родина;developer;https://www.cian.ru/sale/flat/285604901/;Москва;sale;flat;3;13;1;37.3;293361;10942400;;;Ольховая;
+LaRichesse;real_estate_agent;https://www.cian.ru/sale/flat/286528767/;Москва;sale;flat;7;9;1;30.2;362582;10950000;Донской;Загородное шоссе;Крымская;
+ID 102917246;homeowner;https://www.cian.ru/sale/flat/287262904/;Москва;sale;flat;14;15;1;34.5;315942;10900000;;;Коммунарка;
+Level Group;developer;https://www.cian.ru/sale/flat/287228165/;Москва;sale;flat;5;18;1;34.8;318499;11083794;Печатники;;Кожуховская;Левел Южнопортовая ЖК
+КОРТРОС;developer;https://www.cian.ru/sale/flat/277306556/;Москва;sale;flat;2;26;1;25.4;434000;11023600;Останкинский;;Алексеевская;АйЛав ЖК
+ФСК;developer;https://www.cian.ru/sale/flat/264327780/;Москва;sale;flat;-1;-1;-1;1.0;11022156;11022156;Покровское-Стрешнево;Северо-Западный ао;Спартак;Движение Тушино ЖК
+Группа Родина;developer;https://www.cian.ru/sale/flat/285604705/;Москва;sale;flat;12;13;1;36.9;298420;11011700;;;Ольховая;
+ID 100217662;homeowner;https://www.cian.ru/sale/flat/287354505/;Москва;sale;flat;11;16;1;37.2;295698;11000000;Бутырский;Яблочкова;Фонвизинская;
+ПИК;developer;https://www.cian.ru/sale/flat/285159401/;Москва;sale;flat;2;13;1;34.9;320674;11191557;Покровское-Стрешнево;Волоколамское шоссе;Спартак;Holland park
+ПИК;developer;https://www.cian.ru/sale/flat/281410287/;Москва;sale;flat;25;33;1;40.4;275285;11121516;Южное Медведково;;Бабушкинская;Полярная 25 ЖК
+Группа ЛСР;developer;https://www.cian.ru/sale/flat/282541919/;Москва;sale;flat;4;52;1;36.2;307400;11127880;Москворечье-Сабурово;;Москворечье;Вэйв ЖК
+ПИК;developer;https://www.cian.ru/sale/flat/281170385/;Москва;sale;flat;24;33;1;34.6;322633;11163123;Очаково-Матвеевское;;Озёрная;Мичуринский Парк ЖК
+ПИК;developer;https://www.cian.ru/sale/flat/278461910/;Москва;sale;flat;24;33;1;35.97;311281;11196813;Очаково-Матвеевское;;Аминьевская;Матвеевский Парк ЖК
+ПИК;developer;https://www.cian.ru/sale/flat/286092453/;Москва;sale;flat;7;33;1;33.9;329100;11156512;Очаково-Матвеевское;;Аминьевская;Большая Очаковская 2 ЖК
+ID 11130039;official_representative;https://www.cian.ru/sale/flat/284134642/;Москва;sale;flat;2;4;1;26.5;420000;11130000;Таганский;Земляной Вал;Таганская;
+ZIP Realty;real_estate_agent;https://www.cian.ru/sale/flat/286821648/;Москва;sale;flat;21;23;1;40.0;278750;11150000;Ново-Переделкино;Чоботовская;Новопеределкино;FoRest
+ПИК;developer;https://www.cian.ru/sale/flat/281943169/;Москва;sale;flat;12;38;1;32.7;344914;11278720;Южнопортовый;;Волгоградский проспект;Первый Дубровский ЖК
+OPN PARTNER;real_estate_agent;https://www.cian.ru/sale/flat/286208044/;Москва;sale;flat;6;10;1;40.08;281911;11299000;Можайский;Сколковское шоссе;Сетунь;Stellar City
+Монолит Столица;real_estate_agent;https://www.cian.ru/sale/flat/285997406/;Москва;sale;flat;12;23;1;42.6;264084;11250000;Измайлово;Сиреневый бульвар;Черкизовская;
+ПИК;developer;https://www.cian.ru/sale/flat/281170309/;Москва;sale;flat;16;33;1;36.5;308467;11259071;Очаково-Матвеевское;;Озёрная;Мичуринский Парк ЖК
+Хлебозавод 9;developer;https://www.cian.ru/sale/flat/278751000/;Москва;sale;flat;4;9;1;33.0;340000;11220000;Преображенское;Электрозаводская;Преображенская площадь;Апартаменты Берег Яузы
+do A.S.A.P.;real_estate_agent;https://www.cian.ru/sale/flat/260924618/;Москва;sale;flat;4;17;1;32.5;344615;11200000;Ярославский;Красная Сосна;Свиблово;Настроение
+А101;developer;https://www.cian.ru/sale/flat/273049727/;Москва;sale;flat;16;16;1;36.3;311846;11320046;;;Прокшино;
+Level Group;developer;https://www.cian.ru/sale/flat/285185280/;Москва;sale;flat;2;18;1;38.1;300361;11443758;Печатники;;Кожуховская;Левел Южнопортовая ЖК
+МИЭЛЬ;real_estate_agent;https://www.cian.ru/sale/flat/287251048/;Москва;sale;flat;2;19;1;37.3;304289;11350000;Коньково;Бутлерова;Калужская;
+EstateLiga;real_estate_agent;https://www.cian.ru/sale/flat/281386654/;Москва;sale;flat;4;9;1;32.0;359375;11500000;Пресненский;Причальный проезд;Шелепиха;
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/286150246/;Москва;sale;flat;1;9;1;31.7;362776;11500000;Марьина роща;Старомарьинское шоссе;Марьина роща;
