@@ -1,0 +1,103 @@
+services:
+  postgres:
+    image: postgres:15
+    container_name: team1_postgres
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: deliveries
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata_deliveries:/var/lib/postgresql/data
+      - ./sql/ddl:/docker-entrypoint-initdb.d
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d deliveries"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  airflow_postgres:
+    image: postgres:15
+    container_name: team1_airflow_postgres
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: airflow
+    ports:
+      - "5433:5432"
+    volumes:
+      - pgdata_airflow:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d airflow"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  pgadmin:
+    image: dpage/pgadmin4:latest
+    container_name: team1_pgadmin
+    environment:
+      PGADMIN_DEFAULT_EMAIL: admin@example.com
+      PGADMIN_DEFAULT_PASSWORD: admin
+    volumes:
+      - ./pgadmin/servers.json:/pgadmin4/servers.json
+    ports:
+      - "8080:80"
+    depends_on:
+      - postgres
+
+  airflow-init:
+    user: "0:0"
+    build:
+      context: .
+      dockerfile: docker/Dockerfile
+    container_name: team1_airflow_init
+    environment:
+      AIRFLOW__CORE__EXECUTOR: LocalExecutor
+      AIRFLOW__CORE__LOAD_EXAMPLES: "False"
+      AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://postgres:postgres@airflow_postgres:5432/airflow
+    volumes:
+      - ./airflow/dags:/opt/airflow/dags
+      - ./airflow/scripts:/opt/airflow/scripts
+      - ./data:/opt/airflow/data
+      - ./docker/postgresql.jar:/opt/airflow/postgresql.jar:ro
+    depends_on:
+      airflow_postgres:
+        condition: service_healthy
+    command: >
+      bash -c "
+      airflow db init &&
+      airflow users create --username admin --password admin --firstname Admin --lastname Admin --role Admin --email admin@example.com || true
+      "
+    restart: "no"
+
+  airflow:
+    user: "0:0"
+    build:
+      context: .
+      dockerfile: docker/Dockerfile
+    container_name: team1_airflow
+    environment:
+      AIRFLOW__CORE__EXECUTOR: LocalExecutor
+      AIRFLOW__CORE__LOAD_EXAMPLES: "False"
+      AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://postgres:postgres@airflow_postgres:5432/airflow
+    ports:
+      - "8081:8080"
+    volumes:
+      - ./airflow/dags:/opt/airflow/dags
+      - ./airflow/scripts:/opt/airflow/scripts
+      - ./data:/opt/airflow/data
+      - ./docker/postgresql.jar:/opt/airflow/postgresql.jar:ro
+    depends_on:
+      airflow-init:
+        condition: service_completed_successfully
+    command: >
+      bash -c "
+      airflow scheduler & airflow webserver
+      "
+    restart: unless-stopped
+
+volumes:
+  pgdata_deliveries:
+  pgdata_airflow:

@@ -1,0 +1,59 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+.env
+.env.*
+
+# Jupyter / notebooks
+.ipynb_checkpoints/
+
+# Airflow
+airflow/logs/
+airflow/plugins/__pycache__/
+airflow/dags/__pycache__/
+airflow/scripts/__pycache__/
+
+# Spark
+spark-warehouse/
+derby.log
+metastore_db/
+*.crc
+
+# Docker
+**/.docker/
+docker-compose.override.yml
+
+# Local postgres data folders (if ever used instead of volumes)
+pgdata*/
+postgres-data*/
+dbdata*/
+
+# Artifacts
+*.log
+*.tmp
+*.bak
+*.zip
+*.tar
+*.tar.gz
+
+# Reports exports
+*.png
+*.jpg
+*.jpeg
